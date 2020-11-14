@@ -1,0 +1,22 @@
+2020-10-31 01:29:29,737 INFO 19681 [egg-logrotator] app logger reload: got log-reload message
+2020-10-31 09:59:21,695 WARN 19681 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-10-31 09:59:21,808 WARN 19681 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-10-31 09:59:22,203 INFO 19681 [-/127.0.0.1/-/55ms SCHEDULE /__schedule?path=/Volumes/data/wsbb.web.server/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/var/folders/7_/17wrqpqj4j31m2tvvjp9ng_00000gn/T/egg-multipart-tmp/ssr-with-ts"
+2020-10-31 09:59:22,236 INFO 19681 [-/127.0.0.1/-/101ms SCHEDULE /__schedule?path=/Volumes/data/wsbb.web.server/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] end
+2020-10-31 10:43:38,727 WARN 19681 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-10-31 10:43:38,728 WARN 19681 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-10-31 11:14:43,165 WARN 19681 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-10-31 11:14:43,310 WARN 19681 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-10-31 14:15:17,047 WARN 19681 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-10-31 14:15:17,125 WARN 19681 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-10-31 16:44:04,555 WARN 19681 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-10-31 16:44:04,555 WARN 19681 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-10-31 17:17:28,527 WARN 19681 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-10-31 17:17:28,528 WARN 19681 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-10-31 21:15:31,166 WARN 19681 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-10-31 21:15:31,166 WARN 19681 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-10-31 21:18:14,162 WARN 19681 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-10-31 21:18:14,163 WARN 19681 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-11-01 00:00:18,256 INFO 19681 [egg-logrotator] clean all log before 31 days
+2020-11-01 00:00:19,251 INFO 19681 [egg-logrotator] broadcast log-reload
+2020-11-01 00:00:19,252 INFO 19681 [egg-logrotator] rotate files success by DayRotator, files ["/Volumes/data/wsbb.web.server/logs/ssr-with-ts/common-error.log -> /Volumes/data/wsbb.web.server/logs/ssr-with-ts/common-error.log.2020-10-31","/Volumes/data/wsbb.web.server/logs/ssr-with-ts/midway-web.log -> /Volumes/data/wsbb.web.server/logs/ssr-with-ts/midway-web.log.2020-10-31","/Volumes/data/wsbb.web.server/logs/ssr-with-ts/midway-core.log -> /Volumes/data/wsbb.web.server/logs/ssr-with-ts/midway-core.log.2020-10-31","/Volumes/data/wsbb.web.server/logs/ssr-with-ts/egg-schedule.log -> /Volumes/data/wsbb.web.server/logs/ssr-with-ts/egg-schedule.log.2020-10-31","/Volumes/data/wsbb.web.server/logs/ssr-with-ts/midway-agent.log -> /Volumes/data/wsbb.web.server/logs/ssr-with-ts/midway-agent.log.2020-10-31"]

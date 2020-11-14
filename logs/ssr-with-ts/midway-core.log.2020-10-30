@@ -1,0 +1,1459 @@
+2020-10-28 21:29:03,504 INFO 16779 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 21:29:03,533 INFO 16779 [egg-multipart] stream mode enable
+2020-10-28 21:29:03,600 INFO 16779 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 21:29:03,601 INFO 16779 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 21:29:03,603 INFO 16779 [egg-security] use csrf middleware
+2020-10-28 21:29:03,604 INFO 16779 [egg-security] use methodnoallow middleware
+2020-10-28 21:29:03,605 INFO 16779 [egg-security] use noopen middleware
+2020-10-28 21:29:03,606 INFO 16779 [egg-security] use nosniff middleware
+2020-10-28 21:29:03,606 INFO 16779 [egg-security] use xssProtection middleware
+2020-10-28 21:29:03,607 INFO 16779 [egg-security] use xframe middleware
+2020-10-28 21:29:03,607 INFO 16779 [egg-security] use dta middleware
+2020-10-28 21:29:03,607 INFO 16779 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 21:29:03,622 INFO 16779 [egg:core] dump config after load, 8ms
+2020-10-28 21:29:03,636 INFO 16779 [egg-watcher:application] watcher start success
+2020-10-28 21:29:03,643 INFO 16779 [egg:core] dump config after ready, 6ms
+2020-10-28 21:39:03,046 INFO 16945 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 21:39:03,070 INFO 16945 [egg-multipart] stream mode enable
+2020-10-28 21:39:03,126 INFO 16945 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 21:39:03,127 INFO 16945 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 21:39:03,128 INFO 16945 [egg-security] use csrf middleware
+2020-10-28 21:39:03,129 INFO 16945 [egg-security] use methodnoallow middleware
+2020-10-28 21:39:03,129 INFO 16945 [egg-security] use noopen middleware
+2020-10-28 21:39:03,130 INFO 16945 [egg-security] use nosniff middleware
+2020-10-28 21:39:03,130 INFO 16945 [egg-security] use xssProtection middleware
+2020-10-28 21:39:03,131 INFO 16945 [egg-security] use xframe middleware
+2020-10-28 21:39:03,131 INFO 16945 [egg-security] use dta middleware
+2020-10-28 21:39:03,131 INFO 16945 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 21:39:03,141 INFO 16945 [egg:core] dump config after load, 6ms
+2020-10-28 21:39:03,156 INFO 16945 [egg-watcher:application] watcher start success
+2020-10-28 21:39:03,163 INFO 16945 [egg:core] dump config after ready, 5ms
+2020-10-28 21:43:42,177 INFO 16969 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 21:43:42,198 INFO 16969 [egg-multipart] stream mode enable
+2020-10-28 21:43:42,247 INFO 16969 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 21:43:42,247 INFO 16969 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 21:43:42,249 INFO 16969 [egg-security] use csrf middleware
+2020-10-28 21:43:42,249 INFO 16969 [egg-security] use methodnoallow middleware
+2020-10-28 21:43:42,250 INFO 16969 [egg-security] use noopen middleware
+2020-10-28 21:43:42,250 INFO 16969 [egg-security] use nosniff middleware
+2020-10-28 21:43:42,251 INFO 16969 [egg-security] use xssProtection middleware
+2020-10-28 21:43:42,251 INFO 16969 [egg-security] use xframe middleware
+2020-10-28 21:43:42,251 INFO 16969 [egg-security] use dta middleware
+2020-10-28 21:43:42,251 INFO 16969 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 21:43:42,261 INFO 16969 [egg:core] dump config after load, 6ms
+2020-10-28 21:43:42,271 INFO 16969 [egg-watcher:application] watcher start success
+2020-10-28 21:43:42,278 INFO 16969 [egg:core] dump config after ready, 5ms
+2020-10-28 21:48:38,477 INFO 16997 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 21:48:38,500 INFO 16997 [egg-multipart] stream mode enable
+2020-10-28 21:48:38,550 INFO 16997 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 21:48:38,551 INFO 16997 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 21:48:38,552 INFO 16997 [egg-security] use csrf middleware
+2020-10-28 21:48:38,553 INFO 16997 [egg-security] use methodnoallow middleware
+2020-10-28 21:48:38,553 INFO 16997 [egg-security] use noopen middleware
+2020-10-28 21:48:38,554 INFO 16997 [egg-security] use nosniff middleware
+2020-10-28 21:48:38,554 INFO 16997 [egg-security] use xssProtection middleware
+2020-10-28 21:48:38,554 INFO 16997 [egg-security] use xframe middleware
+2020-10-28 21:48:38,555 INFO 16997 [egg-security] use dta middleware
+2020-10-28 21:48:38,555 INFO 16997 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 21:48:38,564 INFO 16997 [egg:core] dump config after load, 5ms
+2020-10-28 21:48:38,574 INFO 16997 [egg-watcher:application] watcher start success
+2020-10-28 21:48:38,581 INFO 16997 [egg:core] dump config after ready, 5ms
+2020-10-28 21:50:48,867 INFO 17004 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 21:50:48,888 INFO 17004 [egg-multipart] stream mode enable
+2020-10-28 21:50:48,933 INFO 17004 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 21:50:48,933 INFO 17004 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 21:50:48,935 INFO 17004 [egg-security] use csrf middleware
+2020-10-28 21:50:48,935 INFO 17004 [egg-security] use methodnoallow middleware
+2020-10-28 21:50:48,936 INFO 17004 [egg-security] use noopen middleware
+2020-10-28 21:50:48,936 INFO 17004 [egg-security] use nosniff middleware
+2020-10-28 21:50:48,936 INFO 17004 [egg-security] use xssProtection middleware
+2020-10-28 21:50:48,937 INFO 17004 [egg-security] use xframe middleware
+2020-10-28 21:50:48,937 INFO 17004 [egg-security] use dta middleware
+2020-10-28 21:50:48,937 INFO 17004 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 21:50:48,946 INFO 17004 [egg:core] dump config after load, 5ms
+2020-10-28 21:50:48,955 INFO 17004 [egg-watcher:application] watcher start success
+2020-10-28 21:50:48,962 INFO 17004 [egg:core] dump config after ready, 5ms
+2020-10-28 22:03:41,852 INFO 17082 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:03:41,875 INFO 17082 [egg-multipart] stream mode enable
+2020-10-28 22:03:41,927 INFO 17082 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:03:41,927 INFO 17082 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:03:41,929 INFO 17082 [egg-security] use csrf middleware
+2020-10-28 22:03:41,929 INFO 17082 [egg-security] use methodnoallow middleware
+2020-10-28 22:03:41,930 INFO 17082 [egg-security] use noopen middleware
+2020-10-28 22:03:41,930 INFO 17082 [egg-security] use nosniff middleware
+2020-10-28 22:03:41,930 INFO 17082 [egg-security] use xssProtection middleware
+2020-10-28 22:03:41,931 INFO 17082 [egg-security] use xframe middleware
+2020-10-28 22:03:41,931 INFO 17082 [egg-security] use dta middleware
+2020-10-28 22:03:41,931 INFO 17082 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:03:41,942 INFO 17082 [egg:core] dump config after load, 7ms
+2020-10-28 22:03:41,954 INFO 17082 [egg-watcher:application] watcher start success
+2020-10-28 22:03:41,961 INFO 17082 [egg:core] dump config after ready, 6ms
+2020-10-28 22:05:51,785 INFO 17097 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:05:51,808 INFO 17097 [egg-multipart] stream mode enable
+2020-10-28 22:05:51,858 INFO 17097 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:05:51,858 INFO 17097 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:05:51,860 INFO 17097 [egg-security] use csrf middleware
+2020-10-28 22:05:51,860 INFO 17097 [egg-security] use methodnoallow middleware
+2020-10-28 22:05:51,861 INFO 17097 [egg-security] use noopen middleware
+2020-10-28 22:05:51,861 INFO 17097 [egg-security] use nosniff middleware
+2020-10-28 22:05:51,862 INFO 17097 [egg-security] use xssProtection middleware
+2020-10-28 22:05:51,862 INFO 17097 [egg-security] use xframe middleware
+2020-10-28 22:05:51,862 INFO 17097 [egg-security] use dta middleware
+2020-10-28 22:05:51,862 INFO 17097 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:05:51,873 INFO 17097 [egg:core] dump config after load, 7ms
+2020-10-28 22:05:51,882 INFO 17097 [egg-watcher:application] watcher start success
+2020-10-28 22:05:51,894 INFO 17097 [egg:core] dump config after ready, 10ms
+2020-10-28 22:06:49,521 INFO 17100 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:06:49,542 INFO 17100 [egg-multipart] stream mode enable
+2020-10-28 22:06:49,586 INFO 17100 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:06:49,586 INFO 17100 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:06:49,588 INFO 17100 [egg-security] use csrf middleware
+2020-10-28 22:06:49,588 INFO 17100 [egg-security] use methodnoallow middleware
+2020-10-28 22:06:49,589 INFO 17100 [egg-security] use noopen middleware
+2020-10-28 22:06:49,589 INFO 17100 [egg-security] use nosniff middleware
+2020-10-28 22:06:49,589 INFO 17100 [egg-security] use xssProtection middleware
+2020-10-28 22:06:49,590 INFO 17100 [egg-security] use xframe middleware
+2020-10-28 22:06:49,590 INFO 17100 [egg-security] use dta middleware
+2020-10-28 22:06:49,590 INFO 17100 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:06:49,600 INFO 17100 [egg:core] dump config after load, 5ms
+2020-10-28 22:06:49,609 INFO 17100 [egg-watcher:application] watcher start success
+2020-10-28 22:06:49,616 INFO 17100 [egg:core] dump config after ready, 5ms
+2020-10-28 22:07:05,052 INFO 17101 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:07:05,075 INFO 17101 [egg-multipart] stream mode enable
+2020-10-28 22:07:05,119 INFO 17101 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:07:05,120 INFO 17101 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:07:05,122 INFO 17101 [egg-security] use csrf middleware
+2020-10-28 22:07:05,122 INFO 17101 [egg-security] use methodnoallow middleware
+2020-10-28 22:07:05,123 INFO 17101 [egg-security] use noopen middleware
+2020-10-28 22:07:05,123 INFO 17101 [egg-security] use nosniff middleware
+2020-10-28 22:07:05,123 INFO 17101 [egg-security] use xssProtection middleware
+2020-10-28 22:07:05,124 INFO 17101 [egg-security] use xframe middleware
+2020-10-28 22:07:05,124 INFO 17101 [egg-security] use dta middleware
+2020-10-28 22:07:05,124 INFO 17101 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:07:05,134 INFO 17101 [egg:core] dump config after load, 6ms
+2020-10-28 22:07:05,143 INFO 17101 [egg-watcher:application] watcher start success
+2020-10-28 22:07:05,151 INFO 17101 [egg:core] dump config after ready, 6ms
+2020-10-28 22:08:14,390 INFO 17108 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:08:14,412 INFO 17108 [egg-multipart] stream mode enable
+2020-10-28 22:08:14,458 INFO 17108 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:08:14,459 INFO 17108 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:08:14,460 INFO 17108 [egg-security] use csrf middleware
+2020-10-28 22:08:14,461 INFO 17108 [egg-security] use methodnoallow middleware
+2020-10-28 22:08:14,461 INFO 17108 [egg-security] use noopen middleware
+2020-10-28 22:08:14,461 INFO 17108 [egg-security] use nosniff middleware
+2020-10-28 22:08:14,462 INFO 17108 [egg-security] use xssProtection middleware
+2020-10-28 22:08:14,462 INFO 17108 [egg-security] use xframe middleware
+2020-10-28 22:08:14,462 INFO 17108 [egg-security] use dta middleware
+2020-10-28 22:08:14,462 INFO 17108 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:08:14,472 INFO 17108 [egg:core] dump config after load, 6ms
+2020-10-28 22:08:14,482 INFO 17108 [egg-watcher:application] watcher start success
+2020-10-28 22:08:14,489 INFO 17108 [egg:core] dump config after ready, 5ms
+2020-10-28 22:11:01,185 INFO 17127 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:11:01,209 INFO 17127 [egg-multipart] stream mode enable
+2020-10-28 22:11:01,261 INFO 17127 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:11:01,262 INFO 17127 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:11:01,263 INFO 17127 [egg-security] use csrf middleware
+2020-10-28 22:11:01,264 INFO 17127 [egg-security] use methodnoallow middleware
+2020-10-28 22:11:01,264 INFO 17127 [egg-security] use noopen middleware
+2020-10-28 22:11:01,265 INFO 17127 [egg-security] use nosniff middleware
+2020-10-28 22:11:01,265 INFO 17127 [egg-security] use xssProtection middleware
+2020-10-28 22:11:01,265 INFO 17127 [egg-security] use xframe middleware
+2020-10-28 22:11:01,266 INFO 17127 [egg-security] use dta middleware
+2020-10-28 22:11:01,266 INFO 17127 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:11:01,276 INFO 17127 [egg:core] dump config after load, 6ms
+2020-10-28 22:11:01,286 INFO 17127 [egg-watcher:application] watcher start success
+2020-10-28 22:11:01,292 INFO 17127 [egg:core] dump config after ready, 5ms
+2020-10-28 22:11:08,049 INFO 17131 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:11:08,071 INFO 17131 [egg-multipart] stream mode enable
+2020-10-28 22:11:08,121 INFO 17131 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:11:08,122 INFO 17131 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:11:08,123 INFO 17131 [egg-security] use csrf middleware
+2020-10-28 22:11:08,124 INFO 17131 [egg-security] use methodnoallow middleware
+2020-10-28 22:11:08,124 INFO 17131 [egg-security] use noopen middleware
+2020-10-28 22:11:08,125 INFO 17131 [egg-security] use nosniff middleware
+2020-10-28 22:11:08,125 INFO 17131 [egg-security] use xssProtection middleware
+2020-10-28 22:11:08,125 INFO 17131 [egg-security] use xframe middleware
+2020-10-28 22:11:08,125 INFO 17131 [egg-security] use dta middleware
+2020-10-28 22:11:08,126 INFO 17131 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:11:08,136 INFO 17131 [egg:core] dump config after load, 7ms
+2020-10-28 22:11:08,145 INFO 17131 [egg-watcher:application] watcher start success
+2020-10-28 22:11:08,157 INFO 17131 [egg:core] dump config after ready, 10ms
+2020-10-28 22:13:00,315 INFO 17136 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:13:00,338 INFO 17136 [egg-multipart] stream mode enable
+2020-10-28 22:13:00,386 INFO 17136 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:13:00,387 INFO 17136 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:13:00,388 INFO 17136 [egg-security] use csrf middleware
+2020-10-28 22:13:00,389 INFO 17136 [egg-security] use methodnoallow middleware
+2020-10-28 22:13:00,389 INFO 17136 [egg-security] use noopen middleware
+2020-10-28 22:13:00,390 INFO 17136 [egg-security] use nosniff middleware
+2020-10-28 22:13:00,390 INFO 17136 [egg-security] use xssProtection middleware
+2020-10-28 22:13:00,390 INFO 17136 [egg-security] use xframe middleware
+2020-10-28 22:13:00,390 INFO 17136 [egg-security] use dta middleware
+2020-10-28 22:13:00,391 INFO 17136 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:13:00,400 INFO 17136 [egg:core] dump config after load, 6ms
+2020-10-28 22:13:00,411 INFO 17136 [egg-watcher:application] watcher start success
+2020-10-28 22:13:00,417 INFO 17136 [egg:core] dump config after ready, 5ms
+2020-10-28 22:13:16,634 INFO 17140 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:13:16,657 INFO 17140 [egg-multipart] stream mode enable
+2020-10-28 22:13:16,713 INFO 17140 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:13:16,713 INFO 17140 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:13:16,715 INFO 17140 [egg-security] use csrf middleware
+2020-10-28 22:13:16,715 INFO 17140 [egg-security] use methodnoallow middleware
+2020-10-28 22:13:16,716 INFO 17140 [egg-security] use noopen middleware
+2020-10-28 22:13:16,716 INFO 17140 [egg-security] use nosniff middleware
+2020-10-28 22:13:16,716 INFO 17140 [egg-security] use xssProtection middleware
+2020-10-28 22:13:16,717 INFO 17140 [egg-security] use xframe middleware
+2020-10-28 22:13:16,717 INFO 17140 [egg-security] use dta middleware
+2020-10-28 22:13:16,717 INFO 17140 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:13:16,727 INFO 17140 [egg:core] dump config after load, 6ms
+2020-10-28 22:13:16,737 INFO 17140 [egg-watcher:application] watcher start success
+2020-10-28 22:13:16,744 INFO 17140 [egg:core] dump config after ready, 6ms
+2020-10-28 22:15:35,445 INFO 17215 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:15:35,466 INFO 17215 [egg-multipart] stream mode enable
+2020-10-28 22:15:35,512 INFO 17215 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:15:35,512 INFO 17215 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:15:35,514 INFO 17215 [egg-security] use csrf middleware
+2020-10-28 22:15:35,514 INFO 17215 [egg-security] use methodnoallow middleware
+2020-10-28 22:15:35,514 INFO 17215 [egg-security] use noopen middleware
+2020-10-28 22:15:35,515 INFO 17215 [egg-security] use nosniff middleware
+2020-10-28 22:15:35,515 INFO 17215 [egg-security] use xssProtection middleware
+2020-10-28 22:15:35,515 INFO 17215 [egg-security] use xframe middleware
+2020-10-28 22:15:35,516 INFO 17215 [egg-security] use dta middleware
+2020-10-28 22:15:35,516 INFO 17215 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:15:35,526 INFO 17215 [egg:core] dump config after load, 6ms
+2020-10-28 22:15:35,537 INFO 17215 [egg-watcher:application] watcher start success
+2020-10-28 22:15:35,548 INFO 17215 [egg:core] dump config after ready, 9ms
+2020-10-28 22:17:17,484 INFO 17228 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:17:17,508 INFO 17228 [egg-multipart] stream mode enable
+2020-10-28 22:17:17,557 INFO 17228 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:17:17,558 INFO 17228 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:17:17,559 INFO 17228 [egg-security] use csrf middleware
+2020-10-28 22:17:17,560 INFO 17228 [egg-security] use methodnoallow middleware
+2020-10-28 22:17:17,560 INFO 17228 [egg-security] use noopen middleware
+2020-10-28 22:17:17,561 INFO 17228 [egg-security] use nosniff middleware
+2020-10-28 22:17:17,561 INFO 17228 [egg-security] use xssProtection middleware
+2020-10-28 22:17:17,562 INFO 17228 [egg-security] use xframe middleware
+2020-10-28 22:17:17,562 INFO 17228 [egg-security] use dta middleware
+2020-10-28 22:17:17,562 INFO 17228 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:17:17,572 INFO 17228 [egg:core] dump config after load, 6ms
+2020-10-28 22:17:17,581 INFO 17228 [egg-watcher:application] watcher start success
+2020-10-28 22:17:17,594 INFO 17228 [egg:core] dump config after ready, 11ms
+2020-10-28 22:19:10,966 INFO 17233 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:19:10,989 INFO 17233 [egg-multipart] stream mode enable
+2020-10-28 22:19:11,044 INFO 17233 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:19:11,044 INFO 17233 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:19:11,046 INFO 17233 [egg-security] use csrf middleware
+2020-10-28 22:19:11,047 INFO 17233 [egg-security] use methodnoallow middleware
+2020-10-28 22:19:11,047 INFO 17233 [egg-security] use noopen middleware
+2020-10-28 22:19:11,047 INFO 17233 [egg-security] use nosniff middleware
+2020-10-28 22:19:11,048 INFO 17233 [egg-security] use xssProtection middleware
+2020-10-28 22:19:11,048 INFO 17233 [egg-security] use xframe middleware
+2020-10-28 22:19:11,048 INFO 17233 [egg-security] use dta middleware
+2020-10-28 22:19:11,048 INFO 17233 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:19:11,057 INFO 17233 [egg:core] dump config after load, 4ms
+2020-10-28 22:19:11,069 INFO 17233 [egg-watcher:application] watcher start success
+2020-10-28 22:19:11,076 INFO 17233 [egg:core] dump config after ready, 6ms
+2020-10-28 22:26:23,655 INFO 17264 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:26:23,676 INFO 17264 [egg-multipart] stream mode enable
+2020-10-28 22:26:23,725 INFO 17264 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:26:23,725 INFO 17264 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:26:23,727 INFO 17264 [egg-security] use csrf middleware
+2020-10-28 22:26:23,727 INFO 17264 [egg-security] use methodnoallow middleware
+2020-10-28 22:26:23,727 INFO 17264 [egg-security] use noopen middleware
+2020-10-28 22:26:23,728 INFO 17264 [egg-security] use nosniff middleware
+2020-10-28 22:26:23,728 INFO 17264 [egg-security] use xssProtection middleware
+2020-10-28 22:26:23,728 INFO 17264 [egg-security] use xframe middleware
+2020-10-28 22:26:23,729 INFO 17264 [egg-security] use dta middleware
+2020-10-28 22:26:23,729 INFO 17264 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:26:23,738 INFO 17264 [egg:core] dump config after load, 6ms
+2020-10-28 22:26:23,746 INFO 17264 [egg-watcher:application] watcher start success
+2020-10-28 22:26:23,759 INFO 17264 [egg:core] dump config after ready, 10ms
+2020-10-28 22:27:13,009 INFO 17266 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:27:13,037 INFO 17266 [egg-multipart] stream mode enable
+2020-10-28 22:27:13,099 INFO 17266 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:27:13,100 INFO 17266 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:27:13,101 INFO 17266 [egg-security] use csrf middleware
+2020-10-28 22:27:13,102 INFO 17266 [egg-security] use methodnoallow middleware
+2020-10-28 22:27:13,102 INFO 17266 [egg-security] use noopen middleware
+2020-10-28 22:27:13,103 INFO 17266 [egg-security] use nosniff middleware
+2020-10-28 22:27:13,103 INFO 17266 [egg-security] use xssProtection middleware
+2020-10-28 22:27:13,104 INFO 17266 [egg-security] use xframe middleware
+2020-10-28 22:27:13,104 INFO 17266 [egg-security] use dta middleware
+2020-10-28 22:27:13,104 INFO 17266 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:27:13,115 INFO 17266 [egg:core] dump config after load, 6ms
+2020-10-28 22:27:13,128 INFO 17266 [egg-watcher:application] watcher start success
+2020-10-28 22:27:13,135 INFO 17266 [egg:core] dump config after ready, 5ms
+2020-10-28 22:31:05,880 INFO 17322 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:31:05,904 INFO 17322 [egg-multipart] stream mode enable
+2020-10-28 22:31:05,958 INFO 17322 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:31:05,958 INFO 17322 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:31:05,960 INFO 17322 [egg-security] use csrf middleware
+2020-10-28 22:31:05,961 INFO 17322 [egg-security] use methodnoallow middleware
+2020-10-28 22:31:05,961 INFO 17322 [egg-security] use noopen middleware
+2020-10-28 22:31:05,961 INFO 17322 [egg-security] use nosniff middleware
+2020-10-28 22:31:05,962 INFO 17322 [egg-security] use xssProtection middleware
+2020-10-28 22:31:05,962 INFO 17322 [egg-security] use xframe middleware
+2020-10-28 22:31:05,962 INFO 17322 [egg-security] use dta middleware
+2020-10-28 22:31:05,962 INFO 17322 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:31:05,973 INFO 17322 [egg:core] dump config after load, 6ms
+2020-10-28 22:31:05,988 INFO 17322 [egg-watcher:application] watcher start success
+2020-10-28 22:31:06,001 INFO 17322 [egg:core] dump config after ready, 10ms
+2020-10-28 22:31:36,757 INFO 17325 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:31:36,781 INFO 17325 [egg-multipart] stream mode enable
+2020-10-28 22:31:36,833 INFO 17325 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:31:36,833 INFO 17325 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:31:36,835 INFO 17325 [egg-security] use csrf middleware
+2020-10-28 22:31:36,835 INFO 17325 [egg-security] use methodnoallow middleware
+2020-10-28 22:31:36,835 INFO 17325 [egg-security] use noopen middleware
+2020-10-28 22:31:36,836 INFO 17325 [egg-security] use nosniff middleware
+2020-10-28 22:31:36,836 INFO 17325 [egg-security] use xssProtection middleware
+2020-10-28 22:31:36,836 INFO 17325 [egg-security] use xframe middleware
+2020-10-28 22:31:36,837 INFO 17325 [egg-security] use dta middleware
+2020-10-28 22:31:36,837 INFO 17325 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:31:36,847 INFO 17325 [egg:core] dump config after load, 6ms
+2020-10-28 22:31:36,856 INFO 17325 [egg-watcher:application] watcher start success
+2020-10-28 22:31:36,863 INFO 17325 [egg:core] dump config after ready, 5ms
+2020-10-28 22:32:04,514 INFO 17329 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:32:04,535 INFO 17329 [egg-multipart] stream mode enable
+2020-10-28 22:32:04,583 INFO 17329 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:32:04,584 INFO 17329 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:32:04,585 INFO 17329 [egg-security] use csrf middleware
+2020-10-28 22:32:04,586 INFO 17329 [egg-security] use methodnoallow middleware
+2020-10-28 22:32:04,586 INFO 17329 [egg-security] use noopen middleware
+2020-10-28 22:32:04,587 INFO 17329 [egg-security] use nosniff middleware
+2020-10-28 22:32:04,587 INFO 17329 [egg-security] use xssProtection middleware
+2020-10-28 22:32:04,588 INFO 17329 [egg-security] use xframe middleware
+2020-10-28 22:32:04,588 INFO 17329 [egg-security] use dta middleware
+2020-10-28 22:32:04,588 INFO 17329 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:32:04,598 INFO 17329 [egg:core] dump config after load, 6ms
+2020-10-28 22:32:04,607 INFO 17329 [egg-watcher:application] watcher start success
+2020-10-28 22:32:04,613 INFO 17329 [egg:core] dump config after ready, 5ms
+2020-10-28 22:34:34,909 INFO 17350 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:34:34,930 INFO 17350 [egg-multipart] stream mode enable
+2020-10-28 22:34:34,976 INFO 17350 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:34:34,976 INFO 17350 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:34:34,978 INFO 17350 [egg-security] use csrf middleware
+2020-10-28 22:34:34,978 INFO 17350 [egg-security] use methodnoallow middleware
+2020-10-28 22:34:34,978 INFO 17350 [egg-security] use noopen middleware
+2020-10-28 22:34:34,979 INFO 17350 [egg-security] use nosniff middleware
+2020-10-28 22:34:34,979 INFO 17350 [egg-security] use xssProtection middleware
+2020-10-28 22:34:34,979 INFO 17350 [egg-security] use xframe middleware
+2020-10-28 22:34:34,980 INFO 17350 [egg-security] use dta middleware
+2020-10-28 22:34:34,980 INFO 17350 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:34:34,989 INFO 17350 [egg:core] dump config after load, 4ms
+2020-10-28 22:34:34,998 INFO 17350 [egg-watcher:application] watcher start success
+2020-10-28 22:34:35,004 INFO 17350 [egg:core] dump config after ready, 4ms
+2020-10-28 22:35:23,776 INFO 17352 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:35:23,800 INFO 17352 [egg-multipart] stream mode enable
+2020-10-28 22:35:23,850 INFO 17352 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:35:23,850 INFO 17352 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:35:23,852 INFO 17352 [egg-security] use csrf middleware
+2020-10-28 22:35:23,852 INFO 17352 [egg-security] use methodnoallow middleware
+2020-10-28 22:35:23,853 INFO 17352 [egg-security] use noopen middleware
+2020-10-28 22:35:23,853 INFO 17352 [egg-security] use nosniff middleware
+2020-10-28 22:35:23,854 INFO 17352 [egg-security] use xssProtection middleware
+2020-10-28 22:35:23,854 INFO 17352 [egg-security] use xframe middleware
+2020-10-28 22:35:23,854 INFO 17352 [egg-security] use dta middleware
+2020-10-28 22:35:23,854 INFO 17352 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:35:23,864 INFO 17352 [egg:core] dump config after load, 5ms
+2020-10-28 22:35:23,874 INFO 17352 [egg-watcher:application] watcher start success
+2020-10-28 22:35:23,880 INFO 17352 [egg:core] dump config after ready, 5ms
+2020-10-28 22:43:08,557 INFO 17393 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:43:08,578 INFO 17393 [egg-multipart] stream mode enable
+2020-10-28 22:43:08,629 INFO 17393 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:43:08,629 INFO 17393 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:43:08,631 INFO 17393 [egg-security] use csrf middleware
+2020-10-28 22:43:08,631 INFO 17393 [egg-security] use methodnoallow middleware
+2020-10-28 22:43:08,632 INFO 17393 [egg-security] use noopen middleware
+2020-10-28 22:43:08,632 INFO 17393 [egg-security] use nosniff middleware
+2020-10-28 22:43:08,633 INFO 17393 [egg-security] use xssProtection middleware
+2020-10-28 22:43:08,633 INFO 17393 [egg-security] use xframe middleware
+2020-10-28 22:43:08,633 INFO 17393 [egg-security] use dta middleware
+2020-10-28 22:43:08,633 INFO 17393 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:43:08,645 INFO 17393 [egg:core] dump config after load, 7ms
+2020-10-28 22:43:08,654 INFO 17393 [egg-watcher:application] watcher start success
+2020-10-28 22:43:08,662 INFO 17393 [egg:core] dump config after ready, 5ms
+2020-10-28 22:43:21,403 INFO 17395 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:43:21,425 INFO 17395 [egg-multipart] stream mode enable
+2020-10-28 22:43:21,476 INFO 17395 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:43:21,477 INFO 17395 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:43:21,478 INFO 17395 [egg-security] use csrf middleware
+2020-10-28 22:43:21,479 INFO 17395 [egg-security] use methodnoallow middleware
+2020-10-28 22:43:21,479 INFO 17395 [egg-security] use noopen middleware
+2020-10-28 22:43:21,480 INFO 17395 [egg-security] use nosniff middleware
+2020-10-28 22:43:21,480 INFO 17395 [egg-security] use xssProtection middleware
+2020-10-28 22:43:21,481 INFO 17395 [egg-security] use xframe middleware
+2020-10-28 22:43:21,481 INFO 17395 [egg-security] use dta middleware
+2020-10-28 22:43:21,481 INFO 17395 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:43:21,492 INFO 17395 [egg:core] dump config after load, 7ms
+2020-10-28 22:43:21,501 INFO 17395 [egg-watcher:application] watcher start success
+2020-10-28 22:43:21,515 INFO 17395 [egg:core] dump config after ready, 12ms
+2020-10-28 22:43:29,518 INFO 17396 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:43:29,541 INFO 17396 [egg-multipart] stream mode enable
+2020-10-28 22:43:29,591 INFO 17396 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:43:29,591 INFO 17396 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:43:29,593 INFO 17396 [egg-security] use csrf middleware
+2020-10-28 22:43:29,593 INFO 17396 [egg-security] use methodnoallow middleware
+2020-10-28 22:43:29,594 INFO 17396 [egg-security] use noopen middleware
+2020-10-28 22:43:29,594 INFO 17396 [egg-security] use nosniff middleware
+2020-10-28 22:43:29,594 INFO 17396 [egg-security] use xssProtection middleware
+2020-10-28 22:43:29,595 INFO 17396 [egg-security] use xframe middleware
+2020-10-28 22:43:29,595 INFO 17396 [egg-security] use dta middleware
+2020-10-28 22:43:29,595 INFO 17396 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:43:29,606 INFO 17396 [egg:core] dump config after load, 7ms
+2020-10-28 22:43:29,618 INFO 17396 [egg-watcher:application] watcher start success
+2020-10-28 22:43:29,625 INFO 17396 [egg:core] dump config after ready, 5ms
+2020-10-28 22:44:05,182 INFO 17401 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:44:05,204 INFO 17401 [egg-multipart] stream mode enable
+2020-10-28 22:44:05,260 INFO 17401 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:44:05,260 INFO 17401 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:44:05,262 INFO 17401 [egg-security] use csrf middleware
+2020-10-28 22:44:05,262 INFO 17401 [egg-security] use methodnoallow middleware
+2020-10-28 22:44:05,263 INFO 17401 [egg-security] use noopen middleware
+2020-10-28 22:44:05,263 INFO 17401 [egg-security] use nosniff middleware
+2020-10-28 22:44:05,263 INFO 17401 [egg-security] use xssProtection middleware
+2020-10-28 22:44:05,264 INFO 17401 [egg-security] use xframe middleware
+2020-10-28 22:44:05,264 INFO 17401 [egg-security] use dta middleware
+2020-10-28 22:44:05,264 INFO 17401 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:44:05,275 INFO 17401 [egg:core] dump config after load, 7ms
+2020-10-28 22:44:05,285 INFO 17401 [egg-watcher:application] watcher start success
+2020-10-28 22:44:05,296 INFO 17401 [egg:core] dump config after ready, 9ms
+2020-10-28 22:47:18,521 INFO 17416 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:47:18,543 INFO 17416 [egg-multipart] stream mode enable
+2020-10-28 22:47:18,594 INFO 17416 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:47:18,595 INFO 17416 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:47:18,597 INFO 17416 [egg-security] use csrf middleware
+2020-10-28 22:47:18,597 INFO 17416 [egg-security] use methodnoallow middleware
+2020-10-28 22:47:18,597 INFO 17416 [egg-security] use noopen middleware
+2020-10-28 22:47:18,598 INFO 17416 [egg-security] use nosniff middleware
+2020-10-28 22:47:18,598 INFO 17416 [egg-security] use xssProtection middleware
+2020-10-28 22:47:18,599 INFO 17416 [egg-security] use xframe middleware
+2020-10-28 22:47:18,599 INFO 17416 [egg-security] use dta middleware
+2020-10-28 22:47:18,599 INFO 17416 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:47:18,610 INFO 17416 [egg:core] dump config after load, 6ms
+2020-10-28 22:47:18,619 INFO 17416 [egg-watcher:application] watcher start success
+2020-10-28 22:47:18,631 INFO 17416 [egg:core] dump config after ready, 10ms
+2020-10-28 22:47:38,600 INFO 17418 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:47:38,626 INFO 17418 [egg-multipart] stream mode enable
+2020-10-28 22:47:38,682 INFO 17418 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:47:38,682 INFO 17418 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:47:38,683 INFO 17418 [egg-security] use csrf middleware
+2020-10-28 22:47:38,684 INFO 17418 [egg-security] use methodnoallow middleware
+2020-10-28 22:47:38,685 INFO 17418 [egg-security] use noopen middleware
+2020-10-28 22:47:38,685 INFO 17418 [egg-security] use nosniff middleware
+2020-10-28 22:47:38,686 INFO 17418 [egg-security] use xssProtection middleware
+2020-10-28 22:47:38,686 INFO 17418 [egg-security] use xframe middleware
+2020-10-28 22:47:38,686 INFO 17418 [egg-security] use dta middleware
+2020-10-28 22:47:38,686 INFO 17418 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:47:38,697 INFO 17418 [egg:core] dump config after load, 6ms
+2020-10-28 22:47:38,706 INFO 17418 [egg-watcher:application] watcher start success
+2020-10-28 22:47:38,720 INFO 17418 [egg:core] dump config after ready, 11ms
+2020-10-28 22:50:10,155 INFO 17434 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:50:10,181 INFO 17434 [egg-multipart] stream mode enable
+2020-10-28 22:50:10,242 INFO 17434 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:50:10,243 INFO 17434 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:50:10,244 INFO 17434 [egg-security] use csrf middleware
+2020-10-28 22:50:10,245 INFO 17434 [egg-security] use methodnoallow middleware
+2020-10-28 22:50:10,245 INFO 17434 [egg-security] use noopen middleware
+2020-10-28 22:50:10,246 INFO 17434 [egg-security] use nosniff middleware
+2020-10-28 22:50:10,246 INFO 17434 [egg-security] use xssProtection middleware
+2020-10-28 22:50:10,247 INFO 17434 [egg-security] use xframe middleware
+2020-10-28 22:50:10,247 INFO 17434 [egg-security] use dta middleware
+2020-10-28 22:50:10,247 INFO 17434 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:50:10,260 INFO 17434 [egg:core] dump config after load, 7ms
+2020-10-28 22:50:10,297 INFO 17434 [egg:core] dump config after ready, 5ms
+2020-10-28 22:50:10,300 INFO 17434 [egg-watcher:application] watcher start success
+2020-10-28 22:50:22,540 INFO 17435 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:50:22,561 INFO 17435 [egg-multipart] stream mode enable
+2020-10-28 22:50:22,607 INFO 17435 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:50:22,607 INFO 17435 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:50:22,609 INFO 17435 [egg-security] use csrf middleware
+2020-10-28 22:50:22,610 INFO 17435 [egg-security] use methodnoallow middleware
+2020-10-28 22:50:22,610 INFO 17435 [egg-security] use noopen middleware
+2020-10-28 22:50:22,610 INFO 17435 [egg-security] use nosniff middleware
+2020-10-28 22:50:22,611 INFO 17435 [egg-security] use xssProtection middleware
+2020-10-28 22:50:22,611 INFO 17435 [egg-security] use xframe middleware
+2020-10-28 22:50:22,611 INFO 17435 [egg-security] use dta middleware
+2020-10-28 22:50:22,611 INFO 17435 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:50:22,621 INFO 17435 [egg:core] dump config after load, 6ms
+2020-10-28 22:50:22,657 INFO 17435 [egg:core] dump config after ready, 11ms
+2020-10-28 22:50:22,661 INFO 17435 [egg-watcher:application] watcher start success
+2020-10-28 22:51:34,458 INFO 17440 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:51:34,489 INFO 17440 [egg-multipart] stream mode enable
+2020-10-28 22:51:34,554 INFO 17440 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:51:34,555 INFO 17440 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:51:34,556 INFO 17440 [egg-security] use csrf middleware
+2020-10-28 22:51:34,557 INFO 17440 [egg-security] use methodnoallow middleware
+2020-10-28 22:51:34,557 INFO 17440 [egg-security] use noopen middleware
+2020-10-28 22:51:34,558 INFO 17440 [egg-security] use nosniff middleware
+2020-10-28 22:51:34,558 INFO 17440 [egg-security] use xssProtection middleware
+2020-10-28 22:51:34,559 INFO 17440 [egg-security] use xframe middleware
+2020-10-28 22:51:34,559 INFO 17440 [egg-security] use dta middleware
+2020-10-28 22:51:34,559 INFO 17440 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:51:34,574 INFO 17440 [egg:core] dump config after load, 9ms
+2020-10-28 22:51:34,589 INFO 17440 [egg-watcher:application] watcher start success
+2020-10-28 22:51:34,598 INFO 17440 [egg:core] dump config after ready, 6ms
+2020-10-28 22:52:31,133 INFO 17453 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:52:31,156 INFO 17453 [egg-multipart] stream mode enable
+2020-10-28 22:52:31,207 INFO 17453 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:52:31,208 INFO 17453 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:52:31,209 INFO 17453 [egg-security] use csrf middleware
+2020-10-28 22:52:31,210 INFO 17453 [egg-security] use methodnoallow middleware
+2020-10-28 22:52:31,210 INFO 17453 [egg-security] use noopen middleware
+2020-10-28 22:52:31,211 INFO 17453 [egg-security] use nosniff middleware
+2020-10-28 22:52:31,211 INFO 17453 [egg-security] use xssProtection middleware
+2020-10-28 22:52:31,211 INFO 17453 [egg-security] use xframe middleware
+2020-10-28 22:52:31,212 INFO 17453 [egg-security] use dta middleware
+2020-10-28 22:52:31,212 INFO 17453 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:52:31,221 INFO 17453 [egg:core] dump config after load, 5ms
+2020-10-28 22:52:31,231 INFO 17453 [egg-watcher:application] watcher start success
+2020-10-28 22:52:31,238 INFO 17453 [egg:core] dump config after ready, 5ms
+2020-10-28 22:52:32,205 INFO 17454 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:52:32,231 INFO 17454 [egg-multipart] stream mode enable
+2020-10-28 22:52:32,293 INFO 17454 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:52:32,294 INFO 17454 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:52:32,296 INFO 17454 [egg-security] use csrf middleware
+2020-10-28 22:52:32,296 INFO 17454 [egg-security] use methodnoallow middleware
+2020-10-28 22:52:32,297 INFO 17454 [egg-security] use noopen middleware
+2020-10-28 22:52:32,297 INFO 17454 [egg-security] use nosniff middleware
+2020-10-28 22:52:32,298 INFO 17454 [egg-security] use xssProtection middleware
+2020-10-28 22:52:32,298 INFO 17454 [egg-security] use xframe middleware
+2020-10-28 22:52:32,298 INFO 17454 [egg-security] use dta middleware
+2020-10-28 22:52:32,298 INFO 17454 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:52:32,312 INFO 17454 [egg:core] dump config after load, 9ms
+2020-10-28 22:52:32,325 INFO 17454 [egg-watcher:application] watcher start success
+2020-10-28 22:52:32,340 INFO 17454 [egg:core] dump config after ready, 12ms
+2020-10-28 22:53:35,217 INFO 17466 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:53:35,240 INFO 17466 [egg-multipart] stream mode enable
+2020-10-28 22:53:35,287 INFO 17466 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:53:35,287 INFO 17466 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:53:35,289 INFO 17466 [egg-security] use csrf middleware
+2020-10-28 22:53:35,289 INFO 17466 [egg-security] use methodnoallow middleware
+2020-10-28 22:53:35,290 INFO 17466 [egg-security] use noopen middleware
+2020-10-28 22:53:35,290 INFO 17466 [egg-security] use nosniff middleware
+2020-10-28 22:53:35,290 INFO 17466 [egg-security] use xssProtection middleware
+2020-10-28 22:53:35,291 INFO 17466 [egg-security] use xframe middleware
+2020-10-28 22:53:35,291 INFO 17466 [egg-security] use dta middleware
+2020-10-28 22:53:35,291 INFO 17466 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:53:35,300 INFO 17466 [egg:core] dump config after load, 5ms
+2020-10-28 22:53:35,327 INFO 17466 [egg:core] dump config after ready, 5ms
+2020-10-28 22:53:35,331 INFO 17466 [egg-watcher:application] watcher start success
+2020-10-28 22:53:51,337 INFO 17467 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 22:53:51,362 INFO 17467 [egg-multipart] stream mode enable
+2020-10-28 22:53:51,416 INFO 17467 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 22:53:51,417 INFO 17467 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 22:53:51,418 INFO 17467 [egg-security] use csrf middleware
+2020-10-28 22:53:51,419 INFO 17467 [egg-security] use methodnoallow middleware
+2020-10-28 22:53:51,419 INFO 17467 [egg-security] use noopen middleware
+2020-10-28 22:53:51,420 INFO 17467 [egg-security] use nosniff middleware
+2020-10-28 22:53:51,420 INFO 17467 [egg-security] use xssProtection middleware
+2020-10-28 22:53:51,420 INFO 17467 [egg-security] use xframe middleware
+2020-10-28 22:53:51,421 INFO 17467 [egg-security] use dta middleware
+2020-10-28 22:53:51,421 INFO 17467 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 22:53:51,431 INFO 17467 [egg:core] dump config after load, 6ms
+2020-10-28 22:53:51,441 INFO 17467 [egg-watcher:application] watcher start success
+2020-10-28 22:53:51,453 INFO 17467 [egg:core] dump config after ready, 11ms
+2020-10-28 23:04:59,302 INFO 17534 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 23:04:59,329 INFO 17534 [egg-multipart] stream mode enable
+2020-10-28 23:04:59,383 INFO 17534 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 23:04:59,383 INFO 17534 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 23:04:59,385 INFO 17534 [egg-security] use csrf middleware
+2020-10-28 23:04:59,386 INFO 17534 [egg-security] use methodnoallow middleware
+2020-10-28 23:04:59,386 INFO 17534 [egg-security] use noopen middleware
+2020-10-28 23:04:59,387 INFO 17534 [egg-security] use nosniff middleware
+2020-10-28 23:04:59,387 INFO 17534 [egg-security] use xssProtection middleware
+2020-10-28 23:04:59,387 INFO 17534 [egg-security] use xframe middleware
+2020-10-28 23:04:59,387 INFO 17534 [egg-security] use dta middleware
+2020-10-28 23:04:59,388 INFO 17534 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 23:04:59,399 INFO 17534 [egg:core] dump config after load, 6ms
+2020-10-28 23:04:59,411 INFO 17534 [egg-watcher:application] watcher start success
+2020-10-28 23:04:59,425 INFO 17534 [egg:core] dump config after ready, 12ms
+2020-10-28 23:07:18,794 INFO 17543 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 23:07:18,816 INFO 17543 [egg-multipart] stream mode enable
+2020-10-28 23:07:18,860 INFO 17543 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 23:07:18,861 INFO 17543 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 23:07:18,862 INFO 17543 [egg-security] use csrf middleware
+2020-10-28 23:07:18,863 INFO 17543 [egg-security] use methodnoallow middleware
+2020-10-28 23:07:18,863 INFO 17543 [egg-security] use noopen middleware
+2020-10-28 23:07:18,863 INFO 17543 [egg-security] use nosniff middleware
+2020-10-28 23:07:18,864 INFO 17543 [egg-security] use xssProtection middleware
+2020-10-28 23:07:18,864 INFO 17543 [egg-security] use xframe middleware
+2020-10-28 23:07:18,864 INFO 17543 [egg-security] use dta middleware
+2020-10-28 23:07:18,864 INFO 17543 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 23:07:18,875 INFO 17543 [egg:core] dump config after load, 6ms
+2020-10-28 23:07:18,885 INFO 17543 [egg-watcher:application] watcher start success
+2020-10-28 23:07:18,891 INFO 17543 [egg:core] dump config after ready, 4ms
+2020-10-28 23:07:47,664 INFO 17544 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 23:07:47,688 INFO 17544 [egg-multipart] stream mode enable
+2020-10-28 23:07:47,739 INFO 17544 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 23:07:47,740 INFO 17544 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 23:07:47,742 INFO 17544 [egg-security] use csrf middleware
+2020-10-28 23:07:47,742 INFO 17544 [egg-security] use methodnoallow middleware
+2020-10-28 23:07:47,743 INFO 17544 [egg-security] use noopen middleware
+2020-10-28 23:07:47,743 INFO 17544 [egg-security] use nosniff middleware
+2020-10-28 23:07:47,743 INFO 17544 [egg-security] use xssProtection middleware
+2020-10-28 23:07:47,744 INFO 17544 [egg-security] use xframe middleware
+2020-10-28 23:07:47,744 INFO 17544 [egg-security] use dta middleware
+2020-10-28 23:07:47,744 INFO 17544 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 23:07:47,754 INFO 17544 [egg:core] dump config after load, 6ms
+2020-10-28 23:07:47,764 INFO 17544 [egg-watcher:application] watcher start success
+2020-10-28 23:07:47,770 INFO 17544 [egg:core] dump config after ready, 5ms
+2020-10-28 23:08:51,760 INFO 17546 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-28 23:08:51,785 INFO 17546 [egg-multipart] stream mode enable
+2020-10-28 23:08:51,845 INFO 17546 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-28 23:08:51,846 INFO 17546 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-28 23:08:51,848 INFO 17546 [egg-security] use csrf middleware
+2020-10-28 23:08:51,849 INFO 17546 [egg-security] use methodnoallow middleware
+2020-10-28 23:08:51,849 INFO 17546 [egg-security] use noopen middleware
+2020-10-28 23:08:51,850 INFO 17546 [egg-security] use nosniff middleware
+2020-10-28 23:08:51,850 INFO 17546 [egg-security] use xssProtection middleware
+2020-10-28 23:08:51,851 INFO 17546 [egg-security] use xframe middleware
+2020-10-28 23:08:51,851 INFO 17546 [egg-security] use dta middleware
+2020-10-28 23:08:51,851 INFO 17546 [egg-security] compose 7 middlewares into one security middleware
+2020-10-28 23:08:51,862 INFO 17546 [egg:core] dump config after load, 5ms
+2020-10-28 23:08:51,873 INFO 17546 [egg-watcher:application] watcher start success
+2020-10-28 23:08:51,881 INFO 17546 [egg:core] dump config after ready, 7ms
+2020-10-30 16:49:02,007 INFO 18098 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 16:49:02,042 INFO 18098 [egg-multipart] stream mode enable
+2020-10-30 16:49:02,157 INFO 18098 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 16:49:02,158 INFO 18098 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 16:49:02,161 INFO 18098 [egg-security] use csrf middleware
+2020-10-30 16:49:02,163 INFO 18098 [egg-security] use methodnoallow middleware
+2020-10-30 16:49:02,164 INFO 18098 [egg-security] use noopen middleware
+2020-10-30 16:49:02,165 INFO 18098 [egg-security] use nosniff middleware
+2020-10-30 16:49:02,165 INFO 18098 [egg-security] use xssProtection middleware
+2020-10-30 16:49:02,166 INFO 18098 [egg-security] use xframe middleware
+2020-10-30 16:49:02,166 INFO 18098 [egg-security] use dta middleware
+2020-10-30 16:49:02,166 INFO 18098 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 16:49:02,182 INFO 18098 [egg:core] dump config after load, 9ms
+2020-10-30 16:49:02,204 INFO 18098 [egg-watcher:application] watcher start success
+2020-10-30 16:49:02,222 INFO 18098 [egg:core] dump config after ready, 16ms
+2020-10-30 17:17:55,612 INFO 18242 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 17:17:55,635 INFO 18242 [egg-multipart] stream mode enable
+2020-10-30 17:17:55,684 INFO 18242 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 17:17:55,684 INFO 18242 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 17:17:55,686 INFO 18242 [egg-security] use csrf middleware
+2020-10-30 17:17:55,686 INFO 18242 [egg-security] use methodnoallow middleware
+2020-10-30 17:17:55,686 INFO 18242 [egg-security] use noopen middleware
+2020-10-30 17:17:55,687 INFO 18242 [egg-security] use nosniff middleware
+2020-10-30 17:17:55,687 INFO 18242 [egg-security] use xssProtection middleware
+2020-10-30 17:17:55,687 INFO 18242 [egg-security] use xframe middleware
+2020-10-30 17:17:55,688 INFO 18242 [egg-security] use dta middleware
+2020-10-30 17:17:55,688 INFO 18242 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 17:17:55,699 INFO 18242 [egg:core] dump config after load, 7ms
+2020-10-30 17:17:55,709 INFO 18242 [egg-watcher:application] watcher start success
+2020-10-30 17:17:55,715 INFO 18242 [egg:core] dump config after ready, 5ms
+2020-10-30 17:24:56,649 INFO 18286 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 17:24:56,678 INFO 18286 [egg-multipart] stream mode enable
+2020-10-30 17:24:56,745 INFO 18286 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 17:24:56,745 INFO 18286 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 17:24:56,747 INFO 18286 [egg-security] use csrf middleware
+2020-10-30 17:24:56,748 INFO 18286 [egg-security] use methodnoallow middleware
+2020-10-30 17:24:56,748 INFO 18286 [egg-security] use noopen middleware
+2020-10-30 17:24:56,749 INFO 18286 [egg-security] use nosniff middleware
+2020-10-30 17:24:56,749 INFO 18286 [egg-security] use xssProtection middleware
+2020-10-30 17:24:56,750 INFO 18286 [egg-security] use xframe middleware
+2020-10-30 17:24:56,750 INFO 18286 [egg-security] use dta middleware
+2020-10-30 17:24:56,750 INFO 18286 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 17:24:56,763 INFO 18286 [egg:core] dump config after load, 7ms
+2020-10-30 17:24:56,774 INFO 18286 [egg-watcher:application] watcher start success
+2020-10-30 17:24:56,788 INFO 18286 [egg:core] dump config after ready, 12ms
+2020-10-30 17:26:50,175 INFO 18293 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 17:26:50,197 INFO 18293 [egg-multipart] stream mode enable
+2020-10-30 17:26:50,244 INFO 18293 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 17:26:50,244 INFO 18293 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 17:26:50,245 INFO 18293 [egg-security] use csrf middleware
+2020-10-30 17:26:50,246 INFO 18293 [egg-security] use methodnoallow middleware
+2020-10-30 17:26:50,246 INFO 18293 [egg-security] use noopen middleware
+2020-10-30 17:26:50,247 INFO 18293 [egg-security] use nosniff middleware
+2020-10-30 17:26:50,247 INFO 18293 [egg-security] use xssProtection middleware
+2020-10-30 17:26:50,247 INFO 18293 [egg-security] use xframe middleware
+2020-10-30 17:26:50,247 INFO 18293 [egg-security] use dta middleware
+2020-10-30 17:26:50,247 INFO 18293 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 17:26:50,258 INFO 18293 [egg:core] dump config after load, 5ms
+2020-10-30 17:26:50,269 INFO 18293 [egg-watcher:application] watcher start success
+2020-10-30 17:26:50,281 INFO 18293 [egg:core] dump config after ready, 11ms
+2020-10-30 17:42:57,279 INFO 18384 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 17:42:57,300 INFO 18384 [egg-multipart] stream mode enable
+2020-10-30 17:42:57,346 INFO 18384 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 17:42:57,347 INFO 18384 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 17:42:57,348 INFO 18384 [egg-security] use csrf middleware
+2020-10-30 17:42:57,349 INFO 18384 [egg-security] use methodnoallow middleware
+2020-10-30 17:42:57,349 INFO 18384 [egg-security] use noopen middleware
+2020-10-30 17:42:57,349 INFO 18384 [egg-security] use nosniff middleware
+2020-10-30 17:42:57,350 INFO 18384 [egg-security] use xssProtection middleware
+2020-10-30 17:42:57,350 INFO 18384 [egg-security] use xframe middleware
+2020-10-30 17:42:57,350 INFO 18384 [egg-security] use dta middleware
+2020-10-30 17:42:57,350 INFO 18384 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 17:42:57,361 INFO 18384 [egg:core] dump config after load, 7ms
+2020-10-30 17:42:57,370 INFO 18384 [egg-watcher:application] watcher start success
+2020-10-30 17:42:57,377 INFO 18384 [egg:core] dump config after ready, 5ms
+2020-10-30 17:46:20,097 INFO 18407 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 17:46:20,120 INFO 18407 [egg-multipart] stream mode enable
+2020-10-30 17:46:20,170 INFO 18407 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 17:46:20,171 INFO 18407 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 17:46:20,172 INFO 18407 [egg-security] use csrf middleware
+2020-10-30 17:46:20,173 INFO 18407 [egg-security] use methodnoallow middleware
+2020-10-30 17:46:20,173 INFO 18407 [egg-security] use noopen middleware
+2020-10-30 17:46:20,173 INFO 18407 [egg-security] use nosniff middleware
+2020-10-30 17:46:20,174 INFO 18407 [egg-security] use xssProtection middleware
+2020-10-30 17:46:20,174 INFO 18407 [egg-security] use xframe middleware
+2020-10-30 17:46:20,174 INFO 18407 [egg-security] use dta middleware
+2020-10-30 17:46:20,174 INFO 18407 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 17:46:20,185 INFO 18407 [egg:core] dump config after load, 6ms
+2020-10-30 17:46:20,195 INFO 18407 [egg-watcher:application] watcher start success
+2020-10-30 17:46:20,208 INFO 18407 [egg:core] dump config after ready, 11ms
+2020-10-30 17:46:38,108 INFO 18409 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 17:46:38,130 INFO 18409 [egg-multipart] stream mode enable
+2020-10-30 17:46:38,176 INFO 18409 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 17:46:38,177 INFO 18409 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 17:46:38,178 INFO 18409 [egg-security] use csrf middleware
+2020-10-30 17:46:38,179 INFO 18409 [egg-security] use methodnoallow middleware
+2020-10-30 17:46:38,179 INFO 18409 [egg-security] use noopen middleware
+2020-10-30 17:46:38,179 INFO 18409 [egg-security] use nosniff middleware
+2020-10-30 17:46:38,180 INFO 18409 [egg-security] use xssProtection middleware
+2020-10-30 17:46:38,180 INFO 18409 [egg-security] use xframe middleware
+2020-10-30 17:46:38,180 INFO 18409 [egg-security] use dta middleware
+2020-10-30 17:46:38,180 INFO 18409 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 17:46:38,190 INFO 18409 [egg:core] dump config after load, 6ms
+2020-10-30 17:46:38,200 INFO 18409 [egg-watcher:application] watcher start success
+2020-10-30 17:46:38,206 INFO 18409 [egg:core] dump config after ready, 4ms
+2020-10-30 17:52:11,037 INFO 18437 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 17:52:11,061 INFO 18437 [egg-multipart] stream mode enable
+2020-10-30 17:52:11,113 INFO 18437 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 17:52:11,114 INFO 18437 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 17:52:11,117 INFO 18437 [egg-security] use csrf middleware
+2020-10-30 17:52:11,117 INFO 18437 [egg-security] use methodnoallow middleware
+2020-10-30 17:52:11,118 INFO 18437 [egg-security] use noopen middleware
+2020-10-30 17:52:11,118 INFO 18437 [egg-security] use nosniff middleware
+2020-10-30 17:52:11,118 INFO 18437 [egg-security] use xssProtection middleware
+2020-10-30 17:52:11,119 INFO 18437 [egg-security] use xframe middleware
+2020-10-30 17:52:11,119 INFO 18437 [egg-security] use dta middleware
+2020-10-30 17:52:11,119 INFO 18437 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 17:52:11,129 INFO 18437 [egg:core] dump config after load, 6ms
+2020-10-30 17:52:11,141 INFO 18437 [egg-watcher:application] watcher start success
+2020-10-30 17:52:11,150 INFO 18437 [egg:core] dump config after ready, 8ms
+2020-10-30 17:52:12,043 INFO 18438 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 17:52:12,070 INFO 18438 [egg-multipart] stream mode enable
+2020-10-30 17:52:12,122 INFO 18438 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 17:52:12,122 INFO 18438 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 17:52:12,124 INFO 18438 [egg-security] use csrf middleware
+2020-10-30 17:52:12,124 INFO 18438 [egg-security] use methodnoallow middleware
+2020-10-30 17:52:12,125 INFO 18438 [egg-security] use noopen middleware
+2020-10-30 17:52:12,125 INFO 18438 [egg-security] use nosniff middleware
+2020-10-30 17:52:12,125 INFO 18438 [egg-security] use xssProtection middleware
+2020-10-30 17:52:12,126 INFO 18438 [egg-security] use xframe middleware
+2020-10-30 17:52:12,126 INFO 18438 [egg-security] use dta middleware
+2020-10-30 17:52:12,126 INFO 18438 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 17:52:12,136 INFO 18438 [egg:core] dump config after load, 5ms
+2020-10-30 17:52:12,148 INFO 18438 [egg-watcher:application] watcher start success
+2020-10-30 17:52:12,163 INFO 18438 [egg:core] dump config after ready, 13ms
+2020-10-30 17:59:40,520 INFO 18533 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 17:59:40,547 INFO 18533 [egg-multipart] stream mode enable
+2020-10-30 17:59:40,595 INFO 18533 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 17:59:40,596 INFO 18533 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 17:59:40,598 INFO 18533 [egg-security] use csrf middleware
+2020-10-30 17:59:40,598 INFO 18533 [egg-security] use methodnoallow middleware
+2020-10-30 17:59:40,598 INFO 18533 [egg-security] use noopen middleware
+2020-10-30 17:59:40,599 INFO 18533 [egg-security] use nosniff middleware
+2020-10-30 17:59:40,599 INFO 18533 [egg-security] use xssProtection middleware
+2020-10-30 17:59:40,599 INFO 18533 [egg-security] use xframe middleware
+2020-10-30 17:59:40,600 INFO 18533 [egg-security] use dta middleware
+2020-10-30 17:59:40,600 INFO 18533 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 17:59:40,610 INFO 18533 [egg:core] dump config after load, 6ms
+2020-10-30 17:59:40,620 INFO 18533 [egg-watcher:application] watcher start success
+2020-10-30 17:59:40,628 INFO 18533 [egg:core] dump config after ready, 6ms
+2020-10-30 18:01:22,228 INFO 18540 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 18:01:22,250 INFO 18540 [egg-multipart] stream mode enable
+2020-10-30 18:01:22,296 INFO 18540 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 18:01:22,297 INFO 18540 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 18:01:22,298 INFO 18540 [egg-security] use csrf middleware
+2020-10-30 18:01:22,298 INFO 18540 [egg-security] use methodnoallow middleware
+2020-10-30 18:01:22,299 INFO 18540 [egg-security] use noopen middleware
+2020-10-30 18:01:22,299 INFO 18540 [egg-security] use nosniff middleware
+2020-10-30 18:01:22,300 INFO 18540 [egg-security] use xssProtection middleware
+2020-10-30 18:01:22,300 INFO 18540 [egg-security] use xframe middleware
+2020-10-30 18:01:22,300 INFO 18540 [egg-security] use dta middleware
+2020-10-30 18:01:22,300 INFO 18540 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 18:01:22,312 INFO 18540 [egg:core] dump config after load, 7ms
+2020-10-30 18:01:22,323 INFO 18540 [egg-watcher:application] watcher start success
+2020-10-30 18:01:22,330 INFO 18540 [egg:core] dump config after ready, 5ms
+2020-10-30 18:03:19,468 INFO 18547 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 18:03:19,491 INFO 18547 [egg-multipart] stream mode enable
+2020-10-30 18:03:19,542 INFO 18547 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 18:03:19,542 INFO 18547 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 18:03:19,544 INFO 18547 [egg-security] use csrf middleware
+2020-10-30 18:03:19,544 INFO 18547 [egg-security] use methodnoallow middleware
+2020-10-30 18:03:19,545 INFO 18547 [egg-security] use noopen middleware
+2020-10-30 18:03:19,545 INFO 18547 [egg-security] use nosniff middleware
+2020-10-30 18:03:19,546 INFO 18547 [egg-security] use xssProtection middleware
+2020-10-30 18:03:19,546 INFO 18547 [egg-security] use xframe middleware
+2020-10-30 18:03:19,546 INFO 18547 [egg-security] use dta middleware
+2020-10-30 18:03:19,546 INFO 18547 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 18:03:19,557 INFO 18547 [egg:core] dump config after load, 6ms
+2020-10-30 18:03:19,567 INFO 18547 [egg-watcher:application] watcher start success
+2020-10-30 18:03:19,574 INFO 18547 [egg:core] dump config after ready, 5ms
+2020-10-30 18:03:47,052 INFO 18548 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 18:03:47,073 INFO 18548 [egg-multipart] stream mode enable
+2020-10-30 18:03:47,121 INFO 18548 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 18:03:47,121 INFO 18548 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 18:03:47,123 INFO 18548 [egg-security] use csrf middleware
+2020-10-30 18:03:47,124 INFO 18548 [egg-security] use methodnoallow middleware
+2020-10-30 18:03:47,124 INFO 18548 [egg-security] use noopen middleware
+2020-10-30 18:03:47,125 INFO 18548 [egg-security] use nosniff middleware
+2020-10-30 18:03:47,125 INFO 18548 [egg-security] use xssProtection middleware
+2020-10-30 18:03:47,125 INFO 18548 [egg-security] use xframe middleware
+2020-10-30 18:03:47,126 INFO 18548 [egg-security] use dta middleware
+2020-10-30 18:03:47,126 INFO 18548 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 18:03:47,135 INFO 18548 [egg:core] dump config after load, 5ms
+2020-10-30 18:03:47,144 INFO 18548 [egg-watcher:application] watcher start success
+2020-10-30 18:03:47,151 INFO 18548 [egg:core] dump config after ready, 5ms
+2020-10-30 18:05:29,145 INFO 18552 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 18:05:29,170 INFO 18552 [egg-multipart] stream mode enable
+2020-10-30 18:05:29,222 INFO 18552 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 18:05:29,222 INFO 18552 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 18:05:29,223 INFO 18552 [egg-security] use csrf middleware
+2020-10-30 18:05:29,224 INFO 18552 [egg-security] use methodnoallow middleware
+2020-10-30 18:05:29,224 INFO 18552 [egg-security] use noopen middleware
+2020-10-30 18:05:29,225 INFO 18552 [egg-security] use nosniff middleware
+2020-10-30 18:05:29,225 INFO 18552 [egg-security] use xssProtection middleware
+2020-10-30 18:05:29,225 INFO 18552 [egg-security] use xframe middleware
+2020-10-30 18:05:29,226 INFO 18552 [egg-security] use dta middleware
+2020-10-30 18:05:29,226 INFO 18552 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 18:05:29,235 INFO 18552 [egg:core] dump config after load, 6ms
+2020-10-30 18:05:29,245 INFO 18552 [egg-watcher:application] watcher start success
+2020-10-30 18:05:29,252 INFO 18552 [egg:core] dump config after ready, 5ms
+2020-10-30 18:06:34,288 INFO 18555 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 18:06:34,312 INFO 18555 [egg-multipart] stream mode enable
+2020-10-30 18:06:34,364 INFO 18555 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 18:06:34,364 INFO 18555 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 18:06:34,367 INFO 18555 [egg-security] use csrf middleware
+2020-10-30 18:06:34,368 INFO 18555 [egg-security] use methodnoallow middleware
+2020-10-30 18:06:34,368 INFO 18555 [egg-security] use noopen middleware
+2020-10-30 18:06:34,368 INFO 18555 [egg-security] use nosniff middleware
+2020-10-30 18:06:34,369 INFO 18555 [egg-security] use xssProtection middleware
+2020-10-30 18:06:34,369 INFO 18555 [egg-security] use xframe middleware
+2020-10-30 18:06:34,369 INFO 18555 [egg-security] use dta middleware
+2020-10-30 18:06:34,369 INFO 18555 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 18:06:34,381 INFO 18555 [egg:core] dump config after load, 7ms
+2020-10-30 18:06:34,392 INFO 18555 [egg-watcher:application] watcher start success
+2020-10-30 18:06:34,399 INFO 18555 [egg:core] dump config after ready, 5ms
+2020-10-30 18:06:55,857 INFO 18556 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 18:06:55,879 INFO 18556 [egg-multipart] stream mode enable
+2020-10-30 18:06:55,929 INFO 18556 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 18:06:55,930 INFO 18556 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 18:06:55,931 INFO 18556 [egg-security] use csrf middleware
+2020-10-30 18:06:55,932 INFO 18556 [egg-security] use methodnoallow middleware
+2020-10-30 18:06:55,932 INFO 18556 [egg-security] use noopen middleware
+2020-10-30 18:06:55,932 INFO 18556 [egg-security] use nosniff middleware
+2020-10-30 18:06:55,933 INFO 18556 [egg-security] use xssProtection middleware
+2020-10-30 18:06:55,933 INFO 18556 [egg-security] use xframe middleware
+2020-10-30 18:06:55,933 INFO 18556 [egg-security] use dta middleware
+2020-10-30 18:06:55,933 INFO 18556 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 18:06:55,946 INFO 18556 [egg:core] dump config after load, 7ms
+2020-10-30 18:06:55,957 INFO 18556 [egg-watcher:application] watcher start success
+2020-10-30 18:06:55,969 INFO 18556 [egg:core] dump config after ready, 10ms
+2020-10-30 18:16:10,300 INFO 18587 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 18:16:10,323 INFO 18587 [egg-multipart] stream mode enable
+2020-10-30 18:16:10,374 INFO 18587 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 18:16:10,375 INFO 18587 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 18:16:10,376 INFO 18587 [egg-security] use csrf middleware
+2020-10-30 18:16:10,377 INFO 18587 [egg-security] use methodnoallow middleware
+2020-10-30 18:16:10,377 INFO 18587 [egg-security] use noopen middleware
+2020-10-30 18:16:10,378 INFO 18587 [egg-security] use nosniff middleware
+2020-10-30 18:16:10,378 INFO 18587 [egg-security] use xssProtection middleware
+2020-10-30 18:16:10,378 INFO 18587 [egg-security] use xframe middleware
+2020-10-30 18:16:10,378 INFO 18587 [egg-security] use dta middleware
+2020-10-30 18:16:10,379 INFO 18587 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 18:16:10,389 INFO 18587 [egg:core] dump config after load, 6ms
+2020-10-30 18:16:10,399 INFO 18587 [egg-watcher:application] watcher start success
+2020-10-30 18:16:10,406 INFO 18587 [egg:core] dump config after ready, 6ms
+2020-10-30 18:16:15,244 INFO 18590 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 18:16:15,267 INFO 18590 [egg-multipart] stream mode enable
+2020-10-30 18:16:15,318 INFO 18590 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 18:16:15,319 INFO 18590 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 18:16:15,321 INFO 18590 [egg-security] use csrf middleware
+2020-10-30 18:16:15,321 INFO 18590 [egg-security] use methodnoallow middleware
+2020-10-30 18:16:15,322 INFO 18590 [egg-security] use noopen middleware
+2020-10-30 18:16:15,322 INFO 18590 [egg-security] use nosniff middleware
+2020-10-30 18:16:15,322 INFO 18590 [egg-security] use xssProtection middleware
+2020-10-30 18:16:15,323 INFO 18590 [egg-security] use xframe middleware
+2020-10-30 18:16:15,323 INFO 18590 [egg-security] use dta middleware
+2020-10-30 18:16:15,323 INFO 18590 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 18:16:15,333 INFO 18590 [egg:core] dump config after load, 5ms
+2020-10-30 18:16:15,344 INFO 18590 [egg-watcher:application] watcher start success
+2020-10-30 18:16:15,351 INFO 18590 [egg:core] dump config after ready, 5ms
+2020-10-30 18:17:59,768 INFO 18604 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 18:17:59,790 INFO 18604 [egg-multipart] stream mode enable
+2020-10-30 18:17:59,839 INFO 18604 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 18:17:59,839 INFO 18604 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 18:17:59,841 INFO 18604 [egg-security] use csrf middleware
+2020-10-30 18:17:59,841 INFO 18604 [egg-security] use methodnoallow middleware
+2020-10-30 18:17:59,842 INFO 18604 [egg-security] use noopen middleware
+2020-10-30 18:17:59,842 INFO 18604 [egg-security] use nosniff middleware
+2020-10-30 18:17:59,843 INFO 18604 [egg-security] use xssProtection middleware
+2020-10-30 18:17:59,843 INFO 18604 [egg-security] use xframe middleware
+2020-10-30 18:17:59,843 INFO 18604 [egg-security] use dta middleware
+2020-10-30 18:17:59,843 INFO 18604 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 18:17:59,853 INFO 18604 [egg:core] dump config after load, 6ms
+2020-10-30 18:17:59,863 INFO 18604 [egg-watcher:application] watcher start success
+2020-10-30 18:17:59,870 INFO 18604 [egg:core] dump config after ready, 5ms
+2020-10-30 18:20:05,682 INFO 18612 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 18:20:05,707 INFO 18612 [egg-multipart] stream mode enable
+2020-10-30 18:20:05,758 INFO 18612 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 18:20:05,759 INFO 18612 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 18:20:05,761 INFO 18612 [egg-security] use csrf middleware
+2020-10-30 18:20:05,761 INFO 18612 [egg-security] use methodnoallow middleware
+2020-10-30 18:20:05,761 INFO 18612 [egg-security] use noopen middleware
+2020-10-30 18:20:05,762 INFO 18612 [egg-security] use nosniff middleware
+2020-10-30 18:20:05,762 INFO 18612 [egg-security] use xssProtection middleware
+2020-10-30 18:20:05,763 INFO 18612 [egg-security] use xframe middleware
+2020-10-30 18:20:05,763 INFO 18612 [egg-security] use dta middleware
+2020-10-30 18:20:05,763 INFO 18612 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 18:20:05,772 INFO 18612 [egg:core] dump config after load, 5ms
+2020-10-30 18:20:05,782 INFO 18612 [egg-watcher:application] watcher start success
+2020-10-30 18:20:05,794 INFO 18612 [egg:core] dump config after ready, 10ms
+2020-10-30 18:26:38,823 INFO 18660 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 18:26:38,848 INFO 18660 [egg-multipart] stream mode enable
+2020-10-30 18:26:38,905 INFO 18660 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 18:26:38,905 INFO 18660 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 18:26:38,906 INFO 18660 [egg-security] use csrf middleware
+2020-10-30 18:26:38,907 INFO 18660 [egg-security] use methodnoallow middleware
+2020-10-30 18:26:38,907 INFO 18660 [egg-security] use noopen middleware
+2020-10-30 18:26:38,908 INFO 18660 [egg-security] use nosniff middleware
+2020-10-30 18:26:38,908 INFO 18660 [egg-security] use xssProtection middleware
+2020-10-30 18:26:38,909 INFO 18660 [egg-security] use xframe middleware
+2020-10-30 18:26:38,909 INFO 18660 [egg-security] use dta middleware
+2020-10-30 18:26:38,909 INFO 18660 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 18:26:38,919 INFO 18660 [egg:core] dump config after load, 5ms
+2020-10-30 18:26:38,929 INFO 18660 [egg-watcher:application] watcher start success
+2020-10-30 18:26:38,943 INFO 18660 [egg:core] dump config after ready, 12ms
+2020-10-30 18:26:44,056 INFO 18661 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 18:26:44,079 INFO 18661 [egg-multipart] stream mode enable
+2020-10-30 18:26:44,125 INFO 18661 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 18:26:44,125 INFO 18661 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 18:26:44,127 INFO 18661 [egg-security] use csrf middleware
+2020-10-30 18:26:44,127 INFO 18661 [egg-security] use methodnoallow middleware
+2020-10-30 18:26:44,128 INFO 18661 [egg-security] use noopen middleware
+2020-10-30 18:26:44,128 INFO 18661 [egg-security] use nosniff middleware
+2020-10-30 18:26:44,128 INFO 18661 [egg-security] use xssProtection middleware
+2020-10-30 18:26:44,129 INFO 18661 [egg-security] use xframe middleware
+2020-10-30 18:26:44,129 INFO 18661 [egg-security] use dta middleware
+2020-10-30 18:26:44,129 INFO 18661 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 18:26:44,139 INFO 18661 [egg:core] dump config after load, 6ms
+2020-10-30 18:26:44,147 INFO 18661 [egg-watcher:application] watcher start success
+2020-10-30 18:26:44,159 INFO 18661 [egg:core] dump config after ready, 10ms
+2020-10-30 18:27:46,436 INFO 18664 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 18:27:46,460 INFO 18664 [egg-multipart] stream mode enable
+2020-10-30 18:27:46,515 INFO 18664 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 18:27:46,516 INFO 18664 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 18:27:46,517 INFO 18664 [egg-security] use csrf middleware
+2020-10-30 18:27:46,518 INFO 18664 [egg-security] use methodnoallow middleware
+2020-10-30 18:27:46,518 INFO 18664 [egg-security] use noopen middleware
+2020-10-30 18:27:46,519 INFO 18664 [egg-security] use nosniff middleware
+2020-10-30 18:27:46,519 INFO 18664 [egg-security] use xssProtection middleware
+2020-10-30 18:27:46,519 INFO 18664 [egg-security] use xframe middleware
+2020-10-30 18:27:46,520 INFO 18664 [egg-security] use dta middleware
+2020-10-30 18:27:46,520 INFO 18664 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 18:27:46,530 INFO 18664 [egg:core] dump config after load, 6ms
+2020-10-30 18:27:46,541 INFO 18664 [egg-watcher:application] watcher start success
+2020-10-30 18:27:46,556 INFO 18664 [egg:core] dump config after ready, 13ms
+2020-10-30 18:28:22,187 INFO 18667 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 18:28:22,208 INFO 18667 [egg-multipart] stream mode enable
+2020-10-30 18:28:22,253 INFO 18667 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 18:28:22,254 INFO 18667 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 18:28:22,255 INFO 18667 [egg-security] use csrf middleware
+2020-10-30 18:28:22,256 INFO 18667 [egg-security] use methodnoallow middleware
+2020-10-30 18:28:22,256 INFO 18667 [egg-security] use noopen middleware
+2020-10-30 18:28:22,256 INFO 18667 [egg-security] use nosniff middleware
+2020-10-30 18:28:22,257 INFO 18667 [egg-security] use xssProtection middleware
+2020-10-30 18:28:22,257 INFO 18667 [egg-security] use xframe middleware
+2020-10-30 18:28:22,257 INFO 18667 [egg-security] use dta middleware
+2020-10-30 18:28:22,257 INFO 18667 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 18:28:22,267 INFO 18667 [egg:core] dump config after load, 6ms
+2020-10-30 18:28:22,277 INFO 18667 [egg-watcher:application] watcher start success
+2020-10-30 18:28:22,283 INFO 18667 [egg:core] dump config after ready, 5ms
+2020-10-30 18:30:56,198 INFO 18678 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 18:30:56,222 INFO 18678 [egg-multipart] stream mode enable
+2020-10-30 18:30:56,269 INFO 18678 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 18:30:56,269 INFO 18678 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 18:30:56,270 INFO 18678 [egg-security] use csrf middleware
+2020-10-30 18:30:56,271 INFO 18678 [egg-security] use methodnoallow middleware
+2020-10-30 18:30:56,271 INFO 18678 [egg-security] use noopen middleware
+2020-10-30 18:30:56,272 INFO 18678 [egg-security] use nosniff middleware
+2020-10-30 18:30:56,272 INFO 18678 [egg-security] use xssProtection middleware
+2020-10-30 18:30:56,272 INFO 18678 [egg-security] use xframe middleware
+2020-10-30 18:30:56,273 INFO 18678 [egg-security] use dta middleware
+2020-10-30 18:30:56,273 INFO 18678 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 18:30:56,283 INFO 18678 [egg:core] dump config after load, 5ms
+2020-10-30 18:30:56,292 INFO 18678 [egg-watcher:application] watcher start success
+2020-10-30 18:30:56,299 INFO 18678 [egg:core] dump config after ready, 5ms
+2020-10-30 18:32:12,061 INFO 18686 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 18:32:12,084 INFO 18686 [egg-multipart] stream mode enable
+2020-10-30 18:32:12,133 INFO 18686 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 18:32:12,133 INFO 18686 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 18:32:12,135 INFO 18686 [egg-security] use csrf middleware
+2020-10-30 18:32:12,135 INFO 18686 [egg-security] use methodnoallow middleware
+2020-10-30 18:32:12,136 INFO 18686 [egg-security] use noopen middleware
+2020-10-30 18:32:12,136 INFO 18686 [egg-security] use nosniff middleware
+2020-10-30 18:32:12,136 INFO 18686 [egg-security] use xssProtection middleware
+2020-10-30 18:32:12,137 INFO 18686 [egg-security] use xframe middleware
+2020-10-30 18:32:12,137 INFO 18686 [egg-security] use dta middleware
+2020-10-30 18:32:12,137 INFO 18686 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 18:32:12,148 INFO 18686 [egg:core] dump config after load, 6ms
+2020-10-30 18:32:12,157 INFO 18686 [egg-watcher:application] watcher start success
+2020-10-30 18:32:12,163 INFO 18686 [egg:core] dump config after ready, 4ms
+2020-10-30 21:05:44,185 INFO 18933 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 21:05:44,211 INFO 18933 [egg-multipart] stream mode enable
+2020-10-30 21:05:44,270 INFO 18933 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 21:05:44,271 INFO 18933 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 21:05:44,273 INFO 18933 [egg-security] use csrf middleware
+2020-10-30 21:05:44,274 INFO 18933 [egg-security] use methodnoallow middleware
+2020-10-30 21:05:44,274 INFO 18933 [egg-security] use noopen middleware
+2020-10-30 21:05:44,275 INFO 18933 [egg-security] use nosniff middleware
+2020-10-30 21:05:44,275 INFO 18933 [egg-security] use xssProtection middleware
+2020-10-30 21:05:44,276 INFO 18933 [egg-security] use xframe middleware
+2020-10-30 21:05:44,276 INFO 18933 [egg-security] use dta middleware
+2020-10-30 21:05:44,276 INFO 18933 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 21:05:44,287 INFO 18933 [egg:core] dump config after load, 6ms
+2020-10-30 21:05:44,300 INFO 18933 [egg-watcher:application] watcher start success
+2020-10-30 21:05:44,314 INFO 18933 [egg:core] dump config after ready, 11ms
+2020-10-30 21:15:33,362 INFO 18973 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 21:15:33,389 INFO 18973 [egg-multipart] stream mode enable
+2020-10-30 21:15:33,447 INFO 18973 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 21:15:33,448 INFO 18973 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 21:15:33,449 INFO 18973 [egg-security] use csrf middleware
+2020-10-30 21:15:33,450 INFO 18973 [egg-security] use methodnoallow middleware
+2020-10-30 21:15:33,450 INFO 18973 [egg-security] use noopen middleware
+2020-10-30 21:15:33,451 INFO 18973 [egg-security] use nosniff middleware
+2020-10-30 21:15:33,451 INFO 18973 [egg-security] use xssProtection middleware
+2020-10-30 21:15:33,451 INFO 18973 [egg-security] use xframe middleware
+2020-10-30 21:15:33,452 INFO 18973 [egg-security] use dta middleware
+2020-10-30 21:15:33,452 INFO 18973 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 21:15:33,463 INFO 18973 [egg:core] dump config after load, 6ms
+2020-10-30 21:15:33,477 INFO 18973 [egg-watcher:application] watcher start success
+2020-10-30 21:15:33,494 INFO 18973 [egg:core] dump config after ready, 14ms
+2020-10-30 21:27:18,084 INFO 19063 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 21:27:18,110 INFO 19063 [egg-multipart] stream mode enable
+2020-10-30 21:27:18,168 INFO 19063 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 21:27:18,169 INFO 19063 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 21:27:18,170 INFO 19063 [egg-security] use csrf middleware
+2020-10-30 21:27:18,171 INFO 19063 [egg-security] use methodnoallow middleware
+2020-10-30 21:27:18,171 INFO 19063 [egg-security] use noopen middleware
+2020-10-30 21:27:18,172 INFO 19063 [egg-security] use nosniff middleware
+2020-10-30 21:27:18,173 INFO 19063 [egg-security] use xssProtection middleware
+2020-10-30 21:27:18,173 INFO 19063 [egg-security] use xframe middleware
+2020-10-30 21:27:18,173 INFO 19063 [egg-security] use dta middleware
+2020-10-30 21:27:18,173 INFO 19063 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 21:27:18,186 INFO 19063 [egg:core] dump config after load, 7ms
+2020-10-30 21:27:18,204 INFO 19063 [egg-watcher:application] watcher start success
+2020-10-30 21:27:18,218 INFO 19063 [egg:core] dump config after ready, 13ms
+2020-10-30 21:30:49,054 INFO 19107 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 21:30:49,080 INFO 19107 [egg-multipart] stream mode enable
+2020-10-30 21:30:49,142 INFO 19107 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 21:30:49,143 INFO 19107 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 21:30:49,145 INFO 19107 [egg-security] use csrf middleware
+2020-10-30 21:30:49,145 INFO 19107 [egg-security] use methodnoallow middleware
+2020-10-30 21:30:49,145 INFO 19107 [egg-security] use noopen middleware
+2020-10-30 21:30:49,146 INFO 19107 [egg-security] use nosniff middleware
+2020-10-30 21:30:49,146 INFO 19107 [egg-security] use xssProtection middleware
+2020-10-30 21:30:49,147 INFO 19107 [egg-security] use xframe middleware
+2020-10-30 21:30:49,147 INFO 19107 [egg-security] use dta middleware
+2020-10-30 21:30:49,147 INFO 19107 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 21:30:49,158 INFO 19107 [egg:core] dump config after load, 6ms
+2020-10-30 21:30:49,173 INFO 19107 [egg-watcher:application] watcher start success
+2020-10-30 21:30:49,189 INFO 19107 [egg:core] dump config after ready, 13ms
+2020-10-30 21:40:11,033 INFO 19168 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 21:40:11,064 INFO 19168 [egg-multipart] stream mode enable
+2020-10-30 21:40:11,136 INFO 19168 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 21:40:11,137 INFO 19168 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 21:40:11,139 INFO 19168 [egg-security] use csrf middleware
+2020-10-30 21:40:11,139 INFO 19168 [egg-security] use methodnoallow middleware
+2020-10-30 21:40:11,140 INFO 19168 [egg-security] use noopen middleware
+2020-10-30 21:40:11,140 INFO 19168 [egg-security] use nosniff middleware
+2020-10-30 21:40:11,140 INFO 19168 [egg-security] use xssProtection middleware
+2020-10-30 21:40:11,141 INFO 19168 [egg-security] use xframe middleware
+2020-10-30 21:40:11,141 INFO 19168 [egg-security] use dta middleware
+2020-10-30 21:40:11,141 INFO 19168 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 21:40:11,153 INFO 19168 [egg:core] dump config after load, 6ms
+2020-10-30 21:40:11,169 INFO 19168 [egg-watcher:application] watcher start success
+2020-10-30 21:40:11,184 INFO 19168 [egg:core] dump config after ready, 13ms
+2020-10-30 21:41:12,981 INFO 19205 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 21:41:13,008 INFO 19205 [egg-multipart] stream mode enable
+2020-10-30 21:41:13,064 INFO 19205 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 21:41:13,064 INFO 19205 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 21:41:13,066 INFO 19205 [egg-security] use csrf middleware
+2020-10-30 21:41:13,066 INFO 19205 [egg-security] use methodnoallow middleware
+2020-10-30 21:41:13,067 INFO 19205 [egg-security] use noopen middleware
+2020-10-30 21:41:13,067 INFO 19205 [egg-security] use nosniff middleware
+2020-10-30 21:41:13,067 INFO 19205 [egg-security] use xssProtection middleware
+2020-10-30 21:41:13,068 INFO 19205 [egg-security] use xframe middleware
+2020-10-30 21:41:13,068 INFO 19205 [egg-security] use dta middleware
+2020-10-30 21:41:13,068 INFO 19205 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 21:41:13,079 INFO 19205 [egg:core] dump config after load, 6ms
+2020-10-30 21:41:13,094 INFO 19205 [egg-watcher:application] watcher start success
+2020-10-30 21:41:13,108 INFO 19205 [egg:core] dump config after ready, 11ms
+2020-10-30 21:42:43,228 INFO 19236 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 21:42:43,254 INFO 19236 [egg-multipart] stream mode enable
+2020-10-30 21:42:43,314 INFO 19236 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 21:42:43,314 INFO 19236 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 21:42:43,316 INFO 19236 [egg-security] use csrf middleware
+2020-10-30 21:42:43,317 INFO 19236 [egg-security] use methodnoallow middleware
+2020-10-30 21:42:43,317 INFO 19236 [egg-security] use noopen middleware
+2020-10-30 21:42:43,318 INFO 19236 [egg-security] use nosniff middleware
+2020-10-30 21:42:43,318 INFO 19236 [egg-security] use xssProtection middleware
+2020-10-30 21:42:43,318 INFO 19236 [egg-security] use xframe middleware
+2020-10-30 21:42:43,319 INFO 19236 [egg-security] use dta middleware
+2020-10-30 21:42:43,319 INFO 19236 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 21:42:43,330 INFO 19236 [egg:core] dump config after load, 6ms
+2020-10-30 21:42:43,344 INFO 19236 [egg-watcher:application] watcher start success
+2020-10-30 21:42:43,361 INFO 19236 [egg:core] dump config after ready, 14ms
+2020-10-30 21:44:13,018 INFO 19272 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 21:44:13,046 INFO 19272 [egg-multipart] stream mode enable
+2020-10-30 21:44:13,121 INFO 19272 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 21:44:13,121 INFO 19272 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 21:44:13,123 INFO 19272 [egg-security] use csrf middleware
+2020-10-30 21:44:13,124 INFO 19272 [egg-security] use methodnoallow middleware
+2020-10-30 21:44:13,124 INFO 19272 [egg-security] use noopen middleware
+2020-10-30 21:44:13,125 INFO 19272 [egg-security] use nosniff middleware
+2020-10-30 21:44:13,126 INFO 19272 [egg-security] use xssProtection middleware
+2020-10-30 21:44:13,126 INFO 19272 [egg-security] use xframe middleware
+2020-10-30 21:44:13,127 INFO 19272 [egg-security] use dta middleware
+2020-10-30 21:44:13,127 INFO 19272 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 21:44:13,140 INFO 19272 [egg:core] dump config after load, 7ms
+2020-10-30 21:44:13,158 INFO 19272 [egg-watcher:application] watcher start success
+2020-10-30 21:44:13,173 INFO 19272 [egg:core] dump config after ready, 13ms
+2020-10-30 21:44:58,715 INFO 19303 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 21:44:58,745 INFO 19303 [egg-multipart] stream mode enable
+2020-10-30 21:44:58,805 INFO 19303 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 21:44:58,806 INFO 19303 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 21:44:58,807 INFO 19303 [egg-security] use csrf middleware
+2020-10-30 21:44:58,808 INFO 19303 [egg-security] use methodnoallow middleware
+2020-10-30 21:44:58,808 INFO 19303 [egg-security] use noopen middleware
+2020-10-30 21:44:58,809 INFO 19303 [egg-security] use nosniff middleware
+2020-10-30 21:44:58,809 INFO 19303 [egg-security] use xssProtection middleware
+2020-10-30 21:44:58,810 INFO 19303 [egg-security] use xframe middleware
+2020-10-30 21:44:58,810 INFO 19303 [egg-security] use dta middleware
+2020-10-30 21:44:58,810 INFO 19303 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 21:44:58,820 INFO 19303 [egg:core] dump config after load, 5ms
+2020-10-30 21:44:58,836 INFO 19303 [egg-watcher:application] watcher start success
+2020-10-30 21:44:58,852 INFO 19303 [egg:core] dump config after ready, 13ms
+2020-10-30 21:45:22,144 INFO 19333 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 21:45:22,169 INFO 19333 [egg-multipart] stream mode enable
+2020-10-30 21:45:22,227 INFO 19333 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 21:45:22,227 INFO 19333 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 21:45:22,229 INFO 19333 [egg-security] use csrf middleware
+2020-10-30 21:45:22,230 INFO 19333 [egg-security] use methodnoallow middleware
+2020-10-30 21:45:22,230 INFO 19333 [egg-security] use noopen middleware
+2020-10-30 21:45:22,230 INFO 19333 [egg-security] use nosniff middleware
+2020-10-30 21:45:22,231 INFO 19333 [egg-security] use xssProtection middleware
+2020-10-30 21:45:22,231 INFO 19333 [egg-security] use xframe middleware
+2020-10-30 21:45:22,231 INFO 19333 [egg-security] use dta middleware
+2020-10-30 21:45:22,231 INFO 19333 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 21:45:22,242 INFO 19333 [egg:core] dump config after load, 6ms
+2020-10-30 21:45:22,257 INFO 19333 [egg-watcher:application] watcher start success
+2020-10-30 21:45:22,271 INFO 19333 [egg:core] dump config after ready, 6ms
+2020-10-30 21:46:42,584 INFO 19370 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 21:46:42,611 INFO 19370 [egg-multipart] stream mode enable
+2020-10-30 21:46:42,669 INFO 19370 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 21:46:42,669 INFO 19370 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 21:46:42,671 INFO 19370 [egg-security] use csrf middleware
+2020-10-30 21:46:42,672 INFO 19370 [egg-security] use methodnoallow middleware
+2020-10-30 21:46:42,672 INFO 19370 [egg-security] use noopen middleware
+2020-10-30 21:46:42,672 INFO 19370 [egg-security] use nosniff middleware
+2020-10-30 21:46:42,673 INFO 19370 [egg-security] use xssProtection middleware
+2020-10-30 21:46:42,673 INFO 19370 [egg-security] use xframe middleware
+2020-10-30 21:46:42,673 INFO 19370 [egg-security] use dta middleware
+2020-10-30 21:46:42,673 INFO 19370 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 21:46:42,685 INFO 19370 [egg:core] dump config after load, 7ms
+2020-10-30 21:46:42,702 INFO 19370 [egg-watcher:application] watcher start success
+2020-10-30 21:46:42,715 INFO 19370 [egg:core] dump config after ready, 11ms
+2020-10-30 22:13:49,838 INFO 19416 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 22:13:49,859 INFO 19416 [egg-multipart] stream mode enable
+2020-10-30 22:13:49,905 INFO 19416 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 22:13:49,906 INFO 19416 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 22:13:49,907 INFO 19416 [egg-security] use csrf middleware
+2020-10-30 22:13:49,908 INFO 19416 [egg-security] use methodnoallow middleware
+2020-10-30 22:13:49,908 INFO 19416 [egg-security] use noopen middleware
+2020-10-30 22:13:49,909 INFO 19416 [egg-security] use nosniff middleware
+2020-10-30 22:13:49,909 INFO 19416 [egg-security] use xssProtection middleware
+2020-10-30 22:13:49,909 INFO 19416 [egg-security] use xframe middleware
+2020-10-30 22:13:49,909 INFO 19416 [egg-security] use dta middleware
+2020-10-30 22:13:49,909 INFO 19416 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 22:13:49,919 INFO 19416 [egg:core] dump config after load, 6ms
+2020-10-30 22:13:49,929 INFO 19416 [egg-watcher:application] watcher start success
+2020-10-30 22:13:49,936 INFO 19416 [egg:core] dump config after ready, 6ms
+2020-10-30 22:14:51,456 INFO 19419 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 22:14:51,478 INFO 19419 [egg-multipart] stream mode enable
+2020-10-30 22:14:51,524 INFO 19419 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 22:14:51,525 INFO 19419 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 22:14:51,526 INFO 19419 [egg-security] use csrf middleware
+2020-10-30 22:14:51,527 INFO 19419 [egg-security] use methodnoallow middleware
+2020-10-30 22:14:51,527 INFO 19419 [egg-security] use noopen middleware
+2020-10-30 22:14:51,528 INFO 19419 [egg-security] use nosniff middleware
+2020-10-30 22:14:51,528 INFO 19419 [egg-security] use xssProtection middleware
+2020-10-30 22:14:51,528 INFO 19419 [egg-security] use xframe middleware
+2020-10-30 22:14:51,528 INFO 19419 [egg-security] use dta middleware
+2020-10-30 22:14:51,528 INFO 19419 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 22:14:51,538 INFO 19419 [egg:core] dump config after load, 6ms
+2020-10-30 22:14:51,548 INFO 19419 [egg-watcher:application] watcher start success
+2020-10-30 22:14:51,554 INFO 19419 [egg:core] dump config after ready, 5ms
+2020-10-30 22:25:15,942 INFO 19454 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 22:25:15,974 INFO 19454 [egg-multipart] stream mode enable
+2020-10-30 22:25:16,038 INFO 19454 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 22:25:16,039 INFO 19454 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 22:25:16,040 INFO 19454 [egg-security] use csrf middleware
+2020-10-30 22:25:16,041 INFO 19454 [egg-security] use methodnoallow middleware
+2020-10-30 22:25:16,041 INFO 19454 [egg-security] use noopen middleware
+2020-10-30 22:25:16,042 INFO 19454 [egg-security] use nosniff middleware
+2020-10-30 22:25:16,042 INFO 19454 [egg-security] use xssProtection middleware
+2020-10-30 22:25:16,044 INFO 19454 [egg-security] use xframe middleware
+2020-10-30 22:25:16,044 INFO 19454 [egg-security] use dta middleware
+2020-10-30 22:25:16,044 INFO 19454 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 22:25:16,056 INFO 19454 [egg:core] dump config after load, 7ms
+2020-10-30 22:25:16,066 INFO 19454 [egg-watcher:application] watcher start success
+2020-10-30 22:25:16,075 INFO 19454 [egg:core] dump config after ready, 7ms
+2020-10-30 22:46:26,699 INFO 19568 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 22:46:26,732 INFO 19568 [egg-multipart] stream mode enable
+2020-10-30 22:46:26,804 INFO 19568 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 22:46:26,805 INFO 19568 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 22:46:26,807 INFO 19568 [egg-security] use csrf middleware
+2020-10-30 22:46:26,807 INFO 19568 [egg-security] use methodnoallow middleware
+2020-10-30 22:46:26,808 INFO 19568 [egg-security] use noopen middleware
+2020-10-30 22:46:26,808 INFO 19568 [egg-security] use nosniff middleware
+2020-10-30 22:46:26,809 INFO 19568 [egg-security] use xssProtection middleware
+2020-10-30 22:46:26,809 INFO 19568 [egg-security] use xframe middleware
+2020-10-30 22:46:26,809 INFO 19568 [egg-security] use dta middleware
+2020-10-30 22:46:26,809 INFO 19568 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 22:46:26,820 INFO 19568 [egg:core] dump config after load, 6ms
+2020-10-30 22:46:26,832 INFO 19568 [egg-watcher:application] watcher start success
+2020-10-30 22:46:26,839 INFO 19568 [egg:core] dump config after ready, 5ms
+2020-10-30 22:47:55,496 INFO 19600 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 22:47:55,526 INFO 19600 [egg-multipart] stream mode enable
+2020-10-30 22:47:55,587 INFO 19600 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 22:47:55,587 INFO 19600 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 22:47:55,589 INFO 19600 [egg-security] use csrf middleware
+2020-10-30 22:47:55,590 INFO 19600 [egg-security] use methodnoallow middleware
+2020-10-30 22:47:55,590 INFO 19600 [egg-security] use noopen middleware
+2020-10-30 22:47:55,590 INFO 19600 [egg-security] use nosniff middleware
+2020-10-30 22:47:55,591 INFO 19600 [egg-security] use xssProtection middleware
+2020-10-30 22:47:55,591 INFO 19600 [egg-security] use xframe middleware
+2020-10-30 22:47:55,592 INFO 19600 [egg-security] use dta middleware
+2020-10-30 22:47:55,592 INFO 19600 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 22:47:55,605 INFO 19600 [egg:core] dump config after load, 6ms
+2020-10-30 22:47:55,619 INFO 19600 [egg-watcher:application] watcher start success
+2020-10-30 22:47:55,633 INFO 19600 [egg:core] dump config after ready, 12ms
+2020-10-30 22:48:30,721 INFO 19604 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 22:48:30,744 INFO 19604 [egg-multipart] stream mode enable
+2020-10-30 22:48:30,794 INFO 19604 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 22:48:30,795 INFO 19604 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 22:48:30,796 INFO 19604 [egg-security] use csrf middleware
+2020-10-30 22:48:30,797 INFO 19604 [egg-security] use methodnoallow middleware
+2020-10-30 22:48:30,797 INFO 19604 [egg-security] use noopen middleware
+2020-10-30 22:48:30,798 INFO 19604 [egg-security] use nosniff middleware
+2020-10-30 22:48:30,798 INFO 19604 [egg-security] use xssProtection middleware
+2020-10-30 22:48:30,798 INFO 19604 [egg-security] use xframe middleware
+2020-10-30 22:48:30,799 INFO 19604 [egg-security] use dta middleware
+2020-10-30 22:48:30,799 INFO 19604 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 22:48:30,808 INFO 19604 [egg:core] dump config after load, 5ms
+2020-10-30 22:48:30,822 INFO 19604 [egg-watcher:application] watcher start success
+2020-10-30 22:48:30,833 INFO 19604 [egg:core] dump config after ready, 8ms
+2020-10-30 22:48:57,645 INFO 19605 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 22:48:57,669 INFO 19605 [egg-multipart] stream mode enable
+2020-10-30 22:48:57,728 INFO 19605 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 22:48:57,728 INFO 19605 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 22:48:57,730 INFO 19605 [egg-security] use csrf middleware
+2020-10-30 22:48:57,731 INFO 19605 [egg-security] use methodnoallow middleware
+2020-10-30 22:48:57,731 INFO 19605 [egg-security] use noopen middleware
+2020-10-30 22:48:57,731 INFO 19605 [egg-security] use nosniff middleware
+2020-10-30 22:48:57,732 INFO 19605 [egg-security] use xssProtection middleware
+2020-10-30 22:48:57,732 INFO 19605 [egg-security] use xframe middleware
+2020-10-30 22:48:57,732 INFO 19605 [egg-security] use dta middleware
+2020-10-30 22:48:57,733 INFO 19605 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 22:48:57,744 INFO 19605 [egg:core] dump config after load, 6ms
+2020-10-30 22:48:57,755 INFO 19605 [egg-watcher:application] watcher start success
+2020-10-30 22:48:57,772 INFO 19605 [egg:core] dump config after ready, 15ms
+2020-10-30 22:50:15,804 INFO 19608 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 22:50:15,827 INFO 19608 [egg-multipart] stream mode enable
+2020-10-30 22:50:15,880 INFO 19608 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 22:50:15,880 INFO 19608 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 22:50:15,882 INFO 19608 [egg-security] use csrf middleware
+2020-10-30 22:50:15,882 INFO 19608 [egg-security] use methodnoallow middleware
+2020-10-30 22:50:15,883 INFO 19608 [egg-security] use noopen middleware
+2020-10-30 22:50:15,883 INFO 19608 [egg-security] use nosniff middleware
+2020-10-30 22:50:15,883 INFO 19608 [egg-security] use xssProtection middleware
+2020-10-30 22:50:15,884 INFO 19608 [egg-security] use xframe middleware
+2020-10-30 22:50:15,884 INFO 19608 [egg-security] use dta middleware
+2020-10-30 22:50:15,884 INFO 19608 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 22:50:15,894 INFO 19608 [egg:core] dump config after load, 6ms
+2020-10-30 22:50:15,907 INFO 19608 [egg-watcher:application] watcher start success
+2020-10-30 22:50:15,916 INFO 19608 [egg:core] dump config after ready, 8ms
+2020-10-30 22:51:15,369 INFO 19609 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 22:51:15,401 INFO 19609 [egg-multipart] stream mode enable
+2020-10-30 22:51:15,463 INFO 19609 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 22:51:15,463 INFO 19609 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 22:51:15,465 INFO 19609 [egg-security] use csrf middleware
+2020-10-30 22:51:15,465 INFO 19609 [egg-security] use methodnoallow middleware
+2020-10-30 22:51:15,466 INFO 19609 [egg-security] use noopen middleware
+2020-10-30 22:51:15,466 INFO 19609 [egg-security] use nosniff middleware
+2020-10-30 22:51:15,466 INFO 19609 [egg-security] use xssProtection middleware
+2020-10-30 22:51:15,467 INFO 19609 [egg-security] use xframe middleware
+2020-10-30 22:51:15,467 INFO 19609 [egg-security] use dta middleware
+2020-10-30 22:51:15,467 INFO 19609 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 22:51:15,479 INFO 19609 [egg:core] dump config after load, 6ms
+2020-10-30 22:51:15,488 INFO 19609 [egg-watcher:application] watcher start success
+2020-10-30 22:51:15,497 INFO 19609 [egg:core] dump config after ready, 6ms
+2020-10-30 22:51:19,857 INFO 19610 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 22:51:19,892 INFO 19610 [egg-multipart] stream mode enable
+2020-10-30 22:51:19,953 INFO 19610 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 22:51:19,953 INFO 19610 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 22:51:19,955 INFO 19610 [egg-security] use csrf middleware
+2020-10-30 22:51:19,955 INFO 19610 [egg-security] use methodnoallow middleware
+2020-10-30 22:51:19,956 INFO 19610 [egg-security] use noopen middleware
+2020-10-30 22:51:19,956 INFO 19610 [egg-security] use nosniff middleware
+2020-10-30 22:51:19,956 INFO 19610 [egg-security] use xssProtection middleware
+2020-10-30 22:51:19,957 INFO 19610 [egg-security] use xframe middleware
+2020-10-30 22:51:19,957 INFO 19610 [egg-security] use dta middleware
+2020-10-30 22:51:19,957 INFO 19610 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 22:51:19,968 INFO 19610 [egg:core] dump config after load, 6ms
+2020-10-30 22:51:19,981 INFO 19610 [egg-watcher:application] watcher start success
+2020-10-30 22:51:19,999 INFO 19610 [egg:core] dump config after ready, 16ms
+2020-10-30 22:53:01,834 INFO 19612 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 22:53:01,856 INFO 19612 [egg-multipart] stream mode enable
+2020-10-30 22:53:01,907 INFO 19612 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 22:53:01,908 INFO 19612 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 22:53:01,909 INFO 19612 [egg-security] use csrf middleware
+2020-10-30 22:53:01,910 INFO 19612 [egg-security] use methodnoallow middleware
+2020-10-30 22:53:01,910 INFO 19612 [egg-security] use noopen middleware
+2020-10-30 22:53:01,911 INFO 19612 [egg-security] use nosniff middleware
+2020-10-30 22:53:01,911 INFO 19612 [egg-security] use xssProtection middleware
+2020-10-30 22:53:01,911 INFO 19612 [egg-security] use xframe middleware
+2020-10-30 22:53:01,912 INFO 19612 [egg-security] use dta middleware
+2020-10-30 22:53:01,912 INFO 19612 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 22:53:01,921 INFO 19612 [egg:core] dump config after load, 5ms
+2020-10-30 22:53:01,930 INFO 19612 [egg-watcher:application] watcher start success
+2020-10-30 22:53:01,938 INFO 19612 [egg:core] dump config after ready, 6ms
+2020-10-30 22:53:02,870 INFO 19613 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 22:53:02,902 INFO 19613 [egg-multipart] stream mode enable
+2020-10-30 22:53:02,961 INFO 19613 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 22:53:02,962 INFO 19613 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 22:53:02,963 INFO 19613 [egg-security] use csrf middleware
+2020-10-30 22:53:02,964 INFO 19613 [egg-security] use methodnoallow middleware
+2020-10-30 22:53:02,964 INFO 19613 [egg-security] use noopen middleware
+2020-10-30 22:53:02,965 INFO 19613 [egg-security] use nosniff middleware
+2020-10-30 22:53:02,965 INFO 19613 [egg-security] use xssProtection middleware
+2020-10-30 22:53:02,966 INFO 19613 [egg-security] use xframe middleware
+2020-10-30 22:53:02,966 INFO 19613 [egg-security] use dta middleware
+2020-10-30 22:53:02,966 INFO 19613 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 22:53:02,984 INFO 19613 [egg:core] dump config after load, 12ms
+2020-10-30 22:53:03,008 INFO 19613 [egg-watcher:application] watcher start success
+2020-10-30 22:53:03,384 INFO 19614 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 22:53:03,414 INFO 19614 [egg-multipart] stream mode enable
+2020-10-30 22:53:03,470 INFO 19614 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 22:53:03,471 INFO 19614 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 22:53:03,472 INFO 19614 [egg-security] use csrf middleware
+2020-10-30 22:53:03,473 INFO 19614 [egg-security] use methodnoallow middleware
+2020-10-30 22:53:03,473 INFO 19614 [egg-security] use noopen middleware
+2020-10-30 22:53:03,474 INFO 19614 [egg-security] use nosniff middleware
+2020-10-30 22:53:03,474 INFO 19614 [egg-security] use xssProtection middleware
+2020-10-30 22:53:03,474 INFO 19614 [egg-security] use xframe middleware
+2020-10-30 22:53:03,475 INFO 19614 [egg-security] use dta middleware
+2020-10-30 22:53:03,475 INFO 19614 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 22:53:03,485 INFO 19614 [egg:core] dump config after load, 6ms
+2020-10-30 22:53:03,496 INFO 19614 [egg-watcher:application] watcher start success
+2020-10-30 22:53:03,517 INFO 19614 [egg:core] dump config after ready, 19ms
+2020-10-30 22:53:34,301 INFO 19615 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 22:53:34,324 INFO 19615 [egg-multipart] stream mode enable
+2020-10-30 22:53:34,375 INFO 19615 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 22:53:34,375 INFO 19615 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 22:53:34,377 INFO 19615 [egg-security] use csrf middleware
+2020-10-30 22:53:34,377 INFO 19615 [egg-security] use methodnoallow middleware
+2020-10-30 22:53:34,377 INFO 19615 [egg-security] use noopen middleware
+2020-10-30 22:53:34,379 INFO 19615 [egg-security] use nosniff middleware
+2020-10-30 22:53:34,379 INFO 19615 [egg-security] use xssProtection middleware
+2020-10-30 22:53:34,380 INFO 19615 [egg-security] use xframe middleware
+2020-10-30 22:53:34,380 INFO 19615 [egg-security] use dta middleware
+2020-10-30 22:53:34,380 INFO 19615 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 22:53:34,393 INFO 19615 [egg:core] dump config after load, 9ms
+2020-10-30 22:53:34,412 INFO 19615 [egg-watcher:application] watcher start success
+2020-10-30 22:53:34,427 INFO 19615 [egg:core] dump config after ready, 12ms
+2020-10-30 22:54:31,740 INFO 19620 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 22:54:31,762 INFO 19620 [egg-multipart] stream mode enable
+2020-10-30 22:54:31,823 INFO 19620 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 22:54:31,823 INFO 19620 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 22:54:31,825 INFO 19620 [egg-security] use csrf middleware
+2020-10-30 22:54:31,826 INFO 19620 [egg-security] use methodnoallow middleware
+2020-10-30 22:54:31,826 INFO 19620 [egg-security] use noopen middleware
+2020-10-30 22:54:31,826 INFO 19620 [egg-security] use nosniff middleware
+2020-10-30 22:54:31,827 INFO 19620 [egg-security] use xssProtection middleware
+2020-10-30 22:54:31,827 INFO 19620 [egg-security] use xframe middleware
+2020-10-30 22:54:31,827 INFO 19620 [egg-security] use dta middleware
+2020-10-30 22:54:31,827 INFO 19620 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 22:54:31,837 INFO 19620 [egg:core] dump config after load, 6ms
+2020-10-30 22:54:31,851 INFO 19620 [egg-watcher:application] watcher start success
+2020-10-30 22:54:31,862 INFO 19620 [egg:core] dump config after ready, 6ms
+2020-10-30 22:56:55,837 INFO 19631 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 22:56:55,862 INFO 19631 [egg-multipart] stream mode enable
+2020-10-30 22:56:55,918 INFO 19631 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 22:56:55,918 INFO 19631 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 22:56:55,920 INFO 19631 [egg-security] use csrf middleware
+2020-10-30 22:56:55,921 INFO 19631 [egg-security] use methodnoallow middleware
+2020-10-30 22:56:55,921 INFO 19631 [egg-security] use noopen middleware
+2020-10-30 22:56:55,922 INFO 19631 [egg-security] use nosniff middleware
+2020-10-30 22:56:55,922 INFO 19631 [egg-security] use xssProtection middleware
+2020-10-30 22:56:55,923 INFO 19631 [egg-security] use xframe middleware
+2020-10-30 22:56:55,923 INFO 19631 [egg-security] use dta middleware
+2020-10-30 22:56:55,923 INFO 19631 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 22:56:55,936 INFO 19631 [egg:core] dump config after load, 8ms
+2020-10-30 22:56:55,945 INFO 19631 [egg-watcher:application] watcher start success
+2020-10-30 22:56:55,959 INFO 19631 [egg:core] dump config after ready, 11ms
+2020-10-30 22:57:16,530 INFO 19632 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 22:57:16,554 INFO 19632 [egg-multipart] stream mode enable
+2020-10-30 22:57:16,605 INFO 19632 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 22:57:16,605 INFO 19632 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 22:57:16,607 INFO 19632 [egg-security] use csrf middleware
+2020-10-30 22:57:16,607 INFO 19632 [egg-security] use methodnoallow middleware
+2020-10-30 22:57:16,608 INFO 19632 [egg-security] use noopen middleware
+2020-10-30 22:57:16,608 INFO 19632 [egg-security] use nosniff middleware
+2020-10-30 22:57:16,608 INFO 19632 [egg-security] use xssProtection middleware
+2020-10-30 22:57:16,610 INFO 19632 [egg-security] use xframe middleware
+2020-10-30 22:57:16,610 INFO 19632 [egg-security] use dta middleware
+2020-10-30 22:57:16,610 INFO 19632 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 22:57:16,620 INFO 19632 [egg:core] dump config after load, 6ms
+2020-10-30 22:57:16,633 INFO 19632 [egg-watcher:application] watcher start success
+2020-10-30 22:57:16,650 INFO 19632 [egg:core] dump config after ready, 15ms
+2020-10-30 22:57:55,595 INFO 19633 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 22:57:55,618 INFO 19633 [egg-multipart] stream mode enable
+2020-10-30 22:57:55,669 INFO 19633 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 22:57:55,669 INFO 19633 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 22:57:55,671 INFO 19633 [egg-security] use csrf middleware
+2020-10-30 22:57:55,672 INFO 19633 [egg-security] use methodnoallow middleware
+2020-10-30 22:57:55,672 INFO 19633 [egg-security] use noopen middleware
+2020-10-30 22:57:55,672 INFO 19633 [egg-security] use nosniff middleware
+2020-10-30 22:57:55,673 INFO 19633 [egg-security] use xssProtection middleware
+2020-10-30 22:57:55,673 INFO 19633 [egg-security] use xframe middleware
+2020-10-30 22:57:55,673 INFO 19633 [egg-security] use dta middleware
+2020-10-30 22:57:55,673 INFO 19633 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 22:57:55,683 INFO 19633 [egg:core] dump config after load, 5ms
+2020-10-30 22:57:55,698 INFO 19633 [egg-watcher:application] watcher start success
+2020-10-30 22:57:55,716 INFO 19633 [egg:core] dump config after ready, 16ms
+2020-10-30 23:13:09,459 INFO 19681 [egg:logger] init all loggers with options: {"dir":"/Volumes/data/wsbb.web.server/logs/ssr-with-ts","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-30 23:13:09,481 INFO 19681 [egg-multipart] stream mode enable
+2020-10-30 23:13:09,530 INFO 19681 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/output
+2020-10-30 23:13:09,531 INFO 19681 [egg-static] starting static serve / -> /Volumes/data/wsbb.web.server/src/app/public
+2020-10-30 23:13:09,532 INFO 19681 [egg-security] use csrf middleware
+2020-10-30 23:13:09,533 INFO 19681 [egg-security] use methodnoallow middleware
+2020-10-30 23:13:09,534 INFO 19681 [egg-security] use noopen middleware
+2020-10-30 23:13:09,534 INFO 19681 [egg-security] use nosniff middleware
+2020-10-30 23:13:09,535 INFO 19681 [egg-security] use xssProtection middleware
+2020-10-30 23:13:09,535 INFO 19681 [egg-security] use xframe middleware
+2020-10-30 23:13:09,535 INFO 19681 [egg-security] use dta middleware
+2020-10-30 23:13:09,536 INFO 19681 [egg-security] compose 7 middlewares into one security middleware
+2020-10-30 23:13:09,545 INFO 19681 [egg:core] dump config after load, 5ms
+2020-10-30 23:13:09,554 INFO 19681 [egg-watcher:application] watcher start success
+2020-10-30 23:13:09,563 INFO 19681 [egg:core] dump config after ready, 7ms
+2020-10-31 01:29:28,641 WARN 19681 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-10-31 01:29:28,642 WARN 19681 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-10-31 01:29:29,732 INFO 19681 [egg-logrotator] clean all log before 31 days
+2020-10-31 01:29:29,734 INFO 19681 [egg-logrotator] broadcast log-reload
+2020-10-31 01:29:29,735 INFO 19681 [egg-logrotator] rotate files success by DayRotator, files ["/Volumes/data/wsbb.web.server/logs/ssr-with-ts/common-error.log -> /Volumes/data/wsbb.web.server/logs/ssr-with-ts/common-error.log.2020-10-30","/Volumes/data/wsbb.web.server/logs/ssr-with-ts/midway-web.log -> /Volumes/data/wsbb.web.server/logs/ssr-with-ts/midway-web.log.2020-10-30","/Volumes/data/wsbb.web.server/logs/ssr-with-ts/midway-core.log -> /Volumes/data/wsbb.web.server/logs/ssr-with-ts/midway-core.log.2020-10-30","/Volumes/data/wsbb.web.server/logs/ssr-with-ts/egg-schedule.log -> /Volumes/data/wsbb.web.server/logs/ssr-with-ts/egg-schedule.log.2020-10-30","/Volumes/data/wsbb.web.server/logs/ssr-with-ts/midway-agent.log -> /Volumes/data/wsbb.web.server/logs/ssr-with-ts/midway-agent.log.2020-10-30"]

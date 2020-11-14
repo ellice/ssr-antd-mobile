@@ -1,0 +1,586 @@
+[
+  {
+    "name": "Process Start",
+    "start": 1605348204675,
+    "end": 1605348205268,
+    "duration": 593,
+    "pid": 43743,
+    "index": 0
+  },
+  {
+    "name": "Application Start",
+    "start": 1605348205269,
+    "end": 1605348205636,
+    "duration": 367,
+    "pid": 43743,
+    "index": 1
+  },
+  {
+    "name": "Load Plugin",
+    "start": 1605348205272,
+    "end": 1605348205280,
+    "duration": 8,
+    "pid": 43743,
+    "index": 2
+  },
+  {
+    "name": "Load Config",
+    "start": 1605348205280,
+    "end": 1605348205293,
+    "duration": 13,
+    "pid": 43743,
+    "index": 3
+  },
+  {
+    "name": "Require(0) config/config.default.ts",
+    "start": 1605348205280,
+    "end": 1605348205281,
+    "duration": 1,
+    "pid": 43743,
+    "index": 4
+  },
+  {
+    "name": "Require(1) config/config.local.ts",
+    "start": 1605348205281,
+    "end": 1605348205282,
+    "duration": 1,
+    "pid": 43743,
+    "index": 5
+  },
+  {
+    "name": "Require(2) /Volumes/data/wsbb.web.server/node_modules/egg-session/config/config.default.js",
+    "start": 1605348205282,
+    "end": 1605348205282,
+    "duration": 0,
+    "pid": 43743,
+    "index": 6
+  },
+  {
+    "name": "Require(3) /Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.default.js",
+    "start": 1605348205282,
+    "end": 1605348205283,
+    "duration": 1,
+    "pid": 43743,
+    "index": 7
+  },
+  {
+    "name": "Require(4) /Volumes/data/wsbb.web.server/node_modules/egg-jsonp/config/config.default.js",
+    "start": 1605348205283,
+    "end": 1605348205283,
+    "duration": 0,
+    "pid": 43743,
+    "index": 8
+  },
+  {
+    "name": "Require(5) /Volumes/data/wsbb.web.server/node_modules/egg-onerror/config/config.default.js",
+    "start": 1605348205284,
+    "end": 1605348205284,
+    "duration": 0,
+    "pid": 43743,
+    "index": 9
+  },
+  {
+    "name": "Require(6) /Volumes/data/wsbb.web.server/node_modules/egg-i18n/config/config.default.js",
+    "start": 1605348205284,
+    "end": 1605348205284,
+    "duration": 0,
+    "pid": 43743,
+    "index": 10
+  },
+  {
+    "name": "Require(7) /Volumes/data/wsbb.web.server/node_modules/egg-watcher/config/config.default.js",
+    "start": 1605348205285,
+    "end": 1605348205285,
+    "duration": 0,
+    "pid": 43743,
+    "index": 11
+  },
+  {
+    "name": "Require(8) /Volumes/data/wsbb.web.server/node_modules/egg-schedule/config/config.default.js",
+    "start": 1605348205285,
+    "end": 1605348205285,
+    "duration": 0,
+    "pid": 43743,
+    "index": 12
+  },
+  {
+    "name": "Require(9) /Volumes/data/wsbb.web.server/node_modules/egg-multipart/config/config.default.js",
+    "start": 1605348205285,
+    "end": 1605348205286,
+    "duration": 1,
+    "pid": 43743,
+    "index": 13
+  },
+  {
+    "name": "Require(10) /Volumes/data/wsbb.web.server/node_modules/egg-development/config/config.default.js",
+    "start": 1605348205286,
+    "end": 1605348205286,
+    "duration": 0,
+    "pid": 43743,
+    "index": 14
+  },
+  {
+    "name": "Require(11) /Volumes/data/wsbb.web.server/node_modules/egg-logrotator/config/config.default.js",
+    "start": 1605348205286,
+    "end": 1605348205287,
+    "duration": 1,
+    "pid": 43743,
+    "index": 15
+  },
+  {
+    "name": "Require(12) /Volumes/data/wsbb.web.server/node_modules/egg-static/config/config.default.js",
+    "start": 1605348205287,
+    "end": 1605348205287,
+    "duration": 0,
+    "pid": 43743,
+    "index": 16
+  },
+  {
+    "name": "Require(13) /Volumes/data/wsbb.web.server/node_modules/egg-view/config/config.default.js",
+    "start": 1605348205287,
+    "end": 1605348205288,
+    "duration": 1,
+    "pid": 43743,
+    "index": 17
+  },
+  {
+    "name": "Require(14) /Volumes/data/wsbb.web.server/node_modules/egg-proxy/config/config.default.js",
+    "start": 1605348205288,
+    "end": 1605348205288,
+    "duration": 0,
+    "pid": 43743,
+    "index": 18
+  },
+  {
+    "name": "Require(15) /Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+    "start": 1605348205289,
+    "end": 1605348205289,
+    "duration": 0,
+    "pid": 43743,
+    "index": 19
+  },
+  {
+    "name": "Require(16) /Volumes/data/wsbb.web.server/node_modules/midway-web/config/config.default.js",
+    "start": 1605348205290,
+    "end": 1605348205290,
+    "duration": 0,
+    "pid": 43743,
+    "index": 20
+  },
+  {
+    "name": "Require(17) config/config.default.ts",
+    "start": 1605348205291,
+    "end": 1605348205291,
+    "duration": 0,
+    "pid": 43743,
+    "index": 21
+  },
+  {
+    "name": "Require(18) /Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.local.js",
+    "start": 1605348205291,
+    "end": 1605348205291,
+    "duration": 0,
+    "pid": 43743,
+    "index": 22
+  },
+  {
+    "name": "Require(19) /Volumes/data/wsbb.web.server/node_modules/egg-watcher/config/config.local.js",
+    "start": 1605348205292,
+    "end": 1605348205292,
+    "duration": 0,
+    "pid": 43743,
+    "index": 23
+  },
+  {
+    "name": "Require(20) /Volumes/data/wsbb.web.server/node_modules/egg-view/config/config.local.js",
+    "start": 1605348205292,
+    "end": 1605348205292,
+    "duration": 0,
+    "pid": 43743,
+    "index": 24
+  },
+  {
+    "name": "Require(21) /Volumes/data/wsbb.web.server/node_modules/egg/config/config.local.js",
+    "start": 1605348205293,
+    "end": 1605348205293,
+    "duration": 0,
+    "pid": 43743,
+    "index": 25
+  },
+  {
+    "name": "Require(22) /Volumes/data/wsbb.web.server/node_modules/midway-web/config/config.local.js",
+    "start": 1605348205293,
+    "end": 1605348205293,
+    "duration": 0,
+    "pid": 43743,
+    "index": 26
+  },
+  {
+    "name": "Require(23) config/config.local.ts",
+    "start": 1605348205293,
+    "end": 1605348205293,
+    "duration": 0,
+    "pid": 43743,
+    "index": 27
+  },
+  {
+    "name": "Load extend/application.js",
+    "start": 1605348205294,
+    "end": 1605348205299,
+    "duration": 5,
+    "pid": 43743,
+    "index": 28
+  },
+  {
+    "name": "Require(24) /Volumes/data/wsbb.web.server/node_modules/egg-session/app/extend/application.js",
+    "start": 1605348205294,
+    "end": 1605348205295,
+    "duration": 1,
+    "pid": 43743,
+    "index": 29
+  },
+  {
+    "name": "Require(25) /Volumes/data/wsbb.web.server/node_modules/egg-security/app/extend/application.js",
+    "start": 1605348205295,
+    "end": 1605348205295,
+    "duration": 0,
+    "pid": 43743,
+    "index": 30
+  },
+  {
+    "name": "Require(26) /Volumes/data/wsbb.web.server/node_modules/egg-jsonp/app/extend/application.js",
+    "start": 1605348205295,
+    "end": 1605348205296,
+    "duration": 1,
+    "pid": 43743,
+    "index": 31
+  },
+  {
+    "name": "Require(27) /Volumes/data/wsbb.web.server/node_modules/egg-logrotator/app/extend/application.js",
+    "start": 1605348205297,
+    "end": 1605348205297,
+    "duration": 0,
+    "pid": 43743,
+    "index": 32
+  },
+  {
+    "name": "Require(28) /Volumes/data/wsbb.web.server/node_modules/egg-view/app/extend/application.js",
+    "start": 1605348205297,
+    "end": 1605348205298,
+    "duration": 1,
+    "pid": 43743,
+    "index": 33
+  },
+  {
+    "name": "Load extend/request.js",
+    "start": 1605348205299,
+    "end": 1605348205302,
+    "duration": 3,
+    "pid": 43743,
+    "index": 34
+  },
+  {
+    "name": "Require(29) /Volumes/data/wsbb.web.server/node_modules/egg/app/extend/request.js",
+    "start": 1605348205300,
+    "end": 1605348205301,
+    "duration": 1,
+    "pid": 43743,
+    "index": 35
+  },
+  {
+    "name": "Load extend/response.js",
+    "start": 1605348205302,
+    "end": 1605348205305,
+    "duration": 3,
+    "pid": 43743,
+    "index": 36
+  },
+  {
+    "name": "Require(30) /Volumes/data/wsbb.web.server/node_modules/egg/app/extend/response.js",
+    "start": 1605348205303,
+    "end": 1605348205304,
+    "duration": 1,
+    "pid": 43743,
+    "index": 37
+  },
+  {
+    "name": "Load extend/context.js",
+    "start": 1605348205305,
+    "end": 1605348205339,
+    "duration": 34,
+    "pid": 43743,
+    "index": 38
+  },
+  {
+    "name": "Require(31) /Volumes/data/wsbb.web.server/node_modules/egg-security/app/extend/context.js",
+    "start": 1605348205305,
+    "end": 1605348205309,
+    "duration": 4,
+    "pid": 43743,
+    "index": 39
+  },
+  {
+    "name": "Require(32) /Volumes/data/wsbb.web.server/node_modules/egg-jsonp/app/extend/context.js",
+    "start": 1605348205309,
+    "end": 1605348205309,
+    "duration": 0,
+    "pid": 43743,
+    "index": 40
+  },
+  {
+    "name": "Require(33) /Volumes/data/wsbb.web.server/node_modules/egg-i18n/app/extend/context.js",
+    "start": 1605348205309,
+    "end": 1605348205311,
+    "duration": 2,
+    "pid": 43743,
+    "index": 41
+  },
+  {
+    "name": "Require(34) /Volumes/data/wsbb.web.server/node_modules/egg-multipart/app/extend/context.js",
+    "start": 1605348205311,
+    "end": 1605348205336,
+    "duration": 25,
+    "pid": 43743,
+    "index": 42
+  },
+  {
+    "name": "Require(35) /Volumes/data/wsbb.web.server/node_modules/egg-view/app/extend/context.js",
+    "start": 1605348205336,
+    "end": 1605348205337,
+    "duration": 1,
+    "pid": 43743,
+    "index": 43
+  },
+  {
+    "name": "Require(36) /Volumes/data/wsbb.web.server/node_modules/egg/app/extend/context.js",
+    "start": 1605348205337,
+    "end": 1605348205338,
+    "duration": 1,
+    "pid": 43743,
+    "index": 44
+  },
+  {
+    "name": "Require(37) /Volumes/data/wsbb.web.server/node_modules/midway-web/app/extend/context.js",
+    "start": 1605348205338,
+    "end": 1605348205338,
+    "duration": 0,
+    "pid": 43743,
+    "index": 45
+  },
+  {
+    "name": "Load extend/helper.js",
+    "start": 1605348205339,
+    "end": 1605348205349,
+    "duration": 10,
+    "pid": 43743,
+    "index": 46
+  },
+  {
+    "name": "Require(38) /Volumes/data/wsbb.web.server/node_modules/egg-security/app/extend/helper.js",
+    "start": 1605348205340,
+    "end": 1605348205347,
+    "duration": 7,
+    "pid": 43743,
+    "index": 47
+  },
+  {
+    "name": "Require(39) /Volumes/data/wsbb.web.server/node_modules/egg/app/extend/helper.js",
+    "start": 1605348205348,
+    "end": 1605348205348,
+    "duration": 0,
+    "pid": 43743,
+    "index": 48
+  },
+  {
+    "name": "Load app.js",
+    "start": 1605348205406,
+    "end": 1605348205517,
+    "duration": 111,
+    "pid": 43743,
+    "index": 49
+  },
+  {
+    "name": "Require(40) /Volumes/data/wsbb.web.server/node_modules/egg-session/app.js",
+    "start": 1605348205406,
+    "end": 1605348205406,
+    "duration": 0,
+    "pid": 43743,
+    "index": 50
+  },
+  {
+    "name": "Require(41) /Volumes/data/wsbb.web.server/node_modules/egg-security/app.js",
+    "start": 1605348205407,
+    "end": 1605348205407,
+    "duration": 0,
+    "pid": 43743,
+    "index": 51
+  },
+  {
+    "name": "Require(42) /Volumes/data/wsbb.web.server/node_modules/egg-onerror/app.js",
+    "start": 1605348205408,
+    "end": 1605348205411,
+    "duration": 3,
+    "pid": 43743,
+    "index": 52
+  },
+  {
+    "name": "Require(43) /Volumes/data/wsbb.web.server/node_modules/egg-i18n/app.js",
+    "start": 1605348205411,
+    "end": 1605348205417,
+    "duration": 6,
+    "pid": 43743,
+    "index": 53
+  },
+  {
+    "name": "Require(44) /Volumes/data/wsbb.web.server/node_modules/egg-watcher/app.js",
+    "start": 1605348205418,
+    "end": 1605348205419,
+    "duration": 1,
+    "pid": 43743,
+    "index": 54
+  },
+  {
+    "name": "Require(45) /Volumes/data/wsbb.web.server/node_modules/egg-schedule/app.js",
+    "start": 1605348205419,
+    "end": 1605348205419,
+    "duration": 0,
+    "pid": 43743,
+    "index": 55
+  },
+  {
+    "name": "Require(46) /Volumes/data/wsbb.web.server/node_modules/egg-multipart/app.js",
+    "start": 1605348205420,
+    "end": 1605348205420,
+    "duration": 0,
+    "pid": 43743,
+    "index": 56
+  },
+  {
+    "name": "Require(47) /Volumes/data/wsbb.web.server/node_modules/egg-development/app.js",
+    "start": 1605348205420,
+    "end": 1605348205421,
+    "duration": 1,
+    "pid": 43743,
+    "index": 57
+  },
+  {
+    "name": "Require(48) /Volumes/data/wsbb.web.server/node_modules/egg-logrotator/app.js",
+    "start": 1605348205421,
+    "end": 1605348205421,
+    "duration": 0,
+    "pid": 43743,
+    "index": 58
+  },
+  {
+    "name": "Require(49) /Volumes/data/wsbb.web.server/node_modules/egg-static/app.js",
+    "start": 1605348205421,
+    "end": 1605348205421,
+    "duration": 0,
+    "pid": 43743,
+    "index": 59
+  },
+  {
+    "name": "Require(50) /Volumes/data/wsbb.web.server/node_modules/midway-schedule/app.js",
+    "start": 1605348205422,
+    "end": 1605348205422,
+    "duration": 0,
+    "pid": 43743,
+    "index": 60
+  },
+  {
+    "name": "Require(51) /Volumes/data/wsbb.web.server/node_modules/egg-proxy/app.js",
+    "start": 1605348205422,
+    "end": 1605348205517,
+    "duration": 95,
+    "pid": 43743,
+    "index": 61
+  },
+  {
+    "name": "Before Start in /Volumes/data/wsbb.web.server/node_modules/egg-watcher/lib/init.js:15:14",
+    "start": 1605348205524,
+    "end": 1605348205636,
+    "duration": 112,
+    "pid": 43743,
+    "index": 62
+  },
+  {
+    "name": "Load Service",
+    "start": 1605348205547,
+    "end": 1605348205551,
+    "duration": 4,
+    "pid": 43743,
+    "index": 63
+  },
+  {
+    "name": "Load \"service\" to Context",
+    "start": 1605348205547,
+    "end": 1605348205551,
+    "duration": 4,
+    "pid": 43743,
+    "index": 64
+  },
+  {
+    "name": "Load Middleware",
+    "start": 1605348205551,
+    "end": 1605348205612,
+    "duration": 61,
+    "pid": 43743,
+    "index": 65
+  },
+  {
+    "name": "Load \"middlewares\" to Application",
+    "start": 1605348205552,
+    "end": 1605348205603,
+    "duration": 51,
+    "pid": 43743,
+    "index": 66
+  },
+  {
+    "name": "Load Controller",
+    "start": 1605348205612,
+    "end": 1605348205613,
+    "duration": 1,
+    "pid": 43743,
+    "index": 67
+  },
+  {
+    "name": "Load \"controller\" to Application",
+    "start": 1605348205612,
+    "end": 1605348205613,
+    "duration": 1,
+    "pid": 43743,
+    "index": 68
+  },
+  {
+    "name": "Load Router",
+    "start": 1605348205613,
+    "end": 1605348205617,
+    "duration": 4,
+    "pid": 43743,
+    "index": 69
+  },
+  {
+    "name": "Require(52) app/router.ts",
+    "start": 1605348205613,
+    "end": 1605348205613,
+    "duration": 0,
+    "pid": 43743,
+    "index": 70
+  },
+  {
+    "name": "Before Start in /Volumes/data/wsbb.web.server/node_modules/egg-core/lib/egg.js:303:10",
+    "start": 1605348205613,
+    "end": 1605348205625,
+    "duration": 12,
+    "pid": 43743,
+    "index": 71
+  },
+  {
+    "name": "Before Start in /Volumes/data/wsbb.web.server/node_modules/midway-web/dist/loader/loader.js:29:18",
+    "start": 1605348205617,
+    "end": 1605348205627,
+    "duration": 10,
+    "pid": 43743,
+    "index": 72
+  }
+]

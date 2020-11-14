@@ -1,0 +1,337 @@
+{
+  "keys": "/Volumes/data/wsbb.web.server/src/config/config.default.ts",
+  "middleware": "/Volumes/data/wsbb.web.server/src/config/config.default.ts",
+  "static": {
+    "dir": "/Volumes/data/wsbb.web.server/src/config/config.default.ts",
+    "prefix": "/Volumes/data/wsbb.web.server/src/config/config.default.ts",
+    "dynamic": "/Volumes/data/wsbb.web.server/node_modules/egg-static/config/config.default.js",
+    "preload": "/Volumes/data/wsbb.web.server/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Volumes/data/wsbb.web.server/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Volumes/data/wsbb.web.server/node_modules/egg-static/config/config.default.js"
+  },
+  "development": {
+    "watchDirs": "/Volumes/data/wsbb.web.server/src/config/config.local.ts",
+    "overrideDefault": "/Volumes/data/wsbb.web.server/src/config/config.local.ts",
+    "ignoreDirs": "/Volumes/data/wsbb.web.server/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Volumes/data/wsbb.web.server/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Volumes/data/wsbb.web.server/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Volumes/data/wsbb.web.server/node_modules/egg-development/config/config.default.js"
+  },
+  "proxy": {
+    "host": "/Volumes/data/wsbb.web.server/src/config/config.local.ts",
+    "match": "/Volumes/data/wsbb.web.server/src/config/config.local.ts"
+  },
+  "session": {
+    "maxAge": "/Volumes/data/wsbb.web.server/node_modules/egg-session/config/config.default.js",
+    "key": "/Volumes/data/wsbb.web.server/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Volumes/data/wsbb.web.server/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Volumes/data/wsbb.web.server/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.default.js",
+      "type": "/Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Volumes/data/wsbb.web.server/node_modules/midway-web/config/config.local.js",
+      "useSession": "/Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.default.js",
+      "value": "/Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.default.js",
+      "value": "/Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.default.js",
+      "value": "/Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.default.js",
+      "policy": "/Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Volumes/data/wsbb.web.server/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Volumes/data/wsbb.web.server/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Volumes/data/wsbb.web.server/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Volumes/data/wsbb.web.server/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Volumes/data/wsbb.web.server/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Volumes/data/wsbb.web.server/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Volumes/data/wsbb.web.server/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Volumes/data/wsbb.web.server/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Volumes/data/wsbb.web.server/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Volumes/data/wsbb.web.server/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Volumes/data/wsbb.web.server/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Volumes/data/wsbb.web.server/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Volumes/data/wsbb.web.server/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Volumes/data/wsbb.web.server/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Volumes/data/wsbb.web.server/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Volumes/data/wsbb.web.server/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Volumes/data/wsbb.web.server/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Volumes/data/wsbb.web.server/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Volumes/data/wsbb.web.server/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Volumes/data/wsbb.web.server/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Volumes/data/wsbb.web.server/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Volumes/data/wsbb.web.server/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Volumes/data/wsbb.web.server/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Volumes/data/wsbb.web.server/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Volumes/data/wsbb.web.server/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Volumes/data/wsbb.web.server/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Volumes/data/wsbb.web.server/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Volumes/data/wsbb.web.server/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Volumes/data/wsbb.web.server/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Volumes/data/wsbb.web.server/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Volumes/data/wsbb.web.server/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Volumes/data/wsbb.web.server/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Volumes/data/wsbb.web.server/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Volumes/data/wsbb.web.server/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Volumes/data/wsbb.web.server/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Volumes/data/wsbb.web.server/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Volumes/data/wsbb.web.server/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Volumes/data/wsbb.web.server/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "view": {
+    "root": "/Volumes/data/wsbb.web.server/node_modules/egg-view/config/config.default.js",
+    "cache": "/Volumes/data/wsbb.web.server/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Volumes/data/wsbb.web.server/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Volumes/data/wsbb.web.server/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Volumes/data/wsbb.web.server/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+  "name": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+  "cookies": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+    "version": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+    "description": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "antd-mobile": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "babel-plugin-import": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "midway": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "react": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "react-dom": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "react-router-dom": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "serialize-javascript": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "ykfe-utils": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "@babel/core": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "@babel/polyfill": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "@babel/preset-env": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "@types/node": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "@types/react": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "@types/react-dom": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "@types/react-router-dom": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "@types/serialize-javascript": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "babel-loader": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "babel-preset-react-app": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "concurrently": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "cross-env": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "css-hot-loader": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "css-loader": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "egg-proxy": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "file-loader": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "less": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "less-loader": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "midway-bin": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "mini-css-extract-plugin": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "optimize-css-assets-webpack-plugin": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "postcss-flexbugs-fixes": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "postcss-loader": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "postcss-preset-env": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "postcss-safe-parser": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "react-dev-utils": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "rimraf": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "terser-webpack-plugin": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "tslint": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "tslint-config-standard": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "typescript": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "url-loader": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "webpack": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "webpack-bundle-analyzer": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "webpack-cli": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "webpack-dev-server": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "webpack-manifest-plugin": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "webpack-merge": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "webpack-node-externals": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "yk-cli": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "prod": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "start": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "ssr": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "csr": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "build": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "build:ssr": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "build:csr": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js"
+    },
+    "midway-bin-clean": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+    "repository": {
+      "type": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "url": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+    "license": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+  "HOME": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+  "rundir": "/Volumes/data/wsbb.web.server/node_modules/midway-web/config/config.default.js",
+  "dump": {
+    "ignore": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+    "notFound": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+    "sitefile": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+    "middlewares": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+    "httpClient": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+    "encoding": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+    "formLimit": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+    "textLimit": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+    "strict": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "depth": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+    "encoding": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+    "env": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+    "level": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+    "buffer": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+    "appLogName": "/Volumes/data/wsbb.web.server/node_modules/midway-web/config/config.default.js",
+    "coreLogName": "/Volumes/data/wsbb.web.server/node_modules/midway-web/config/config.default.js",
+    "agentLogName": "/Volumes/data/wsbb.web.server/node_modules/midway-web/config/config.default.js",
+    "errorLogName": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+    "logging": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "port": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+      "hostname": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Volumes/data/wsbb.web.server/node_modules/egg/config/config.default.js",
+  "pluginOverwrite": "/Volumes/data/wsbb.web.server/node_modules/midway-web/config/config.default.js",
+  "container": {
+    "ignore": "/Volumes/data/wsbb.web.server/node_modules/midway-web/config/config.default.js"
+  },
+  "alinode": {
+    "logdir": "/Volumes/data/wsbb.web.server/node_modules/midway-web/config/config.default.js",
+    "error_log": "/Volumes/data/wsbb.web.server/node_modules/midway-web/config/config.default.js",
+    "packages": "/Volumes/data/wsbb.web.server/node_modules/midway-web/config/config.default.js"
+  }
+}

@@ -1,0 +1,1750 @@
+2020-10-28 22:47:47,617 ERROR 17418 [-/127.0.0.1/-/2ms GET /faqs] nodejs.Error: faqs is not valid in current context
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/applicationContext.ts:242:13)
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/container.ts:148:18)
+    at MidwayRequestContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_midway-core@1.20.3@midway-core/src/requestContainer.ts:65:26)
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/node_modules/_midway-web@1.20.3@midway-web/src/loader/webLoader.ts:300:51)
+    at Object.callFn (/Volumes/data/wsbb.web.server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Volumes/data/wsbb.web.server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Volumes/data/wsbb.web.server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Volumes/data/wsbb.web.server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Volumes/data/wsbb.web.server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Volumes/data/wsbb.web.server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+
+pid: 17418
+hostname: peter-MacBook-Pro.local
+
+2020-10-28 22:48:57,145 ERROR 17418 [-/127.0.0.1/-/1ms GET /faqs] nodejs.Error: faqs is not valid in current context
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/applicationContext.ts:242:13)
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/container.ts:148:18)
+    at MidwayRequestContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_midway-core@1.20.3@midway-core/src/requestContainer.ts:65:26)
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/node_modules/_midway-web@1.20.3@midway-web/src/loader/webLoader.ts:300:51)
+    at Object.callFn (/Volumes/data/wsbb.web.server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Volumes/data/wsbb.web.server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Volumes/data/wsbb.web.server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Volumes/data/wsbb.web.server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Volumes/data/wsbb.web.server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Volumes/data/wsbb.web.server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+
+pid: 17418
+hostname: peter-MacBook-Pro.local
+
+2020-10-28 22:48:57,786 ERROR 17418 [-/127.0.0.1/-/1ms GET /faqs] nodejs.Error: faqs is not valid in current context
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/applicationContext.ts:242:13)
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/container.ts:148:18)
+    at MidwayRequestContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_midway-core@1.20.3@midway-core/src/requestContainer.ts:65:26)
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/node_modules/_midway-web@1.20.3@midway-web/src/loader/webLoader.ts:300:51)
+    at Object.callFn (/Volumes/data/wsbb.web.server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Volumes/data/wsbb.web.server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Volumes/data/wsbb.web.server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Volumes/data/wsbb.web.server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Volumes/data/wsbb.web.server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Volumes/data/wsbb.web.server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+
+pid: 17418
+hostname: peter-MacBook-Pro.local
+
+2020-10-28 22:49:05,911 ERROR 17418 [-/127.0.0.1/-/1ms GET /faqs] nodejs.Error: faqs is not valid in current context
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/applicationContext.ts:242:13)
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/container.ts:148:18)
+    at MidwayRequestContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_midway-core@1.20.3@midway-core/src/requestContainer.ts:65:26)
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/node_modules/_midway-web@1.20.3@midway-web/src/loader/webLoader.ts:300:51)
+    at Object.callFn (/Volumes/data/wsbb.web.server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Volumes/data/wsbb.web.server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Volumes/data/wsbb.web.server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Volumes/data/wsbb.web.server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Volumes/data/wsbb.web.server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Volumes/data/wsbb.web.server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+
+pid: 17418
+hostname: peter-MacBook-Pro.local
+
+2020-10-28 22:49:11,981 ERROR 17418 [-/127.0.0.1/-/1ms GET /faqs] nodejs.Error: faqs is not valid in current context
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/applicationContext.ts:242:13)
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/container.ts:148:18)
+    at MidwayRequestContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_midway-core@1.20.3@midway-core/src/requestContainer.ts:65:26)
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/node_modules/_midway-web@1.20.3@midway-web/src/loader/webLoader.ts:300:51)
+    at Object.callFn (/Volumes/data/wsbb.web.server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Volumes/data/wsbb.web.server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Volumes/data/wsbb.web.server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Volumes/data/wsbb.web.server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Volumes/data/wsbb.web.server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Volumes/data/wsbb.web.server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+
+pid: 17418
+hostname: peter-MacBook-Pro.local
+
+2020-10-28 22:50:10,290 ERROR 17434 [-/127.0.0.1/-/0ms GET /] nodejs.Error: controller identifier [page] is exists!
+    at AppWorkerLoader.loadMidwayController (/Volumes/data/wsbb.web.server/node_modules/_midway-web@1.20.3@midway-web/src/loader/webLoader.ts:313:17)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at /Volumes/data/wsbb.web.server/node_modules/_midway-web@1.20.3@midway-web/src/loader/loader.ts:31:7
+
+pid: 17434
+hostname: peter-MacBook-Pro.local
+
+2020-10-28 22:50:22,644 ERROR 17435 [-/127.0.0.1/-/0ms GET /] nodejs.Error: controller identifier [user] is exists!
+    at AppWorkerLoader.loadMidwayController (/Volumes/data/wsbb.web.server/node_modules/_midway-web@1.20.3@midway-web/src/loader/webLoader.ts:313:17)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at /Volumes/data/wsbb.web.server/node_modules/_midway-web@1.20.3@midway-web/src/loader/loader.ts:31:7
+
+pid: 17435
+hostname: peter-MacBook-Pro.local
+
+2020-10-28 22:53:35,321 ERROR 17466 [-/127.0.0.1/-/0ms GET /] nodejs.Error: controller identifier [page] is exists!
+    at AppWorkerLoader.loadMidwayController (/Volumes/data/wsbb.web.server/node_modules/_midway-web@1.20.3@midway-web/src/loader/webLoader.ts:313:17)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at /Volumes/data/wsbb.web.server/node_modules/_midway-web@1.20.3@midway-web/src/loader/loader.ts:31:7
+
+pid: 17466
+hostname: peter-MacBook-Pro.local
+
+2020-10-30 18:03:22,822 ERROR 18547 [-/::1/-/67ms GET /faqs] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:102:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:116:17)
+2020-10-30 18:03:46,230 ERROR 18547 [-/::1/-/5ms GET /faqs] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:102:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:116:17)
+2020-10-30 18:04:38,074 ERROR 18548 [-/::1/-/68ms GET /faqs] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:50:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:64:17)
+2020-10-30 18:04:38,527 ERROR 18548 [-/::1/-/5ms GET /faqs] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:50:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:64:17)
+2020-10-30 18:04:38,696 ERROR 18548 [-/::1/-/5ms GET /faqs] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:50:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:64:17)
+2020-10-30 18:04:38,853 ERROR 18548 [-/::1/-/4ms GET /faqs] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:50:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:64:17)
+2020-10-30 18:05:35,549 ERROR 18552 [-/::1/-/65ms GET /faqs] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:50:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:64:17)
+2020-10-30 18:05:35,915 ERROR 18552 [-/::1/-/4ms GET /faqs] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:50:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:64:17)
+2020-10-30 18:05:36,082 ERROR 18552 [-/::1/-/4ms GET /faqs] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:50:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:64:17)
+2020-10-30 18:05:36,243 ERROR 18552 [-/::1/-/5ms GET /faqs] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:50:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:64:17)
+2020-10-30 18:05:36,413 ERROR 18552 [-/::1/-/4ms GET /faqs] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:50:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:64:17)
+2020-10-30 18:06:47,298 ERROR 18555 [-/::1/-/65ms GET /faqs] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:50:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:64:17)
+2020-10-30 18:06:47,676 ERROR 18555 [-/::1/-/4ms GET /faqs] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:50:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:64:17)
+2020-10-30 18:06:47,848 ERROR 18555 [-/::1/-/4ms GET /faqs] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:50:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:64:17)
+2020-10-30 18:07:38,258 ERROR 18556 [-/::1/-/66ms GET /faqs] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:50:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:64:17)
+2020-10-30 18:07:38,575 ERROR 18556 [-/::1/-/4ms GET /faqs] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:50:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:64:17)
+2020-10-30 18:18:07,107 ERROR 18604 [-/::1/-/9ms GET /faqs] nodejs.Error: service in class Faqs is not valid in current context
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/applicationContext.ts:242:13)
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/container.ts:148:18)
+    at MidwayRequestContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_midway-core@1.20.3@midway-core/src/requestContainer.ts:65:26)
+    at RefResolver.resolveAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:137:34)
+    at ManagedResolverFactory.resolveManagedAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:358:21)
+    at ManagedResolverFactory.createAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:517:36)
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/node_modules/_midway-web@1.20.3@midway-web/src/loader/webLoader.ts:300:26)
+    at /Volumes/data/wsbb.web.server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at xframe (/Volumes/data/wsbb.web.server/node_modules/_egg-security@2.8.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at xssProtection (/Volumes/data/wsbb.web.server/node_modules/_egg-security@2.8.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+
+pid: 18604
+hostname: peter-MacBook-Pro.local
+
+2020-10-30 18:23:43,649 ERROR 18612 [-/::1/-/9ms GET /faqs] nodejs.Error: service in class Faqs is not valid in current context
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/applicationContext.ts:242:13)
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/container.ts:148:18)
+    at MidwayRequestContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_midway-core@1.20.3@midway-core/src/requestContainer.ts:65:26)
+    at RefResolver.resolveAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:137:34)
+    at ManagedResolverFactory.resolveManagedAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:358:21)
+    at ManagedResolverFactory.createAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:517:36)
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/node_modules/_midway-web@1.20.3@midway-web/src/loader/webLoader.ts:300:26)
+    at /Volumes/data/wsbb.web.server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at xframe (/Volumes/data/wsbb.web.server/node_modules/_egg-security@2.8.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at xssProtection (/Volumes/data/wsbb.web.server/node_modules/_egg-security@2.8.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+
+pid: 18612
+hostname: peter-MacBook-Pro.local
+
+2020-10-30 18:23:44,509 ERROR 18612 [-/::1/-/1ms GET /faqs] nodejs.Error: service in class Faqs is not valid in current context
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/applicationContext.ts:242:13)
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/container.ts:148:18)
+    at MidwayRequestContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_midway-core@1.20.3@midway-core/src/requestContainer.ts:65:26)
+    at RefResolver.resolveAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:137:34)
+    at ManagedResolverFactory.resolveManagedAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:358:21)
+    at ManagedResolverFactory.createAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:517:36)
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/node_modules/_midway-web@1.20.3@midway-web/src/loader/webLoader.ts:300:26)
+    at /Volumes/data/wsbb.web.server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at xframe (/Volumes/data/wsbb.web.server/node_modules/_egg-security@2.8.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at xssProtection (/Volumes/data/wsbb.web.server/node_modules/_egg-security@2.8.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+
+pid: 18612
+hostname: peter-MacBook-Pro.local
+
+2020-10-30 18:26:44,755 ERROR 18661 [-/::1/-/9ms GET /faqs] nodejs.Error: service in class Faqs is not valid in current context
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/applicationContext.ts:242:13)
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/container.ts:148:18)
+    at MidwayRequestContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_midway-core@1.20.3@midway-core/src/requestContainer.ts:65:26)
+    at RefResolver.resolveAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:137:34)
+    at ManagedResolverFactory.resolveManagedAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:358:21)
+    at ManagedResolverFactory.createAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:517:36)
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/node_modules/_midway-web@1.20.3@midway-web/src/loader/webLoader.ts:300:26)
+    at /Volumes/data/wsbb.web.server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at xframe (/Volumes/data/wsbb.web.server/node_modules/_egg-security@2.8.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at xssProtection (/Volumes/data/wsbb.web.server/node_modules/_egg-security@2.8.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+
+pid: 18661
+hostname: peter-MacBook-Pro.local
+
+2020-10-30 18:26:45,389 ERROR 18661 [-/::1/-/1ms GET /faqs] nodejs.Error: service in class Faqs is not valid in current context
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/applicationContext.ts:242:13)
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/container.ts:148:18)
+    at MidwayRequestContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_midway-core@1.20.3@midway-core/src/requestContainer.ts:65:26)
+    at RefResolver.resolveAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:137:34)
+    at ManagedResolverFactory.resolveManagedAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:358:21)
+    at ManagedResolverFactory.createAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:517:36)
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/node_modules/_midway-web@1.20.3@midway-web/src/loader/webLoader.ts:300:26)
+    at /Volumes/data/wsbb.web.server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at xframe (/Volumes/data/wsbb.web.server/node_modules/_egg-security@2.8.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at xssProtection (/Volumes/data/wsbb.web.server/node_modules/_egg-security@2.8.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+
+pid: 18661
+hostname: peter-MacBook-Pro.local
+
+2020-10-30 18:28:33,989 ERROR 18667 [-/::1/-/8ms GET /faqs] nodejs.Error: service in class Faqs is not valid in current context
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/applicationContext.ts:242:13)
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/container.ts:148:18)
+    at MidwayRequestContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_midway-core@1.20.3@midway-core/src/requestContainer.ts:65:26)
+    at RefResolver.resolveAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:137:34)
+    at ManagedResolverFactory.resolveManagedAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:358:21)
+    at ManagedResolverFactory.createAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:517:36)
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/node_modules/_midway-web@1.20.3@midway-web/src/loader/webLoader.ts:300:26)
+    at /Volumes/data/wsbb.web.server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at xframe (/Volumes/data/wsbb.web.server/node_modules/_egg-security@2.8.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at xssProtection (/Volumes/data/wsbb.web.server/node_modules/_egg-security@2.8.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+
+pid: 18667
+hostname: peter-MacBook-Pro.local
+
+2020-10-30 18:28:34,753 ERROR 18667 [-/::1/-/1ms GET /faqs] nodejs.Error: service in class Faqs is not valid in current context
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/applicationContext.ts:242:13)
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/container.ts:148:18)
+    at MidwayRequestContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_midway-core@1.20.3@midway-core/src/requestContainer.ts:65:26)
+    at RefResolver.resolveAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:137:34)
+    at ManagedResolverFactory.resolveManagedAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:358:21)
+    at ManagedResolverFactory.createAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:517:36)
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/node_modules/_midway-web@1.20.3@midway-web/src/loader/webLoader.ts:300:26)
+    at /Volumes/data/wsbb.web.server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at xframe (/Volumes/data/wsbb.web.server/node_modules/_egg-security@2.8.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at xssProtection (/Volumes/data/wsbb.web.server/node_modules/_egg-security@2.8.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+
+pid: 18667
+hostname: peter-MacBook-Pro.local
+
+2020-10-30 18:28:35,144 ERROR 18667 [-/::1/-/1ms GET /faqs] nodejs.Error: service in class Faqs is not valid in current context
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/applicationContext.ts:242:13)
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/container.ts:148:18)
+    at MidwayRequestContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_midway-core@1.20.3@midway-core/src/requestContainer.ts:65:26)
+    at RefResolver.resolveAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:137:34)
+    at ManagedResolverFactory.resolveManagedAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:358:21)
+    at ManagedResolverFactory.createAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:517:36)
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/node_modules/_midway-web@1.20.3@midway-web/src/loader/webLoader.ts:300:26)
+    at /Volumes/data/wsbb.web.server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at xframe (/Volumes/data/wsbb.web.server/node_modules/_egg-security@2.8.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at xssProtection (/Volumes/data/wsbb.web.server/node_modules/_egg-security@2.8.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+
+pid: 18667
+hostname: peter-MacBook-Pro.local
+
+2020-10-30 18:28:35,324 ERROR 18667 [-/::1/-/1ms GET /faqs] nodejs.Error: service in class Faqs is not valid in current context
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/applicationContext.ts:242:13)
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/container.ts:148:18)
+    at MidwayRequestContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_midway-core@1.20.3@midway-core/src/requestContainer.ts:65:26)
+    at RefResolver.resolveAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:137:34)
+    at ManagedResolverFactory.resolveManagedAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:358:21)
+    at ManagedResolverFactory.createAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:517:36)
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/node_modules/_midway-web@1.20.3@midway-web/src/loader/webLoader.ts:300:26)
+    at /Volumes/data/wsbb.web.server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at xframe (/Volumes/data/wsbb.web.server/node_modules/_egg-security@2.8.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at xssProtection (/Volumes/data/wsbb.web.server/node_modules/_egg-security@2.8.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+
+pid: 18667
+hostname: peter-MacBook-Pro.local
+
+2020-10-30 18:30:59,665 ERROR 18678 [-/::1/-/8ms GET /faqs] nodejs.Error: service in class Faqs is not valid in current context
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/applicationContext.ts:242:13)
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/container.ts:148:18)
+    at MidwayRequestContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_midway-core@1.20.3@midway-core/src/requestContainer.ts:65:26)
+    at RefResolver.resolveAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:137:34)
+    at ManagedResolverFactory.resolveManagedAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:358:21)
+    at ManagedResolverFactory.createAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:517:36)
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/node_modules/_midway-web@1.20.3@midway-web/src/loader/webLoader.ts:300:26)
+    at /Volumes/data/wsbb.web.server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at xframe (/Volumes/data/wsbb.web.server/node_modules/_egg-security@2.8.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at xssProtection (/Volumes/data/wsbb.web.server/node_modules/_egg-security@2.8.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+
+pid: 18678
+hostname: peter-MacBook-Pro.local
+
+2020-10-30 18:31:00,089 ERROR 18678 [-/::1/-/1ms GET /faqs] nodejs.Error: service in class Faqs is not valid in current context
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/applicationContext.ts:242:13)
+    at MidwayContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/container.ts:148:18)
+    at MidwayRequestContainer.getAsync (/Volumes/data/wsbb.web.server/node_modules/_midway-core@1.20.3@midway-core/src/requestContainer.ts:65:26)
+    at RefResolver.resolveAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:137:34)
+    at ManagedResolverFactory.resolveManagedAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:358:21)
+    at ManagedResolverFactory.createAsync (/Volumes/data/wsbb.web.server/node_modules/_injection@1.8.6@injection/src/factory/common/managedResolverFactory.ts:517:36)
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/node_modules/_midway-web@1.20.3@midway-web/src/loader/webLoader.ts:300:26)
+    at /Volumes/data/wsbb.web.server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at xframe (/Volumes/data/wsbb.web.server/node_modules/_egg-security@2.8.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at xssProtection (/Volumes/data/wsbb.web.server/node_modules/_egg-security@2.8.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+
+pid: 18678
+hostname: peter-MacBook-Pro.local
+
+2020-10-30 18:47:47,375 ERROR 18686 [-/::1/-/8ms GET /faqs] Page Controller renderToStream Error /Volumes/data/wsbb.web.server/node_modules/_normalize.css@7.0.0@normalize.css/normalize.css:12
+html {
+     ^
+
+SyntaxError: Unexpected token '{'
+    at wrapSafe (internal/modules/cjs/loader.js:931:16)
+    at Module._compile (internal/modules/cjs/loader.js:979:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/node_modules/_antd-mobile@2.3.4@antd-mobile/lib/style/css.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+2020-10-30 20:39:21,451 ERROR 18686 [-/::1/-/6ms GET /faqs] Page Controller renderToStream Error /Volumes/data/wsbb.web.server/node_modules/_normalize.css@7.0.0@normalize.css/normalize.css:12
+html {
+     ^
+
+SyntaxError: Unexpected token '{'
+    at wrapSafe (internal/modules/cjs/loader.js:931:16)
+    at Module._compile (internal/modules/cjs/loader.js:979:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/node_modules/_antd-mobile@2.3.4@antd-mobile/lib/style/css.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+2020-10-30 20:49:46,885 ERROR 18686 [-/::1/-/5ms GET /faqs] Page Controller renderToStream Error /Volumes/data/wsbb.web.server/node_modules/_normalize.css@7.0.0@normalize.css/normalize.css:12
+html {
+     ^
+
+SyntaxError: Unexpected token '{'
+    at wrapSafe (internal/modules/cjs/loader.js:931:16)
+    at Module._compile (internal/modules/cjs/loader.js:979:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/node_modules/_antd-mobile@2.3.4@antd-mobile/lib/style/css.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+2020-10-30 20:50:00,221 ERROR 18686 [-/::1/-/6ms GET /faqs] Page Controller renderToStream Error /Volumes/data/wsbb.web.server/node_modules/_normalize.css@7.0.0@normalize.css/normalize.css:12
+html {
+     ^
+
+SyntaxError: Unexpected token '{'
+    at wrapSafe (internal/modules/cjs/loader.js:931:16)
+    at Module._compile (internal/modules/cjs/loader.js:979:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/node_modules/_antd-mobile@2.3.4@antd-mobile/lib/style/css.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+2020-10-30 21:15:34,497 ERROR 18973 [-/::1/-/63ms GET /faqs] Page Controller renderToStream Error /Volumes/data/wsbb.web.server/node_modules/_antd-mobile@2.3.4@antd-mobile/es/nav-bar/style/css.js:1
+import '../../style/css';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at wrapSafe (internal/modules/cjs/loader.js:931:16)
+    at Module._compile (internal/modules/cjs/loader.js:979:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at eval (webpack-internal:///antd-mobile/es/nav-bar/style/css:1:18)
+    at Object.antd-mobile/es/nav-bar/style/css (/Volumes/data/wsbb.web.server/output/Page.server.js:279:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+2020-10-30 21:16:13,858 ERROR 18973 [-/::1/-/6ms GET /faqs] Page Controller renderToStream Error /Volumes/data/wsbb.web.server/node_modules/_antd-mobile@2.3.4@antd-mobile/es/nav-bar/style/css.js:1
+import '../../style/css';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at wrapSafe (internal/modules/cjs/loader.js:931:16)
+    at Module._compile (internal/modules/cjs/loader.js:979:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at eval (webpack-internal:///antd-mobile/es/nav-bar/style/css:1:18)
+    at Object.antd-mobile/es/nav-bar/style/css (/Volumes/data/wsbb.web.server/output/Page.server.js:279:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+2020-10-30 21:16:14,446 ERROR 18973 [-/::1/-/5ms GET /faqs] Page Controller renderToStream Error /Volumes/data/wsbb.web.server/node_modules/_antd-mobile@2.3.4@antd-mobile/es/nav-bar/style/css.js:1
+import '../../style/css';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at wrapSafe (internal/modules/cjs/loader.js:931:16)
+    at Module._compile (internal/modules/cjs/loader.js:979:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at eval (webpack-internal:///antd-mobile/es/nav-bar/style/css:1:18)
+    at Object.antd-mobile/es/nav-bar/style/css (/Volumes/data/wsbb.web.server/output/Page.server.js:279:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+2020-10-30 21:16:14,625 ERROR 18973 [-/::1/-/7ms GET /faqs] Page Controller renderToStream Error /Volumes/data/wsbb.web.server/node_modules/_antd-mobile@2.3.4@antd-mobile/es/nav-bar/style/css.js:1
+import '../../style/css';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at wrapSafe (internal/modules/cjs/loader.js:931:16)
+    at Module._compile (internal/modules/cjs/loader.js:979:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at eval (webpack-internal:///antd-mobile/es/nav-bar/style/css:1:18)
+    at Object.antd-mobile/es/nav-bar/style/css (/Volumes/data/wsbb.web.server/output/Page.server.js:279:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+2020-10-30 21:16:14,805 ERROR 18973 [-/::1/-/8ms GET /faqs] Page Controller renderToStream Error /Volumes/data/wsbb.web.server/node_modules/_antd-mobile@2.3.4@antd-mobile/es/nav-bar/style/css.js:1
+import '../../style/css';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at wrapSafe (internal/modules/cjs/loader.js:931:16)
+    at Module._compile (internal/modules/cjs/loader.js:979:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at eval (webpack-internal:///antd-mobile/es/nav-bar/style/css:1:18)
+    at Object.antd-mobile/es/nav-bar/style/css (/Volumes/data/wsbb.web.server/output/Page.server.js:279:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+2020-10-30 21:27:23,064 ERROR 19063 [-/::1/-/64ms GET /faqs] Page Controller renderToStream Error /Volumes/data/wsbb.web.server/node_modules/_antd-mobile@2.3.4@antd-mobile/es/nav-bar/index.js:1
+import _extends from 'babel-runtime/helpers/extends';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at wrapSafe (internal/modules/cjs/loader.js:931:16)
+    at Module._compile (internal/modules/cjs/loader.js:979:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at eval (webpack-internal:///antd-mobile/es/nav-bar:1:18)
+    at Object.antd-mobile/es/nav-bar (/Volumes/data/wsbb.web.server/output/Page.server.js:257:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+2020-10-30 21:27:23,753 ERROR 19063 [-/::1/-/5ms GET /faqs] Page Controller renderToStream Error /Volumes/data/wsbb.web.server/node_modules/_antd-mobile@2.3.4@antd-mobile/es/nav-bar/index.js:1
+import _extends from 'babel-runtime/helpers/extends';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at wrapSafe (internal/modules/cjs/loader.js:931:16)
+    at Module._compile (internal/modules/cjs/loader.js:979:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at eval (webpack-internal:///antd-mobile/es/nav-bar:1:18)
+    at Object.antd-mobile/es/nav-bar (/Volumes/data/wsbb.web.server/output/Page.server.js:257:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+2020-10-30 21:27:23,928 ERROR 19063 [-/::1/-/5ms GET /faqs] Page Controller renderToStream Error /Volumes/data/wsbb.web.server/node_modules/_antd-mobile@2.3.4@antd-mobile/es/nav-bar/index.js:1
+import _extends from 'babel-runtime/helpers/extends';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at wrapSafe (internal/modules/cjs/loader.js:931:16)
+    at Module._compile (internal/modules/cjs/loader.js:979:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at eval (webpack-internal:///antd-mobile/es/nav-bar:1:18)
+    at Object.antd-mobile/es/nav-bar (/Volumes/data/wsbb.web.server/output/Page.server.js:257:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+2020-10-30 21:27:33,012 ERROR 19063 [-/::1/-/6ms GET /faqs] Page Controller renderToStream Error /Volumes/data/wsbb.web.server/node_modules/_antd-mobile@2.3.4@antd-mobile/es/nav-bar/index.js:1
+import _extends from 'babel-runtime/helpers/extends';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at wrapSafe (internal/modules/cjs/loader.js:931:16)
+    at Module._compile (internal/modules/cjs/loader.js:979:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at eval (webpack-internal:///antd-mobile/es/nav-bar:1:18)
+    at Object.antd-mobile/es/nav-bar (/Volumes/data/wsbb.web.server/output/Page.server.js:257:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+2020-10-30 21:27:35,410 ERROR 19063 [-/::1/-/4ms GET /faqs] Page Controller renderToStream Error /Volumes/data/wsbb.web.server/node_modules/_antd-mobile@2.3.4@antd-mobile/es/nav-bar/index.js:1
+import _extends from 'babel-runtime/helpers/extends';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at wrapSafe (internal/modules/cjs/loader.js:931:16)
+    at Module._compile (internal/modules/cjs/loader.js:979:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at eval (webpack-internal:///antd-mobile/es/nav-bar:1:18)
+    at Object.antd-mobile/es/nav-bar (/Volumes/data/wsbb.web.server/output/Page.server.js:257:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+2020-10-30 21:40:20,535 ERROR 19168 [-/::1/-/10ms GET /faqs] Page Controller renderToStream Error Error: Module build failed (from ./node_modules/_babel-loader@8.0.4@babel-loader/lib/index.js):
+SyntaxError: /Volumes/data/wsbb.web.server/web/entry.tsx: Unexpected token, expected ";" (10:29)
+
+[0m [90m  8 | [39m[36mconst[39m { routes } [33m=[39m require([32m'../config/config.ssr'[39m)[0m
+[0m [90m  9 | [39m[0m
+[0m[31m[1m>[22m[39m[90m 10 | [39m[36mconst[39m clientRender [33m=[39m async ()[33m:[39m [33mPromise[39m[33m<[39m[36mvoid[39m[33m>[39m [33m=>[39m {[0m
+[0m [90m    | [39m                             [31m[1m^[22m[39m[0m
+[0m [90m 11 | [39m  [90m// 客户端渲染||hydrate[39m[0m
+[0m [90m 12 | [39m  [33mReactDOM[39m[window[33m.[39m__USE_SSR__ [33m?[39m [32m'hydrate'[39m [33m:[39m [32m'render'[39m]([0m
+[0m [90m 13 | [39m    [33m<[39m[33mBrowserRouter[39m[33m>[39m[0m
+    at Object._raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:799:17)
+    at Object.raiseWithData (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:792:17)
+    at Object.raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:786:17)
+    at Object.unexpected (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9089:16)
+    at Object.semicolon (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9071:40)
+    at Object.parseVarStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12053:10)
+    at Object.parseStatementContent (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11644:21)
+    at Object.parseStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11577:17)
+    at Object.parseBlockOrModuleBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12159:25)
+    at Object.parseBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12145:10)
+    at Object.parseTopLevel (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11508:10)
+    at Object.parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13328:10)
+    at parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13381:38)
+    at parser (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/parser/index.js:54:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/normalize-file.js:99:38)
+    at normalizeFile.next (<anonymous>)
+    at run (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/index.js:31:50)
+    at run.next (<anonymous>)
+    at Function.transform (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transform.js:27:41)
+    at transform.next (<anonymous>)
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:261:32)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:189:28
+    at /Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/gensync-utils/async.js:72:7
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:113:33
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:287:14)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at eval (webpack-internal:///./web/entry.tsx:1:7)
+    at Object../web/entry.tsx (/Volumes/data/wsbb.web.server/output/Page.server.js:97:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+    at /Volumes/data/wsbb.web.server/output/Page.server.js:85:18
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/output/Page.server.js:88:10)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+2020-10-30 21:40:45,732 ERROR 19168 [-/::1/-/2ms GET /faqs] Page Controller renderToStream Error Error: Module build failed (from ./node_modules/_babel-loader@8.0.4@babel-loader/lib/index.js):
+SyntaxError: /Volumes/data/wsbb.web.server/web/entry.tsx: Unexpected token, expected ";" (10:29)
+
+[0m [90m  8 | [39m[36mconst[39m { routes } [33m=[39m require([32m'../config/config.ssr'[39m)[0m
+[0m [90m  9 | [39m[0m
+[0m[31m[1m>[22m[39m[90m 10 | [39m[36mconst[39m clientRender [33m=[39m async ()[33m:[39m [33mPromise[39m[33m<[39m[36mvoid[39m[33m>[39m [33m=>[39m {[0m
+[0m [90m    | [39m                             [31m[1m^[22m[39m[0m
+[0m [90m 11 | [39m  [90m// 客户端渲染||hydrate[39m[0m
+[0m [90m 12 | [39m  [33mReactDOM[39m[window[33m.[39m__USE_SSR__ [33m?[39m [32m'hydrate'[39m [33m:[39m [32m'render'[39m]([0m
+[0m [90m 13 | [39m    [33m<[39m[33mBrowserRouter[39m[33m>[39m[0m
+    at Object._raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:799:17)
+    at Object.raiseWithData (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:792:17)
+    at Object.raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:786:17)
+    at Object.unexpected (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9089:16)
+    at Object.semicolon (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9071:40)
+    at Object.parseVarStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12053:10)
+    at Object.parseStatementContent (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11644:21)
+    at Object.parseStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11577:17)
+    at Object.parseBlockOrModuleBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12159:25)
+    at Object.parseBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12145:10)
+    at Object.parseTopLevel (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11508:10)
+    at Object.parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13328:10)
+    at parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13381:38)
+    at parser (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/parser/index.js:54:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/normalize-file.js:99:38)
+    at normalizeFile.next (<anonymous>)
+    at run (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/index.js:31:50)
+    at run.next (<anonymous>)
+    at Function.transform (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transform.js:27:41)
+    at transform.next (<anonymous>)
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:261:32)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:189:28
+    at /Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/gensync-utils/async.js:72:7
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:113:33
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:287:14)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at eval (webpack-internal:///./web/entry.tsx:1:7)
+    at Object../web/entry.tsx (/Volumes/data/wsbb.web.server/output/Page.server.js:97:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+    at /Volumes/data/wsbb.web.server/output/Page.server.js:85:18
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/output/Page.server.js:88:10)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+2020-10-30 21:40:46,547 ERROR 19168 [-/::1/-/2ms GET /faqs] Page Controller renderToStream Error Error: Module build failed (from ./node_modules/_babel-loader@8.0.4@babel-loader/lib/index.js):
+SyntaxError: /Volumes/data/wsbb.web.server/web/entry.tsx: Unexpected token, expected ";" (10:29)
+
+[0m [90m  8 | [39m[36mconst[39m { routes } [33m=[39m require([32m'../config/config.ssr'[39m)[0m
+[0m [90m  9 | [39m[0m
+[0m[31m[1m>[22m[39m[90m 10 | [39m[36mconst[39m clientRender [33m=[39m async ()[33m:[39m [33mPromise[39m[33m<[39m[36mvoid[39m[33m>[39m [33m=>[39m {[0m
+[0m [90m    | [39m                             [31m[1m^[22m[39m[0m
+[0m [90m 11 | [39m  [90m// 客户端渲染||hydrate[39m[0m
+[0m [90m 12 | [39m  [33mReactDOM[39m[window[33m.[39m__USE_SSR__ [33m?[39m [32m'hydrate'[39m [33m:[39m [32m'render'[39m]([0m
+[0m [90m 13 | [39m    [33m<[39m[33mBrowserRouter[39m[33m>[39m[0m
+    at Object._raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:799:17)
+    at Object.raiseWithData (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:792:17)
+    at Object.raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:786:17)
+    at Object.unexpected (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9089:16)
+    at Object.semicolon (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9071:40)
+    at Object.parseVarStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12053:10)
+    at Object.parseStatementContent (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11644:21)
+    at Object.parseStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11577:17)
+    at Object.parseBlockOrModuleBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12159:25)
+    at Object.parseBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12145:10)
+    at Object.parseTopLevel (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11508:10)
+    at Object.parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13328:10)
+    at parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13381:38)
+    at parser (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/parser/index.js:54:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/normalize-file.js:99:38)
+    at normalizeFile.next (<anonymous>)
+    at run (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/index.js:31:50)
+    at run.next (<anonymous>)
+    at Function.transform (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transform.js:27:41)
+    at transform.next (<anonymous>)
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:261:32)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:189:28
+    at /Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/gensync-utils/async.js:72:7
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:113:33
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:287:14)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at eval (webpack-internal:///./web/entry.tsx:1:7)
+    at Object../web/entry.tsx (/Volumes/data/wsbb.web.server/output/Page.server.js:97:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+    at /Volumes/data/wsbb.web.server/output/Page.server.js:85:18
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/output/Page.server.js:88:10)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+2020-10-30 21:40:46,714 ERROR 19168 [-/::1/-/2ms GET /faqs] Page Controller renderToStream Error Error: Module build failed (from ./node_modules/_babel-loader@8.0.4@babel-loader/lib/index.js):
+SyntaxError: /Volumes/data/wsbb.web.server/web/entry.tsx: Unexpected token, expected ";" (10:29)
+
+[0m [90m  8 | [39m[36mconst[39m { routes } [33m=[39m require([32m'../config/config.ssr'[39m)[0m
+[0m [90m  9 | [39m[0m
+[0m[31m[1m>[22m[39m[90m 10 | [39m[36mconst[39m clientRender [33m=[39m async ()[33m:[39m [33mPromise[39m[33m<[39m[36mvoid[39m[33m>[39m [33m=>[39m {[0m
+[0m [90m    | [39m                             [31m[1m^[22m[39m[0m
+[0m [90m 11 | [39m  [90m// 客户端渲染||hydrate[39m[0m
+[0m [90m 12 | [39m  [33mReactDOM[39m[window[33m.[39m__USE_SSR__ [33m?[39m [32m'hydrate'[39m [33m:[39m [32m'render'[39m]([0m
+[0m [90m 13 | [39m    [33m<[39m[33mBrowserRouter[39m[33m>[39m[0m
+    at Object._raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:799:17)
+    at Object.raiseWithData (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:792:17)
+    at Object.raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:786:17)
+    at Object.unexpected (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9089:16)
+    at Object.semicolon (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9071:40)
+    at Object.parseVarStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12053:10)
+    at Object.parseStatementContent (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11644:21)
+    at Object.parseStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11577:17)
+    at Object.parseBlockOrModuleBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12159:25)
+    at Object.parseBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12145:10)
+    at Object.parseTopLevel (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11508:10)
+    at Object.parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13328:10)
+    at parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13381:38)
+    at parser (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/parser/index.js:54:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/normalize-file.js:99:38)
+    at normalizeFile.next (<anonymous>)
+    at run (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/index.js:31:50)
+    at run.next (<anonymous>)
+    at Function.transform (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transform.js:27:41)
+    at transform.next (<anonymous>)
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:261:32)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:189:28
+    at /Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/gensync-utils/async.js:72:7
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:113:33
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:287:14)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at eval (webpack-internal:///./web/entry.tsx:1:7)
+    at Object../web/entry.tsx (/Volumes/data/wsbb.web.server/output/Page.server.js:97:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+    at /Volumes/data/wsbb.web.server/output/Page.server.js:85:18
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/output/Page.server.js:88:10)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+2020-10-30 21:40:46,892 ERROR 19168 [-/::1/-/2ms GET /faqs] Page Controller renderToStream Error Error: Module build failed (from ./node_modules/_babel-loader@8.0.4@babel-loader/lib/index.js):
+SyntaxError: /Volumes/data/wsbb.web.server/web/entry.tsx: Unexpected token, expected ";" (10:29)
+
+[0m [90m  8 | [39m[36mconst[39m { routes } [33m=[39m require([32m'../config/config.ssr'[39m)[0m
+[0m [90m  9 | [39m[0m
+[0m[31m[1m>[22m[39m[90m 10 | [39m[36mconst[39m clientRender [33m=[39m async ()[33m:[39m [33mPromise[39m[33m<[39m[36mvoid[39m[33m>[39m [33m=>[39m {[0m
+[0m [90m    | [39m                             [31m[1m^[22m[39m[0m
+[0m [90m 11 | [39m  [90m// 客户端渲染||hydrate[39m[0m
+[0m [90m 12 | [39m  [33mReactDOM[39m[window[33m.[39m__USE_SSR__ [33m?[39m [32m'hydrate'[39m [33m:[39m [32m'render'[39m]([0m
+[0m [90m 13 | [39m    [33m<[39m[33mBrowserRouter[39m[33m>[39m[0m
+    at Object._raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:799:17)
+    at Object.raiseWithData (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:792:17)
+    at Object.raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:786:17)
+    at Object.unexpected (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9089:16)
+    at Object.semicolon (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9071:40)
+    at Object.parseVarStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12053:10)
+    at Object.parseStatementContent (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11644:21)
+    at Object.parseStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11577:17)
+    at Object.parseBlockOrModuleBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12159:25)
+    at Object.parseBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12145:10)
+    at Object.parseTopLevel (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11508:10)
+    at Object.parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13328:10)
+    at parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13381:38)
+    at parser (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/parser/index.js:54:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/normalize-file.js:99:38)
+    at normalizeFile.next (<anonymous>)
+    at run (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/index.js:31:50)
+    at run.next (<anonymous>)
+    at Function.transform (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transform.js:27:41)
+    at transform.next (<anonymous>)
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:261:32)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:189:28
+    at /Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/gensync-utils/async.js:72:7
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:113:33
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:287:14)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at eval (webpack-internal:///./web/entry.tsx:1:7)
+    at Object../web/entry.tsx (/Volumes/data/wsbb.web.server/output/Page.server.js:97:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+    at /Volumes/data/wsbb.web.server/output/Page.server.js:85:18
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/output/Page.server.js:88:10)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+2020-10-30 21:40:47,082 ERROR 19168 [-/::1/-/4ms GET /faqs] Page Controller renderToStream Error Error: Module build failed (from ./node_modules/_babel-loader@8.0.4@babel-loader/lib/index.js):
+SyntaxError: /Volumes/data/wsbb.web.server/web/entry.tsx: Unexpected token, expected ";" (10:29)
+
+[0m [90m  8 | [39m[36mconst[39m { routes } [33m=[39m require([32m'../config/config.ssr'[39m)[0m
+[0m [90m  9 | [39m[0m
+[0m[31m[1m>[22m[39m[90m 10 | [39m[36mconst[39m clientRender [33m=[39m async ()[33m:[39m [33mPromise[39m[33m<[39m[36mvoid[39m[33m>[39m [33m=>[39m {[0m
+[0m [90m    | [39m                             [31m[1m^[22m[39m[0m
+[0m [90m 11 | [39m  [90m// 客户端渲染||hydrate[39m[0m
+[0m [90m 12 | [39m  [33mReactDOM[39m[window[33m.[39m__USE_SSR__ [33m?[39m [32m'hydrate'[39m [33m:[39m [32m'render'[39m]([0m
+[0m [90m 13 | [39m    [33m<[39m[33mBrowserRouter[39m[33m>[39m[0m
+    at Object._raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:799:17)
+    at Object.raiseWithData (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:792:17)
+    at Object.raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:786:17)
+    at Object.unexpected (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9089:16)
+    at Object.semicolon (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9071:40)
+    at Object.parseVarStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12053:10)
+    at Object.parseStatementContent (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11644:21)
+    at Object.parseStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11577:17)
+    at Object.parseBlockOrModuleBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12159:25)
+    at Object.parseBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12145:10)
+    at Object.parseTopLevel (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11508:10)
+    at Object.parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13328:10)
+    at parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13381:38)
+    at parser (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/parser/index.js:54:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/normalize-file.js:99:38)
+    at normalizeFile.next (<anonymous>)
+    at run (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/index.js:31:50)
+    at run.next (<anonymous>)
+    at Function.transform (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transform.js:27:41)
+    at transform.next (<anonymous>)
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:261:32)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:189:28
+    at /Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/gensync-utils/async.js:72:7
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:113:33
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:287:14)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at eval (webpack-internal:///./web/entry.tsx:1:7)
+    at Object../web/entry.tsx (/Volumes/data/wsbb.web.server/output/Page.server.js:97:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+    at /Volumes/data/wsbb.web.server/output/Page.server.js:85:18
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/output/Page.server.js:88:10)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+2020-10-30 21:40:47,281 ERROR 19168 [-/::1/-/2ms GET /faqs] Page Controller renderToStream Error Error: Module build failed (from ./node_modules/_babel-loader@8.0.4@babel-loader/lib/index.js):
+SyntaxError: /Volumes/data/wsbb.web.server/web/entry.tsx: Unexpected token, expected ";" (10:29)
+
+[0m [90m  8 | [39m[36mconst[39m { routes } [33m=[39m require([32m'../config/config.ssr'[39m)[0m
+[0m [90m  9 | [39m[0m
+[0m[31m[1m>[22m[39m[90m 10 | [39m[36mconst[39m clientRender [33m=[39m async ()[33m:[39m [33mPromise[39m[33m<[39m[36mvoid[39m[33m>[39m [33m=>[39m {[0m
+[0m [90m    | [39m                             [31m[1m^[22m[39m[0m
+[0m [90m 11 | [39m  [90m// 客户端渲染||hydrate[39m[0m
+[0m [90m 12 | [39m  [33mReactDOM[39m[window[33m.[39m__USE_SSR__ [33m?[39m [32m'hydrate'[39m [33m:[39m [32m'render'[39m]([0m
+[0m [90m 13 | [39m    [33m<[39m[33mBrowserRouter[39m[33m>[39m[0m
+    at Object._raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:799:17)
+    at Object.raiseWithData (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:792:17)
+    at Object.raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:786:17)
+    at Object.unexpected (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9089:16)
+    at Object.semicolon (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9071:40)
+    at Object.parseVarStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12053:10)
+    at Object.parseStatementContent (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11644:21)
+    at Object.parseStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11577:17)
+    at Object.parseBlockOrModuleBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12159:25)
+    at Object.parseBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12145:10)
+    at Object.parseTopLevel (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11508:10)
+    at Object.parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13328:10)
+    at parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13381:38)
+    at parser (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/parser/index.js:54:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/normalize-file.js:99:38)
+    at normalizeFile.next (<anonymous>)
+    at run (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/index.js:31:50)
+    at run.next (<anonymous>)
+    at Function.transform (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transform.js:27:41)
+    at transform.next (<anonymous>)
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:261:32)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:189:28
+    at /Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/gensync-utils/async.js:72:7
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:113:33
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:287:14)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at eval (webpack-internal:///./web/entry.tsx:1:7)
+    at Object../web/entry.tsx (/Volumes/data/wsbb.web.server/output/Page.server.js:97:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+    at /Volumes/data/wsbb.web.server/output/Page.server.js:85:18
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/output/Page.server.js:88:10)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+2020-10-30 21:40:47,484 ERROR 19168 [-/::1/-/1ms GET /faqs] Page Controller renderToStream Error Error: Module build failed (from ./node_modules/_babel-loader@8.0.4@babel-loader/lib/index.js):
+SyntaxError: /Volumes/data/wsbb.web.server/web/entry.tsx: Unexpected token, expected ";" (10:29)
+
+[0m [90m  8 | [39m[36mconst[39m { routes } [33m=[39m require([32m'../config/config.ssr'[39m)[0m
+[0m [90m  9 | [39m[0m
+[0m[31m[1m>[22m[39m[90m 10 | [39m[36mconst[39m clientRender [33m=[39m async ()[33m:[39m [33mPromise[39m[33m<[39m[36mvoid[39m[33m>[39m [33m=>[39m {[0m
+[0m [90m    | [39m                             [31m[1m^[22m[39m[0m
+[0m [90m 11 | [39m  [90m// 客户端渲染||hydrate[39m[0m
+[0m [90m 12 | [39m  [33mReactDOM[39m[window[33m.[39m__USE_SSR__ [33m?[39m [32m'hydrate'[39m [33m:[39m [32m'render'[39m]([0m
+[0m [90m 13 | [39m    [33m<[39m[33mBrowserRouter[39m[33m>[39m[0m
+    at Object._raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:799:17)
+    at Object.raiseWithData (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:792:17)
+    at Object.raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:786:17)
+    at Object.unexpected (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9089:16)
+    at Object.semicolon (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9071:40)
+    at Object.parseVarStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12053:10)
+    at Object.parseStatementContent (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11644:21)
+    at Object.parseStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11577:17)
+    at Object.parseBlockOrModuleBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12159:25)
+    at Object.parseBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12145:10)
+    at Object.parseTopLevel (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11508:10)
+    at Object.parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13328:10)
+    at parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13381:38)
+    at parser (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/parser/index.js:54:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/normalize-file.js:99:38)
+    at normalizeFile.next (<anonymous>)
+    at run (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/index.js:31:50)
+    at run.next (<anonymous>)
+    at Function.transform (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transform.js:27:41)
+    at transform.next (<anonymous>)
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:261:32)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:189:28
+    at /Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/gensync-utils/async.js:72:7
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:113:33
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:287:14)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at eval (webpack-internal:///./web/entry.tsx:1:7)
+    at Object../web/entry.tsx (/Volumes/data/wsbb.web.server/output/Page.server.js:97:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+    at /Volumes/data/wsbb.web.server/output/Page.server.js:85:18
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/output/Page.server.js:88:10)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+2020-10-30 21:40:47,698 ERROR 19168 [-/::1/-/3ms GET /faqs] Page Controller renderToStream Error Error: Module build failed (from ./node_modules/_babel-loader@8.0.4@babel-loader/lib/index.js):
+SyntaxError: /Volumes/data/wsbb.web.server/web/entry.tsx: Unexpected token, expected ";" (10:29)
+
+[0m [90m  8 | [39m[36mconst[39m { routes } [33m=[39m require([32m'../config/config.ssr'[39m)[0m
+[0m [90m  9 | [39m[0m
+[0m[31m[1m>[22m[39m[90m 10 | [39m[36mconst[39m clientRender [33m=[39m async ()[33m:[39m [33mPromise[39m[33m<[39m[36mvoid[39m[33m>[39m [33m=>[39m {[0m
+[0m [90m    | [39m                             [31m[1m^[22m[39m[0m
+[0m [90m 11 | [39m  [90m// 客户端渲染||hydrate[39m[0m
+[0m [90m 12 | [39m  [33mReactDOM[39m[window[33m.[39m__USE_SSR__ [33m?[39m [32m'hydrate'[39m [33m:[39m [32m'render'[39m]([0m
+[0m [90m 13 | [39m    [33m<[39m[33mBrowserRouter[39m[33m>[39m[0m
+    at Object._raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:799:17)
+    at Object.raiseWithData (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:792:17)
+    at Object.raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:786:17)
+    at Object.unexpected (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9089:16)
+    at Object.semicolon (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9071:40)
+    at Object.parseVarStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12053:10)
+    at Object.parseStatementContent (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11644:21)
+    at Object.parseStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11577:17)
+    at Object.parseBlockOrModuleBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12159:25)
+    at Object.parseBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12145:10)
+    at Object.parseTopLevel (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11508:10)
+    at Object.parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13328:10)
+    at parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13381:38)
+    at parser (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/parser/index.js:54:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/normalize-file.js:99:38)
+    at normalizeFile.next (<anonymous>)
+    at run (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/index.js:31:50)
+    at run.next (<anonymous>)
+    at Function.transform (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transform.js:27:41)
+    at transform.next (<anonymous>)
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:261:32)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:189:28
+    at /Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/gensync-utils/async.js:72:7
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:113:33
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:287:14)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at eval (webpack-internal:///./web/entry.tsx:1:7)
+    at Object../web/entry.tsx (/Volumes/data/wsbb.web.server/output/Page.server.js:97:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+    at /Volumes/data/wsbb.web.server/output/Page.server.js:85:18
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/output/Page.server.js:88:10)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+2020-10-30 21:40:50,205 ERROR 19168 [-/::1/-/2ms GET /] Page Controller renderToStream Error Error: Module build failed (from ./node_modules/_babel-loader@8.0.4@babel-loader/lib/index.js):
+SyntaxError: /Volumes/data/wsbb.web.server/web/entry.tsx: Unexpected token, expected ";" (10:29)
+
+[0m [90m  8 | [39m[36mconst[39m { routes } [33m=[39m require([32m'../config/config.ssr'[39m)[0m
+[0m [90m  9 | [39m[0m
+[0m[31m[1m>[22m[39m[90m 10 | [39m[36mconst[39m clientRender [33m=[39m async ()[33m:[39m [33mPromise[39m[33m<[39m[36mvoid[39m[33m>[39m [33m=>[39m {[0m
+[0m [90m    | [39m                             [31m[1m^[22m[39m[0m
+[0m [90m 11 | [39m  [90m// 客户端渲染||hydrate[39m[0m
+[0m [90m 12 | [39m  [33mReactDOM[39m[window[33m.[39m__USE_SSR__ [33m?[39m [32m'hydrate'[39m [33m:[39m [32m'render'[39m]([0m
+[0m [90m 13 | [39m    [33m<[39m[33mBrowserRouter[39m[33m>[39m[0m
+    at Object._raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:799:17)
+    at Object.raiseWithData (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:792:17)
+    at Object.raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:786:17)
+    at Object.unexpected (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9089:16)
+    at Object.semicolon (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9071:40)
+    at Object.parseVarStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12053:10)
+    at Object.parseStatementContent (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11644:21)
+    at Object.parseStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11577:17)
+    at Object.parseBlockOrModuleBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12159:25)
+    at Object.parseBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12145:10)
+    at Object.parseTopLevel (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11508:10)
+    at Object.parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13328:10)
+    at parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13381:38)
+    at parser (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/parser/index.js:54:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/normalize-file.js:99:38)
+    at normalizeFile.next (<anonymous>)
+    at run (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/index.js:31:50)
+    at run.next (<anonymous>)
+    at Function.transform (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transform.js:27:41)
+    at transform.next (<anonymous>)
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:261:32)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:189:28
+    at /Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/gensync-utils/async.js:72:7
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:113:33
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:287:14)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at eval (webpack-internal:///./web/entry.tsx:1:7)
+    at Object../web/entry.tsx (/Volumes/data/wsbb.web.server/output/Page.server.js:97:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+    at /Volumes/data/wsbb.web.server/output/Page.server.js:85:18
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/output/Page.server.js:88:10)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+2020-10-30 21:42:44,319 ERROR 19236 [-/::1/-/8ms GET /faqs] Page Controller renderToStream Error Error: Module build failed (from ./node_modules/_babel-loader@8.0.4@babel-loader/lib/index.js):
+SyntaxError: /Volumes/data/wsbb.web.server/web/entry.tsx: Unexpected token, expected ";" (10:29)
+
+[0m [90m  8 | [39m[36mconst[39m { routes } [33m=[39m require([32m'../config/config.ssr'[39m)[0m
+[0m [90m  9 | [39m[0m
+[0m[31m[1m>[22m[39m[90m 10 | [39m[36mconst[39m clientRender [33m=[39m async ()[33m:[39m [33mPromise[39m[33m<[39m[36mvoid[39m[33m>[39m [33m=>[39m {[0m
+[0m [90m    | [39m                             [31m[1m^[22m[39m[0m
+[0m [90m 11 | [39m  [90m// 客户端渲染||hydrate[39m[0m
+[0m [90m 12 | [39m  [33mReactDOM[39m[window[33m.[39m__USE_SSR__ [33m?[39m [32m'hydrate'[39m [33m:[39m [32m'render'[39m]([0m
+[0m [90m 13 | [39m    [33m<[39m[33mBrowserRouter[39m[33m>[39m[0m
+    at Object._raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:799:17)
+    at Object.raiseWithData (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:792:17)
+    at Object.raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:786:17)
+    at Object.unexpected (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9089:16)
+    at Object.semicolon (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9071:40)
+    at Object.parseVarStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12053:10)
+    at Object.parseStatementContent (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11644:21)
+    at Object.parseStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11577:17)
+    at Object.parseBlockOrModuleBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12159:25)
+    at Object.parseBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12145:10)
+    at Object.parseTopLevel (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11508:10)
+    at Object.parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13328:10)
+    at parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13381:38)
+    at parser (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/parser/index.js:54:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/normalize-file.js:99:38)
+    at normalizeFile.next (<anonymous>)
+    at run (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/index.js:31:50)
+    at run.next (<anonymous>)
+    at Function.transform (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transform.js:27:41)
+    at transform.next (<anonymous>)
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:261:32)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:189:28
+    at /Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/gensync-utils/async.js:72:7
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:113:33
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:287:14)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at eval (webpack-internal:///./web/entry.tsx:1:7)
+    at Object../web/entry.tsx (/Volumes/data/wsbb.web.server/output/Page.server.js:97:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+    at /Volumes/data/wsbb.web.server/output/Page.server.js:85:18
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/output/Page.server.js:88:10)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+2020-10-30 21:44:19,212 ERROR 19272 [-/::1/-/10ms GET /faqs] Page Controller renderToStream Error Error: Module build failed (from ./node_modules/_babel-loader@8.0.4@babel-loader/lib/index.js):
+SyntaxError: /Volumes/data/wsbb.web.server/web/entry.tsx: Unexpected token, expected ";" (10:29)
+
+[0m [90m  8 | [39m[36mconst[39m { routes } [33m=[39m require([32m'../config/config.ssr'[39m)[0m
+[0m [90m  9 | [39m[0m
+[0m[31m[1m>[22m[39m[90m 10 | [39m[36mconst[39m clientRender [33m=[39m async ()[33m:[39m [33mPromise[39m[33m<[39m[36mvoid[39m[33m>[39m [33m=>[39m {[0m
+[0m [90m    | [39m                             [31m[1m^[22m[39m[0m
+[0m [90m 11 | [39m  [90m// 客户端渲染||hydrate[39m[0m
+[0m [90m 12 | [39m  [33mReactDOM[39m[window[33m.[39m__USE_SSR__ [33m?[39m [32m'hydrate'[39m [33m:[39m [32m'render'[39m]([0m
+[0m [90m 13 | [39m    [33m<[39m[33mBrowserRouter[39m[33m>[39m[0m
+    at Object._raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:799:17)
+    at Object.raiseWithData (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:792:17)
+    at Object.raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:786:17)
+    at Object.unexpected (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9089:16)
+    at Object.semicolon (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9071:40)
+    at Object.parseVarStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12053:10)
+    at Object.parseStatementContent (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11644:21)
+    at Object.parseStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11577:17)
+    at Object.parseBlockOrModuleBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12159:25)
+    at Object.parseBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12145:10)
+    at Object.parseTopLevel (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11508:10)
+    at Object.parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13328:10)
+    at parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13381:38)
+    at parser (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/parser/index.js:54:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/normalize-file.js:99:38)
+    at normalizeFile.next (<anonymous>)
+    at run (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/index.js:31:50)
+    at run.next (<anonymous>)
+    at Function.transform (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transform.js:27:41)
+    at transform.next (<anonymous>)
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:261:32)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:189:28
+    at /Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/gensync-utils/async.js:72:7
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:113:33
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:287:14)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at eval (webpack-internal:///./web/entry.tsx:1:7)
+    at Object../web/entry.tsx (/Volumes/data/wsbb.web.server/output/Page.server.js:97:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+    at /Volumes/data/wsbb.web.server/output/Page.server.js:85:18
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/output/Page.server.js:88:10)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+2020-10-30 21:44:20,022 ERROR 19272 [-/::1/-/2ms GET /faqs] Page Controller renderToStream Error Error: Module build failed (from ./node_modules/_babel-loader@8.0.4@babel-loader/lib/index.js):
+SyntaxError: /Volumes/data/wsbb.web.server/web/entry.tsx: Unexpected token, expected ";" (10:29)
+
+[0m [90m  8 | [39m[36mconst[39m { routes } [33m=[39m require([32m'../config/config.ssr'[39m)[0m
+[0m [90m  9 | [39m[0m
+[0m[31m[1m>[22m[39m[90m 10 | [39m[36mconst[39m clientRender [33m=[39m async ()[33m:[39m [33mPromise[39m[33m<[39m[36mvoid[39m[33m>[39m [33m=>[39m {[0m
+[0m [90m    | [39m                             [31m[1m^[22m[39m[0m
+[0m [90m 11 | [39m  [90m// 客户端渲染||hydrate[39m[0m
+[0m [90m 12 | [39m  [33mReactDOM[39m[window[33m.[39m__USE_SSR__ [33m?[39m [32m'hydrate'[39m [33m:[39m [32m'render'[39m]([0m
+[0m [90m 13 | [39m    [33m<[39m[33mBrowserRouter[39m[33m>[39m[0m
+    at Object._raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:799:17)
+    at Object.raiseWithData (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:792:17)
+    at Object.raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:786:17)
+    at Object.unexpected (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9089:16)
+    at Object.semicolon (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9071:40)
+    at Object.parseVarStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12053:10)
+    at Object.parseStatementContent (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11644:21)
+    at Object.parseStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11577:17)
+    at Object.parseBlockOrModuleBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12159:25)
+    at Object.parseBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12145:10)
+    at Object.parseTopLevel (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11508:10)
+    at Object.parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13328:10)
+    at parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13381:38)
+    at parser (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/parser/index.js:54:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/normalize-file.js:99:38)
+    at normalizeFile.next (<anonymous>)
+    at run (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/index.js:31:50)
+    at run.next (<anonymous>)
+    at Function.transform (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transform.js:27:41)
+    at transform.next (<anonymous>)
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:261:32)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:189:28
+    at /Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/gensync-utils/async.js:72:7
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:113:33
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:287:14)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at eval (webpack-internal:///./web/entry.tsx:1:7)
+    at Object../web/entry.tsx (/Volumes/data/wsbb.web.server/output/Page.server.js:97:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+    at /Volumes/data/wsbb.web.server/output/Page.server.js:85:18
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/output/Page.server.js:88:10)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+2020-10-30 21:44:46,715 ERROR 19272 [-/::1/-/2ms GET /faqs] Page Controller renderToStream Error Error: Module build failed (from ./node_modules/_babel-loader@8.0.4@babel-loader/lib/index.js):
+SyntaxError: /Volumes/data/wsbb.web.server/web/entry.tsx: Unexpected token, expected ";" (10:29)
+
+[0m [90m  8 | [39m[36mconst[39m { routes } [33m=[39m require([32m'../config/config.ssr'[39m)[0m
+[0m [90m  9 | [39m[0m
+[0m[31m[1m>[22m[39m[90m 10 | [39m[36mconst[39m clientRender [33m=[39m async ()[33m:[39m [33mPromise[39m[33m<[39m[36mvoid[39m[33m>[39m [33m=>[39m {[0m
+[0m [90m    | [39m                             [31m[1m^[22m[39m[0m
+[0m [90m 11 | [39m  [90m// 客户端渲染||hydrate[39m[0m
+[0m [90m 12 | [39m  [33mReactDOM[39m[window[33m.[39m__USE_SSR__ [33m?[39m [32m'hydrate'[39m [33m:[39m [32m'render'[39m]([0m
+[0m [90m 13 | [39m    [33m<[39m[33mBrowserRouter[39m[33m>[39m[0m
+    at Object._raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:799:17)
+    at Object.raiseWithData (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:792:17)
+    at Object.raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:786:17)
+    at Object.unexpected (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9089:16)
+    at Object.semicolon (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9071:40)
+    at Object.parseVarStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12053:10)
+    at Object.parseStatementContent (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11644:21)
+    at Object.parseStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11577:17)
+    at Object.parseBlockOrModuleBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12159:25)
+    at Object.parseBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12145:10)
+    at Object.parseTopLevel (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11508:10)
+    at Object.parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13328:10)
+    at parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13381:38)
+    at parser (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/parser/index.js:54:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/normalize-file.js:99:38)
+    at normalizeFile.next (<anonymous>)
+    at run (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/index.js:31:50)
+    at run.next (<anonymous>)
+    at Function.transform (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transform.js:27:41)
+    at transform.next (<anonymous>)
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:261:32)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:189:28
+    at /Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/gensync-utils/async.js:72:7
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:113:33
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:287:14)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at eval (webpack-internal:///./web/entry.tsx:1:7)
+    at Object../web/entry.tsx (/Volumes/data/wsbb.web.server/output/Page.server.js:97:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+    at /Volumes/data/wsbb.web.server/output/Page.server.js:85:18
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/output/Page.server.js:88:10)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+2020-10-30 21:45:01,894 ERROR 19303 [-/::1/-/11ms GET /faqs] Page Controller renderToStream Error Error: Module build failed (from ./node_modules/_babel-loader@8.0.4@babel-loader/lib/index.js):
+SyntaxError: /Volumes/data/wsbb.web.server/web/entry.tsx: Unexpected token, expected ";" (10:29)
+
+[0m [90m  8 | [39m[36mconst[39m { routes } [33m=[39m require([32m'../config/config.ssr'[39m)[0m
+[0m [90m  9 | [39m[0m
+[0m[31m[1m>[22m[39m[90m 10 | [39m[36mconst[39m clientRender [33m=[39m async ()[33m:[39m [33mPromise[39m[33m<[39m[36mvoid[39m[33m>[39m [33m=>[39m {[0m
+[0m [90m    | [39m                             [31m[1m^[22m[39m[0m
+[0m [90m 11 | [39m  [90m// 客户端渲染||hydrate[39m[0m
+[0m [90m 12 | [39m  [33mReactDOM[39m[window[33m.[39m__USE_SSR__ [33m?[39m [32m'hydrate'[39m [33m:[39m [32m'render'[39m]([0m
+[0m [90m 13 | [39m    [33m<[39m[33mBrowserRouter[39m[33m>[39m[0m
+    at Object._raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:799:17)
+    at Object.raiseWithData (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:792:17)
+    at Object.raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:786:17)
+    at Object.unexpected (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9089:16)
+    at Object.semicolon (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9071:40)
+    at Object.parseVarStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12053:10)
+    at Object.parseStatementContent (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11644:21)
+    at Object.parseStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11577:17)
+    at Object.parseBlockOrModuleBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12159:25)
+    at Object.parseBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12145:10)
+    at Object.parseTopLevel (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11508:10)
+    at Object.parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13328:10)
+    at parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13381:38)
+    at parser (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/parser/index.js:54:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/normalize-file.js:99:38)
+    at normalizeFile.next (<anonymous>)
+    at run (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/index.js:31:50)
+    at run.next (<anonymous>)
+    at Function.transform (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transform.js:27:41)
+    at transform.next (<anonymous>)
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:261:32)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:189:28
+    at /Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/gensync-utils/async.js:72:7
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:113:33
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:287:14)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at eval (webpack-internal:///./web/entry.tsx:1:7)
+    at Object../web/entry.tsx (/Volumes/data/wsbb.web.server/output/Page.server.js:97:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+    at /Volumes/data/wsbb.web.server/output/Page.server.js:85:18
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/output/Page.server.js:88:10)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+2020-10-30 21:45:02,298 ERROR 19303 [-/::1/-/1ms GET /faqs] Page Controller renderToStream Error Error: Module build failed (from ./node_modules/_babel-loader@8.0.4@babel-loader/lib/index.js):
+SyntaxError: /Volumes/data/wsbb.web.server/web/entry.tsx: Unexpected token, expected ";" (10:29)
+
+[0m [90m  8 | [39m[36mconst[39m { routes } [33m=[39m require([32m'../config/config.ssr'[39m)[0m
+[0m [90m  9 | [39m[0m
+[0m[31m[1m>[22m[39m[90m 10 | [39m[36mconst[39m clientRender [33m=[39m async ()[33m:[39m [33mPromise[39m[33m<[39m[36mvoid[39m[33m>[39m [33m=>[39m {[0m
+[0m [90m    | [39m                             [31m[1m^[22m[39m[0m
+[0m [90m 11 | [39m  [90m// 客户端渲染||hydrate[39m[0m
+[0m [90m 12 | [39m  [33mReactDOM[39m[window[33m.[39m__USE_SSR__ [33m?[39m [32m'hydrate'[39m [33m:[39m [32m'render'[39m]([0m
+[0m [90m 13 | [39m    [33m<[39m[33mBrowserRouter[39m[33m>[39m[0m
+    at Object._raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:799:17)
+    at Object.raiseWithData (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:792:17)
+    at Object.raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:786:17)
+    at Object.unexpected (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9089:16)
+    at Object.semicolon (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9071:40)
+    at Object.parseVarStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12053:10)
+    at Object.parseStatementContent (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11644:21)
+    at Object.parseStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11577:17)
+    at Object.parseBlockOrModuleBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12159:25)
+    at Object.parseBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12145:10)
+    at Object.parseTopLevel (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11508:10)
+    at Object.parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13328:10)
+    at parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13381:38)
+    at parser (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/parser/index.js:54:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/normalize-file.js:99:38)
+    at normalizeFile.next (<anonymous>)
+    at run (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/index.js:31:50)
+    at run.next (<anonymous>)
+    at Function.transform (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transform.js:27:41)
+    at transform.next (<anonymous>)
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:261:32)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:189:28
+    at /Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/gensync-utils/async.js:72:7
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:113:33
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:287:14)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at eval (webpack-internal:///./web/entry.tsx:1:7)
+    at Object../web/entry.tsx (/Volumes/data/wsbb.web.server/output/Page.server.js:97:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+    at /Volumes/data/wsbb.web.server/output/Page.server.js:85:18
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/output/Page.server.js:88:10)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+2020-10-30 21:45:02,473 ERROR 19303 [-/::1/-/2ms GET /faqs] Page Controller renderToStream Error Error: Module build failed (from ./node_modules/_babel-loader@8.0.4@babel-loader/lib/index.js):
+SyntaxError: /Volumes/data/wsbb.web.server/web/entry.tsx: Unexpected token, expected ";" (10:29)
+
+[0m [90m  8 | [39m[36mconst[39m { routes } [33m=[39m require([32m'../config/config.ssr'[39m)[0m
+[0m [90m  9 | [39m[0m
+[0m[31m[1m>[22m[39m[90m 10 | [39m[36mconst[39m clientRender [33m=[39m async ()[33m:[39m [33mPromise[39m[33m<[39m[36mvoid[39m[33m>[39m [33m=>[39m {[0m
+[0m [90m    | [39m                             [31m[1m^[22m[39m[0m
+[0m [90m 11 | [39m  [90m// 客户端渲染||hydrate[39m[0m
+[0m [90m 12 | [39m  [33mReactDOM[39m[window[33m.[39m__USE_SSR__ [33m?[39m [32m'hydrate'[39m [33m:[39m [32m'render'[39m]([0m
+[0m [90m 13 | [39m    [33m<[39m[33mBrowserRouter[39m[33m>[39m[0m
+    at Object._raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:799:17)
+    at Object.raiseWithData (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:792:17)
+    at Object.raise (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:786:17)
+    at Object.unexpected (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9089:16)
+    at Object.semicolon (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:9071:40)
+    at Object.parseVarStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12053:10)
+    at Object.parseStatementContent (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11644:21)
+    at Object.parseStatement (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11577:17)
+    at Object.parseBlockOrModuleBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12159:25)
+    at Object.parseBlockBody (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:12145:10)
+    at Object.parseTopLevel (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:11508:10)
+    at Object.parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13328:10)
+    at parse (/Volumes/data/wsbb.web.server/node_modules/_@babel_parser@7.12.3@@babel/parser/lib/index.js:13381:38)
+    at parser (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/parser/index.js:54:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/normalize-file.js:99:38)
+    at normalizeFile.next (<anonymous>)
+    at run (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transformation/index.js:31:50)
+    at run.next (<anonymous>)
+    at Function.transform (/Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/transform.js:27:41)
+    at transform.next (<anonymous>)
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:261:32)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:189:28
+    at /Volumes/data/wsbb.web.server/node_modules/_@babel_core@7.12.3@@babel/core/lib/gensync-utils/async.js:72:7
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:113:33
+    at step (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:287:14)
+    at /Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:273:13
+    at async.call.result.err.err (/Volumes/data/wsbb.web.server/node_modules/_gensync@1.0.0-beta.2@gensync/index.js:223:11)
+    at eval (webpack-internal:///./web/entry.tsx:1:7)
+    at Object../web/entry.tsx (/Volumes/data/wsbb.web.server/output/Page.server.js:97:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+    at /Volumes/data/wsbb.web.server/output/Page.server.js:85:18
+    at Object.<anonymous> (/Volumes/data/wsbb.web.server/output/Page.server.js:88:10)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+2020-10-30 21:45:26,180 ERROR 19333 [-/::1/-/67ms GET /faqs] Page Controller renderToStream Error /Volumes/data/wsbb.web.server/node_modules/_antd-mobile@2.3.4@antd-mobile/es/nav-bar/index.js:1
+import _extends from 'babel-runtime/helpers/extends';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at wrapSafe (internal/modules/cjs/loader.js:931:16)
+    at Module._compile (internal/modules/cjs/loader.js:979:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at eval (webpack-internal:///antd-mobile/es/nav-bar:1:18)
+    at Object.antd-mobile/es/nav-bar (/Volumes/data/wsbb.web.server/output/Page.server.js:337:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+2020-10-30 21:45:26,806 ERROR 19333 [-/::1/-/6ms GET /faqs] Page Controller renderToStream Error /Volumes/data/wsbb.web.server/node_modules/_antd-mobile@2.3.4@antd-mobile/es/nav-bar/index.js:1
+import _extends from 'babel-runtime/helpers/extends';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at wrapSafe (internal/modules/cjs/loader.js:931:16)
+    at Module._compile (internal/modules/cjs/loader.js:979:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at eval (webpack-internal:///antd-mobile/es/nav-bar:1:18)
+    at Object.antd-mobile/es/nav-bar (/Volumes/data/wsbb.web.server/output/Page.server.js:337:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+2020-10-30 21:45:26,970 ERROR 19333 [-/::1/-/5ms GET /faqs] Page Controller renderToStream Error /Volumes/data/wsbb.web.server/node_modules/_antd-mobile@2.3.4@antd-mobile/es/nav-bar/index.js:1
+import _extends from 'babel-runtime/helpers/extends';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at wrapSafe (internal/modules/cjs/loader.js:931:16)
+    at Module._compile (internal/modules/cjs/loader.js:979:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at eval (webpack-internal:///antd-mobile/es/nav-bar:1:18)
+    at Object.antd-mobile/es/nav-bar (/Volumes/data/wsbb.web.server/output/Page.server.js:337:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+2020-10-30 21:45:27,132 ERROR 19333 [-/::1/-/6ms GET /faqs] Page Controller renderToStream Error /Volumes/data/wsbb.web.server/node_modules/_antd-mobile@2.3.4@antd-mobile/es/nav-bar/index.js:1
+import _extends from 'babel-runtime/helpers/extends';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at wrapSafe (internal/modules/cjs/loader.js:931:16)
+    at Module._compile (internal/modules/cjs/loader.js:979:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at eval (webpack-internal:///antd-mobile/es/nav-bar:1:18)
+    at Object.antd-mobile/es/nav-bar (/Volumes/data/wsbb.web.server/output/Page.server.js:337:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+2020-10-30 22:08:12,982 ERROR 19370 [-/::1/-/12ms GET /faqs] Page Controller renderToStream Error Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: /Volumes/data/wsbb.web.server/node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js
+require() of ES modules is not supported.
+require() of /Volumes/data/wsbb.web.server/node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js from /Volumes/data/wsbb.web.server/output/Page.server.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename objectWithoutPropertiesLoose.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from /Volumes/data/wsbb.web.server/node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1031:13)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at eval (webpack-internal:///@babel/runtime/helpers/esm/objectWithoutPropertiesLoose:1:18)
+    at Object.@babel/runtime/helpers/esm/objectWithoutPropertiesLoose (/Volumes/data/wsbb.web.server/output/Page.server.js:327:1)
+    at __webpack_require__ (/Volumes/data/wsbb.web.server/output/Page.server.js:21:30)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/objectWithoutProperties.js:3:113)
+    at Module../node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/objectWithoutProperties.js (/Volumes/data/wsbb.web.server/output/Page.server.js:121:1) {
+  code: 'ERR_REQUIRE_ESM'
+}
+2020-10-30 22:48:40,109 ERROR 19604 [-/::1/-/128ms GET /faqs] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:130:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:144:17)
+2020-10-30 22:53:39,109 ERROR 19615 [-/::1/-/211ms GET /faqs?page=1] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:130:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:144:17)
+2020-10-30 22:54:35,682 ERROR 19620 [-/::1/-/198ms GET /faqs?page=1] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:130:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:144:17)
+2020-10-30 22:54:36,286 ERROR 19620 [-/::1/-/47ms GET /faqs?page=1] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:130:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:144:17)
+2020-10-30 22:54:36,636 ERROR 19620 [-/::1/-/51ms GET /faqs?page=1] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:130:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:144:17)
+2020-10-30 22:54:36,821 ERROR 19620 [-/::1/-/45ms GET /faqs?page=1] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:130:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:144:17)
+2020-10-30 22:54:37,045 ERROR 19620 [-/::1/-/66ms GET /faqs?page=1] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:130:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:144:17)
+2020-10-30 22:57:26,458 ERROR 19632 [-/::1/-/240ms GET /faqs?page=1] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:130:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:144:17)
+2020-10-30 22:57:27,122 ERROR 19632 [-/::1/-/45ms GET /faqs?page=1] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:130:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:144:17)
+2020-10-30 22:57:58,382 ERROR 19633 [-/::1/-/200ms GET /faqs?page=1] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:130:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:144:17)
+2020-10-30 23:13:11,603 ERROR 19681 [-/::1/-/100ms GET /faqs?page=1] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:130:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:144:17)
+2020-10-30 23:13:12,275 ERROR 19681 [-/::1/-/6ms GET /faqs?page=1] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:130:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:144:17)
+2020-10-30 23:13:12,489 ERROR 19681 [-/::1/-/6ms GET /faqs?page=1] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:130:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:144:17)
+2020-10-30 23:13:12,675 ERROR 19681 [-/::1/-/7ms GET /faqs?page=1] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:130:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:144:17)
+2020-10-30 23:13:12,810 ERROR 19681 [-/::1/-/5ms GET /faqs?page=1] Page Controller renderToStream Error TypeError: ctx.apiService is not a function
+    at _callee$ (webpack-internal:///./web/page/faqs/index.tsx:130:31)
+    at tryCatch (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:63:40)
+    at Generator.invoke [as _invoke] (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:293:22)
+    at Generator.next (/Volumes/data/wsbb.web.server/node_modules/_regenerator-runtime@0.13.7@regenerator-runtime/runtime.js:118:21)
+    at asyncGeneratorStep (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:5:24)
+    at _next (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:27:9)
+    at eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:34:7)
+    at new Promise (<anonymous>)
+    at Function.eval (webpack-internal:///./node_modules/_@babel_runtime@7.12.1@@babel/runtime/helpers/esm/asyncToGenerator.js:23:12)
+    at Function.eval [as getInitialProps] (webpack-internal:///./web/page/faqs/index.tsx:144:17)
+2020-10-31 01:29:28,651 ERROR 19599 nodejs.ClusterClientNoResponseError: client no response in 8139073ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/data/wsbb.web.server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 19599
+hostname: peter-MacBook-Pro.local
+

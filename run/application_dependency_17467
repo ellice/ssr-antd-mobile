@@ -1,0 +1,26 @@
+digraph G {
+  "api" [ label = "api(Api)
+scope:Request", fontsize = 10 ];
+  "ctx";
+  "ApiService" [ label = "ApiService(ApiService)
+scope:Request", fontsize = 10 ];
+  "faqs" [ label = "faqs(Faqs)
+scope:Request", fontsize = 10 ];
+  "page" [ label = "page(Page)
+scope:Request", fontsize = 10 ];
+  "user" [ label = "user(User)
+scope:Request", fontsize = 10 ];
+  "test" [ label = "test(Test)
+scope:Request", fontsize = 10 ];
+  "faqsService" [ label = "faqsService(FaqsService)
+scope:Request", fontsize = 10 ];
+  "api" -> "ctx" [ label = "properties", fontsize = 8 ];
+  "api" -> "ApiService" [ label = "properties", fontsize = 8 ];
+  "faqs" -> "ctx" [ label = "properties", fontsize = 8 ];
+  "faqs" -> "ApiService" [ label = "properties", fontsize = 8 ];
+  "page" -> "ctx" [ label = "properties", fontsize = 8 ];
+  "page" -> "ApiService" [ label = "properties", fontsize = 8 ];
+  "user" -> "ctx" [ label = "properties", fontsize = 8 ];
+  "test" -> "ctx" [ label = "properties", fontsize = 8 ];
+  "test" -> "faqsService" [ label = "properties", fontsize = 8 ];
+}

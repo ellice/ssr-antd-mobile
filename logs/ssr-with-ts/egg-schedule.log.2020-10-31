@@ -1,0 +1,9 @@
+2020-10-31 09:59:22,006 INFO 19599 [Timer] /Volumes/data/wsbb.web.server/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 66638033ms at 2020-11-01 04:30:00.034
+2020-10-31 09:59:22,126 INFO 19681 [Job#16041095619207426895731260411] /Volumes/data/wsbb.web.server/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js executing by app
+2020-10-31 09:59:22,236 INFO 19681 [Job#16041095619207426895731260411] /Volumes/data/wsbb.web.server/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js execute succeed, used 101ms. 
+2020-11-01 00:00:18,252 INFO 19681 [Job#16041600182507931276632073242] /Volumes/data/wsbb.web.server/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js executing by app
+2020-11-01 00:00:18,256 INFO 19681 [Job#16041600182507931276632073242] /Volumes/data/wsbb.web.server/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js execute succeed, used 4ms. 
+2020-11-01 00:00:18,255 INFO 19599 [Timer] /Volumes/data/wsbb.web.server/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 86381749ms at 2020-11-02 00:00:00.004
+2020-11-01 00:00:19,249 INFO 19681 [Job#16041600192487931286613856662] /Volumes/data/wsbb.web.server/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2020-11-01 00:00:19,252 INFO 19681 [Job#16041600192487931286613856662] /Volumes/data/wsbb.web.server/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 3ms. 
+2020-11-01 00:00:19,251 INFO 19599 [Timer] /Volumes/data/wsbb.web.server/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 86381752ms at 2020-11-02 00:00:01.003
